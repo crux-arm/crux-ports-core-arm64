@@ -1,0 +1,51 @@
+# Description: The C library used in the GNU system
+# URL: http://www.gnu.org/software/libc/
+# Maintainer: CRUX System Team, core-ports at crux dot nu
+# Arch Maintainer: CRUX-ARM System Team, devel at crux-arm dot nu
+# Depends on:
+
+name=glibc
+version=2.22
+release=1
+source=(http://ftp.gnu.org/gnu/glibc/glibc-$version.tar.xz \
+        http://ftp.kernel.org/pub/linux/kernel/v4.x/linux-4.1.13.tar.xz \
+        hosts resolv.conf nsswitch.conf host.conf ld.so.conf)
+
+build() {
+  # install kernel headers
+  cd linux-4.1.13
+  make mrproper
+  make ARCH=arm64 headers_check
+  make ARCH=arm64 INSTALL_HDR_PATH=$PKG/usr headers_install
+
+  mkdir $SRC/build
+  cd $SRC/build
+  ../$name-$version/configure --prefix=/usr \
+                              --build=aarch64-unknown-linux-gnueabi \
+                              --libexecdir=/usr/lib \
+                              --with-headers=$PKG/usr/include \
+                              --enable-kernel=2.6.25 \
+                              --enable-add-ons \
+                              --enable-static-nss \
+                              --disable-profile \
+                              --disable-werror \
+                              --without-gd \
+                              --enable-obsolete-rpc
+
+  make
+  make install_root=$PKG install
+
+  install -m 0644 $SRC/$name-$version/nscd/nscd.conf $PKG/etc
+  install -d $PKG/var/{db,run}/nscd
+
+  install -m 0644 $SRC/{hosts,resolv.conf,nsswitch.conf,host.conf,ld.so.conf} $PKG/etc
+
+  ln -sf ../usr/share/zoneinfo/UTC $PKG/etc/localtime
+	ln -s stubs-hard.h $PKG/usr/include/gnu/stubs-soft.h
+  install -d $PKG/etc/ld.so.conf.d $PKG/usr/lib/locale
+  touch $PKG/etc/ld.so.cache
+
+  rm -rf $PKG/usr/share/{info,locale} \
+        $PKG/usr/bin/tzselect \
+        $PKG/usr/sbin/z{dump,ic}
+}
