@@ -6,7 +6,7 @@
 
 name=binutils
 version=2.25.1
-release=2
+release=3
 source=(ftp://ftp.gnu.org/gnu/$name/$name-$version.tar.bz2)
 
 build() {
