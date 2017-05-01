@@ -10,53 +10,53 @@ lrwxrwxrwx	root/root	etc/localtime -> ../usr/share/zoneinfo/UTC
 -rw-r--r--	root/root	etc/resolv.conf
 -rw-r--r--	root/root	etc/rpc
 drwxr-xr-x	root/root	lib/
-lrwxrwxrwx	root/root	lib/ld-linux-aarch64.so.1 -> ../lib64/ld-2.22.so
+lrwxrwxrwx	root/root	lib/ld-linux-aarch64.so.1 -> ../lib64/ld-2.24.so
 drwxr-xr-x	root/root	lib64/
--rwxr-xr-x	root/root	lib64/ld-2.22.so
-lrwxrwxrwx	root/root	lib64/ld-linux-aarch64.so.1 -> ld-2.22.so
--rwxr-xr-x	root/root	lib64/libBrokenLocale-2.22.so
-lrwxrwxrwx	root/root	lib64/libBrokenLocale.so.1 -> libBrokenLocale-2.22.so
+-rwxr-xr-x	root/root	lib64/ld-2.24.so
+lrwxrwxrwx	root/root	lib64/ld-linux-aarch64.so.1 -> ld-2.24.so
+-rwxr-xr-x	root/root	lib64/libBrokenLocale-2.24.so
+lrwxrwxrwx	root/root	lib64/libBrokenLocale.so.1 -> libBrokenLocale-2.24.so
 -rwxr-xr-x	root/root	lib64/libSegFault.so
--rwxr-xr-x	root/root	lib64/libanl-2.22.so
-lrwxrwxrwx	root/root	lib64/libanl.so.1 -> libanl-2.22.so
--rwxr-xr-x	root/root	lib64/libc-2.22.so
-lrwxrwxrwx	root/root	lib64/libc.so.6 -> libc-2.22.so
--rwxr-xr-x	root/root	lib64/libcidn-2.22.so
-lrwxrwxrwx	root/root	lib64/libcidn.so.1 -> libcidn-2.22.so
--rwxr-xr-x	root/root	lib64/libcrypt-2.22.so
-lrwxrwxrwx	root/root	lib64/libcrypt.so.1 -> libcrypt-2.22.so
--rwxr-xr-x	root/root	lib64/libdl-2.22.so
-lrwxrwxrwx	root/root	lib64/libdl.so.2 -> libdl-2.22.so
--rwxr-xr-x	root/root	lib64/libm-2.22.so
-lrwxrwxrwx	root/root	lib64/libm.so.6 -> libm-2.22.so
+-rwxr-xr-x	root/root	lib64/libanl-2.24.so
+lrwxrwxrwx	root/root	lib64/libanl.so.1 -> libanl-2.24.so
+-rwxr-xr-x	root/root	lib64/libc-2.24.so
+lrwxrwxrwx	root/root	lib64/libc.so.6 -> libc-2.24.so
+-rwxr-xr-x	root/root	lib64/libcidn-2.24.so
+lrwxrwxrwx	root/root	lib64/libcidn.so.1 -> libcidn-2.24.so
+-rwxr-xr-x	root/root	lib64/libcrypt-2.24.so
+lrwxrwxrwx	root/root	lib64/libcrypt.so.1 -> libcrypt-2.24.so
+-rwxr-xr-x	root/root	lib64/libdl-2.24.so
+lrwxrwxrwx	root/root	lib64/libdl.so.2 -> libdl-2.24.so
+-rwxr-xr-x	root/root	lib64/libm-2.24.so
+lrwxrwxrwx	root/root	lib64/libm.so.6 -> libm-2.24.so
 -rwxr-xr-x	root/root	lib64/libmemusage.so
--rwxr-xr-x	root/root	lib64/libnsl-2.22.so
-lrwxrwxrwx	root/root	lib64/libnsl.so.1 -> libnsl-2.22.so
--rwxr-xr-x	root/root	lib64/libnss_compat-2.22.so
-lrwxrwxrwx	root/root	lib64/libnss_compat.so.2 -> libnss_compat-2.22.so
--rwxr-xr-x	root/root	lib64/libnss_db-2.22.so
-lrwxrwxrwx	root/root	lib64/libnss_db.so.2 -> libnss_db-2.22.so
--rwxr-xr-x	root/root	lib64/libnss_dns-2.22.so
-lrwxrwxrwx	root/root	lib64/libnss_dns.so.2 -> libnss_dns-2.22.so
--rwxr-xr-x	root/root	lib64/libnss_files-2.22.so
-lrwxrwxrwx	root/root	lib64/libnss_files.so.2 -> libnss_files-2.22.so
--rwxr-xr-x	root/root	lib64/libnss_hesiod-2.22.so
-lrwxrwxrwx	root/root	lib64/libnss_hesiod.so.2 -> libnss_hesiod-2.22.so
--rwxr-xr-x	root/root	lib64/libnss_nis-2.22.so
-lrwxrwxrwx	root/root	lib64/libnss_nis.so.2 -> libnss_nis-2.22.so
--rwxr-xr-x	root/root	lib64/libnss_nisplus-2.22.so
-lrwxrwxrwx	root/root	lib64/libnss_nisplus.so.2 -> libnss_nisplus-2.22.so
+-rwxr-xr-x	root/root	lib64/libnsl-2.24.so
+lrwxrwxrwx	root/root	lib64/libnsl.so.1 -> libnsl-2.24.so
+-rwxr-xr-x	root/root	lib64/libnss_compat-2.24.so
+lrwxrwxrwx	root/root	lib64/libnss_compat.so.2 -> libnss_compat-2.24.so
+-rwxr-xr-x	root/root	lib64/libnss_db-2.24.so
+lrwxrwxrwx	root/root	lib64/libnss_db.so.2 -> libnss_db-2.24.so
+-rwxr-xr-x	root/root	lib64/libnss_dns-2.24.so
+lrwxrwxrwx	root/root	lib64/libnss_dns.so.2 -> libnss_dns-2.24.so
+-rwxr-xr-x	root/root	lib64/libnss_files-2.24.so
+lrwxrwxrwx	root/root	lib64/libnss_files.so.2 -> libnss_files-2.24.so
+-rwxr-xr-x	root/root	lib64/libnss_hesiod-2.24.so
+lrwxrwxrwx	root/root	lib64/libnss_hesiod.so.2 -> libnss_hesiod-2.24.so
+-rwxr-xr-x	root/root	lib64/libnss_nis-2.24.so
+lrwxrwxrwx	root/root	lib64/libnss_nis.so.2 -> libnss_nis-2.24.so
+-rwxr-xr-x	root/root	lib64/libnss_nisplus-2.24.so
+lrwxrwxrwx	root/root	lib64/libnss_nisplus.so.2 -> libnss_nisplus-2.24.so
 -rwxr-xr-x	root/root	lib64/libpcprofile.so
--rwxr-xr-x	root/root	lib64/libpthread-2.22.so
-lrwxrwxrwx	root/root	lib64/libpthread.so.0 -> libpthread-2.22.so
--rwxr-xr-x	root/root	lib64/libresolv-2.22.so
-lrwxrwxrwx	root/root	lib64/libresolv.so.2 -> libresolv-2.22.so
--rwxr-xr-x	root/root	lib64/librt-2.22.so
-lrwxrwxrwx	root/root	lib64/librt.so.1 -> librt-2.22.so
+-rwxr-xr-x	root/root	lib64/libpthread-2.24.so
+lrwxrwxrwx	root/root	lib64/libpthread.so.0 -> libpthread-2.24.so
+-rwxr-xr-x	root/root	lib64/libresolv-2.24.so
+lrwxrwxrwx	root/root	lib64/libresolv.so.2 -> libresolv-2.24.so
+-rwxr-xr-x	root/root	lib64/librt-2.24.so
+lrwxrwxrwx	root/root	lib64/librt.so.1 -> librt-2.24.so
 -rwxr-xr-x	root/root	lib64/libthread_db-1.0.so
 lrwxrwxrwx	root/root	lib64/libthread_db.so.1 -> libthread_db-1.0.so
--rwxr-xr-x	root/root	lib64/libutil-2.22.so
-lrwxrwxrwx	root/root	lib64/libutil.so.1 -> libutil-2.22.so
+-rwxr-xr-x	root/root	lib64/libutil-2.24.so
+lrwxrwxrwx	root/root	lib64/libutil.so.1 -> libutil-2.24.so
 drwxr-xr-x	root/root	sbin/
 -rwxr-xr-x	root/root	sbin/ldconfig
 -rwxr-xr-x	root/root	sbin/sln
@@ -203,7 +203,6 @@ drwxr-xr-x	root/root	usr/include/bits/
 -rw-r--r--	root/root	usr/include/bits/ioctls.h
 -rw-r--r--	root/root	usr/include/bits/ipc.h
 -rw-r--r--	root/root	usr/include/bits/ipctypes.h
--rw-r--r--	root/root	usr/include/bits/libc-lock.h
 -rw-r--r--	root/root	usr/include/bits/libio-ldbl.h
 -rw-r--r--	root/root	usr/include/bits/libm-simd-decl-stubs.h
 -rw-r--r--	root/root	usr/include/bits/link.h
@@ -256,7 +255,6 @@ drwxr-xr-x	root/root	usr/include/bits/
 -rw-r--r--	root/root	usr/include/bits/statfs.h
 -rw-r--r--	root/root	usr/include/bits/statvfs.h
 -rw-r--r--	root/root	usr/include/bits/stdio-ldbl.h
--rw-r--r--	root/root	usr/include/bits/stdio-lock.h
 -rw-r--r--	root/root	usr/include/bits/stdio.h
 -rw-r--r--	root/root	usr/include/bits/stdio2.h
 -rw-r--r--	root/root	usr/include/bits/stdio_lim.h
@@ -1256,7 +1254,6 @@ drwxr-xr-x	root/root	usr/include/sys/
 -rw-r--r--	root/root	usr/include/sys/ioctl.h
 -rw-r--r--	root/root	usr/include/sys/ipc.h
 -rw-r--r--	root/root	usr/include/sys/kd.h
--rw-r--r--	root/root	usr/include/sys/kdaemon.h
 -rw-r--r--	root/root	usr/include/sys/klog.h
 -rw-r--r--	root/root	usr/include/sys/mman.h
 -rw-r--r--	root/root	usr/include/sys/mount.h
@@ -1958,6 +1955,7 @@ drwxr-xr-x	root/root	usr/share/i18n/locales/
 -rw-r--r--	root/root	usr/share/i18n/locales/ca_FR
 -rw-r--r--	root/root	usr/share/i18n/locales/ca_IT
 -rw-r--r--	root/root	usr/share/i18n/locales/ce_RU
+-rw-r--r--	root/root	usr/share/i18n/locales/chr_US
 -rw-r--r--	root/root	usr/share/i18n/locales/cmn_TW
 -rw-r--r--	root/root	usr/share/i18n/locales/crh_UA
 -rw-r--r--	root/root	usr/share/i18n/locales/cs_CZ
@@ -1972,6 +1970,8 @@ drwxr-xr-x	root/root	usr/share/i18n/locales/
 -rw-r--r--	root/root	usr/share/i18n/locales/de_CH
 -rw-r--r--	root/root	usr/share/i18n/locales/de_DE
 -rw-r--r--	root/root	usr/share/i18n/locales/de_DE@euro
+-rw-r--r--	root/root	usr/share/i18n/locales/de_IT
+-rw-r--r--	root/root	usr/share/i18n/locales/de_LI
 -rw-r--r--	root/root	usr/share/i18n/locales/de_LU
 -rw-r--r--	root/root	usr/share/i18n/locales/de_LU@euro
 -rw-r--r--	root/root	usr/share/i18n/locales/doi_IN
@@ -1989,6 +1989,7 @@ drwxr-xr-x	root/root	usr/share/i18n/locales/
 -rw-r--r--	root/root	usr/share/i18n/locales/en_HK
 -rw-r--r--	root/root	usr/share/i18n/locales/en_IE
 -rw-r--r--	root/root	usr/share/i18n/locales/en_IE@euro
+-rw-r--r--	root/root	usr/share/i18n/locales/en_IL
 -rw-r--r--	root/root	usr/share/i18n/locales/en_IN
 -rw-r--r--	root/root	usr/share/i18n/locales/en_NG
 -rw-r--r--	root/root	usr/share/i18n/locales/en_NZ
@@ -1998,6 +1999,7 @@ drwxr-xr-x	root/root	usr/share/i18n/locales/
 -rw-r--r--	root/root	usr/share/i18n/locales/en_ZA
 -rw-r--r--	root/root	usr/share/i18n/locales/en_ZM
 -rw-r--r--	root/root	usr/share/i18n/locales/en_ZW
+-rw-r--r--	root/root	usr/share/i18n/locales/eo
 -rw-r--r--	root/root	usr/share/i18n/locales/es_AR
 -rw-r--r--	root/root	usr/share/i18n/locales/es_BO
 -rw-r--r--	root/root	usr/share/i18n/locales/es_CL
@@ -2074,7 +2076,6 @@ drwxr-xr-x	root/root	usr/share/i18n/locales/
 -rw-r--r--	root/root	usr/share/i18n/locales/it_IT
 -rw-r--r--	root/root	usr/share/i18n/locales/it_IT@euro
 -rw-r--r--	root/root	usr/share/i18n/locales/iu_CA
--rw-r--r--	root/root	usr/share/i18n/locales/iw_IL
 -rw-r--r--	root/root	usr/share/i18n/locales/ja_JP
 -rw-r--r--	root/root	usr/share/i18n/locales/ka_GE
 -rw-r--r--	root/root	usr/share/i18n/locales/kk_KZ
@@ -2093,6 +2094,7 @@ drwxr-xr-x	root/root	usr/share/i18n/locales/
 -rw-r--r--	root/root	usr/share/i18n/locales/li_BE
 -rw-r--r--	root/root	usr/share/i18n/locales/li_NL
 -rw-r--r--	root/root	usr/share/i18n/locales/lij_IT
+-rw-r--r--	root/root	usr/share/i18n/locales/ln_CD
 -rw-r--r--	root/root	usr/share/i18n/locales/lo_LA
 -rw-r--r--	root/root	usr/share/i18n/locales/lt_LT
 -rw-r--r--	root/root	usr/share/i18n/locales/lv_LV
@@ -2134,7 +2136,6 @@ drwxr-xr-x	root/root	usr/share/i18n/locales/
 -rw-r--r--	root/root	usr/share/i18n/locales/os_RU
 -rw-r--r--	root/root	usr/share/i18n/locales/pa_IN
 -rw-r--r--	root/root	usr/share/i18n/locales/pa_PK
--rw-r--r--	root/root	usr/share/i18n/locales/pap_AN
 -rw-r--r--	root/root	usr/share/i18n/locales/pap_AW
 -rw-r--r--	root/root	usr/share/i18n/locales/pap_CW
 -rw-r--r--	root/root	usr/share/i18n/locales/pl_PL
@@ -2154,6 +2155,7 @@ drwxr-xr-x	root/root	usr/share/i18n/locales/
 -rw-r--r--	root/root	usr/share/i18n/locales/sd_IN
 -rw-r--r--	root/root	usr/share/i18n/locales/sd_IN@devanagari
 -rw-r--r--	root/root	usr/share/i18n/locales/se_NO
+-rw-r--r--	root/root	usr/share/i18n/locales/sgs_LT
 -rw-r--r--	root/root	usr/share/i18n/locales/shs_CA
 -rw-r--r--	root/root	usr/share/i18n/locales/si_LK
 -rw-r--r--	root/root	usr/share/i18n/locales/sid_ET
