@@ -5,10 +5,10 @@
 # Depends on:
 
 name=glibc
-version=2.22
+version=2.24
 release=1
 source=(http://ftp.gnu.org/gnu/glibc/glibc-$version.tar.xz \
-        http://ftp.kernel.org/pub/linux/kernel/v4.x/linux-4.1.13.tar.xz \
+        http://kernel.org/pub/linux/kernel/v4.x/linux-4.1.13.tar.xz \
         hosts resolv.conf nsswitch.conf host.conf ld.so.conf)
 
 build() {
