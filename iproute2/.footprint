@@ -52,12 +52,18 @@ drwxr-xr-x	root/root	usr/share/man/man8/
 -rw-r--r--	root/root	usr/share/man/man8/arpd.8.gz
 -rw-r--r--	root/root	usr/share/man/man8/bridge.8.gz
 -rw-r--r--	root/root	usr/share/man/man8/ctstat.8.gz
+-rw-r--r--	root/root	usr/share/man/man8/devlink-dev.8.gz
+-rw-r--r--	root/root	usr/share/man/man8/devlink-monitor.8.gz
+-rw-r--r--	root/root	usr/share/man/man8/devlink-port.8.gz
+-rw-r--r--	root/root	usr/share/man/man8/devlink-sb.8.gz
+-rw-r--r--	root/root	usr/share/man/man8/devlink.8.gz
 -rw-r--r--	root/root	usr/share/man/man8/ip-address.8.gz
 -rw-r--r--	root/root	usr/share/man/man8/ip-addrlabel.8.gz
 -rw-r--r--	root/root	usr/share/man/man8/ip-fou.8.gz
 -rw-r--r--	root/root	usr/share/man/man8/ip-gue.8.gz
 -rw-r--r--	root/root	usr/share/man/man8/ip-l2tp.8.gz
 -rw-r--r--	root/root	usr/share/man/man8/ip-link.8.gz
+-rw-r--r--	root/root	usr/share/man/man8/ip-macsec.8.gz
 -rw-r--r--	root/root	usr/share/man/man8/ip-maddress.8.gz
 -rw-r--r--	root/root	usr/share/man/man8/ip-monitor.8.gz
 -rw-r--r--	root/root	usr/share/man/man8/ip-mroute.8.gz
@@ -100,6 +106,8 @@ drwxr-xr-x	root/root	usr/share/man/man8/
 -rw-r--r--	root/root	usr/share/man/man8/tc-fw.8.gz
 -rw-r--r--	root/root	usr/share/man/man8/tc-hfsc.8.gz
 -rw-r--r--	root/root	usr/share/man/man8/tc-htb.8.gz
+-rw-r--r--	root/root	usr/share/man/man8/tc-ife.8.gz
+-rw-r--r--	root/root	usr/share/man/man8/tc-matchall.8.gz
 -rw-r--r--	root/root	usr/share/man/man8/tc-mirred.8.gz
 -rw-r--r--	root/root	usr/share/man/man8/tc-mqprio.8.gz
 -rw-r--r--	root/root	usr/share/man/man8/tc-nat.8.gz
