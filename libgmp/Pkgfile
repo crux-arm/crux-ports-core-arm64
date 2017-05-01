@@ -5,7 +5,7 @@
 # Depends on:
 
 name=libgmp
-version=6.1.1
+version=6.1.2
 release=1
 source=(ftp://ftp.gmplib.org/pub/gmp-${version%a}/gmp-$version.tar.xz)
 
