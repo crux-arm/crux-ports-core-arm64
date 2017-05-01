@@ -4,7 +4,7 @@
 # Depends on: db iptables
 
 name=iproute2
-version=4.6.0
+version=4.9.0
 release=1
 source=(https://www.kernel.org/pub/linux/utils/net/$name/$name-$version.tar.xz \
         lo.iproute2 net.iproute2)
