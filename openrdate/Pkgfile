@@ -4,12 +4,14 @@
 
 name=openrdate
 version=1.2
-release=2
+release=3
 source=(http://downloads.sourceforge.net/project/$name/$name/$name-$version.tar.gz/$name-$version.tar.gz 
-        rdate)
+        rdate ntpleaps.patch)
 
 build() {
   cd $name-$version
+  # FS1462
+  patch -p1 -i $SRC/ntpleaps.patch
   ./configure --prefix=/usr \
               --build=arm-unknown-linux-gnueabi
   make
