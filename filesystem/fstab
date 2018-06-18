@@ -3,7 +3,7 @@
 #
 # <file system>        <dir>     <type>    <options>                        <dump> <pass>
 
-#/dev/#EXT4FS_ROOT#    /         ext4      defaults                         0      0
+#/dev/#EXT4FS_ROOT#    /         ext4      defaults                         0      1
 #/dev/#BTRFS_ROOT#     /         btrfs     defaults                         0      0
 #/dev/#XFS_ROOT#       /         xfs       defaults                         0      0
 #/dev/#SWAP#           swap      swap      defaults                         0      0
