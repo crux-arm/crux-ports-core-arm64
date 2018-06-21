@@ -5,26 +5,22 @@
 # Depends on:
 
 name=glibc
-version=2.24
-release=10
-source=(http://ftpmirror.gnu.org/gnu/glibc/glibc-2.24.tar.xz \
-        http://www.kernel.org/pub/linux/kernel/v4.x/linux-4.1.13.tar.xz \
-        hosts resolv.conf nsswitch.conf host.conf ld.so.conf \
-        glibc-2.24-10.patch)
+version=2.27
+release=1
+source=(http://ftp.gnu.org/gnu/glibc/glibc-$version.tar.xz \
+        http://www.kernel.org/pub/linux/kernel/v4.x/linux-4.14.14.tar.xz \
+        hosts resolv.conf nsswitch.conf host.conf ld.so.conf)
 
 build() {
   # install kernel headers
-  cd linux-4.1.13
+  cd linux-4.14.14
   make mrproper
   make ARCH=arm64 headers_check
   make ARCH=arm64 INSTALL_HDR_PATH=$PKG/usr headers_install
 
-  patch -p1 -d $SRC/$name-${version:0:4} -i $SRC/glibc-2.24-10.patch
-
   mkdir $SRC/build
   cd $SRC/build
   ../$name-${version:0:4}/configure --prefix=/usr \
-                              --build=aarch64-unknown-linux-gnueabi \
                               --libexecdir=/usr/lib \
                               --with-headers=$PKG/usr/include \
                               --enable-kernel=2.6.25 \
@@ -33,7 +29,8 @@ build() {
                               --disable-profile \
                               --disable-werror \
                               --without-gd \
-                              --enable-obsolete-rpc
+                              --enable-obsolete-rpc \
+                              --enable-obsolete-nsl
 
   make
   #make check
