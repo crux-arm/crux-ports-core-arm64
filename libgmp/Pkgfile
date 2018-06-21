@@ -12,8 +12,8 @@ source=(ftp://ftp.gmplib.org/pub/gmp-${version%a}/gmp-$version.tar.xz)
 build() {
   cd gmp-${version%a}
   ./configure --prefix=/usr \
-              --enable-cxx \
-              --build=aarch64-unknown-linux-gnueabi
+              --enable-cxx
+
   make
   make DESTDIR=$PKG install
   rm -r $PKG/usr/share
