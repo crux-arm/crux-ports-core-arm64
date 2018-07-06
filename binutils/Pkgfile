@@ -21,6 +21,7 @@ build() {
                               --enable-ld=default \
                               --enable-gold=yes \
                               --enable-plugins \
+                              --enable-install-libiberty \
                               --disable-werror
 
   make tooldir=/usr
