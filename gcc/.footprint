@@ -1282,80 +1282,79 @@ lrwxrwxrwx	root/root	usr/lib/gcc/aarch64-unknown-linux-gnu/7.3.0/plugin/libcc1pl
 lrwxrwxrwx	root/root	usr/lib/gcc/aarch64-unknown-linux-gnu/7.3.0/plugin/libcp1plugin.so -> libcp1plugin.so.0.0.0
 lrwxrwxrwx	root/root	usr/lib/gcc/aarch64-unknown-linux-gnu/7.3.0/plugin/libcp1plugin.so.0 -> libcp1plugin.so.0.0.0
 -rwxr-xr-x	root/root	usr/lib/gcc/aarch64-unknown-linux-gnu/7.3.0/plugin/libcp1plugin.so.0.0.0
-drwxr-xr-x	root/root	usr/lib64/
--rw-r--r--	root/root	usr/lib64/libasan.a
--rwxr-xr-x	root/root	usr/lib64/libasan.la
-lrwxrwxrwx	root/root	usr/lib64/libasan.so -> libasan.so.4.0.0
-lrwxrwxrwx	root/root	usr/lib64/libasan.so.4 -> libasan.so.4.0.0
--rwxr-xr-x	root/root	usr/lib64/libasan.so.4.0.0
--rw-r--r--	root/root	usr/lib64/libasan_preinit.o
--rw-r--r--	root/root	usr/lib64/libatomic.a
--rwxr-xr-x	root/root	usr/lib64/libatomic.la
-lrwxrwxrwx	root/root	usr/lib64/libatomic.so -> libatomic.so.1.2.0
-lrwxrwxrwx	root/root	usr/lib64/libatomic.so.1 -> libatomic.so.1.2.0
--rwxr-xr-x	root/root	usr/lib64/libatomic.so.1.2.0
--rwxr-xr-x	root/root	usr/lib64/libcc1.la
-lrwxrwxrwx	root/root	usr/lib64/libcc1.so -> libcc1.so.0.0.0
-lrwxrwxrwx	root/root	usr/lib64/libcc1.so.0 -> libcc1.so.0.0.0
--rwxr-xr-x	root/root	usr/lib64/libcc1.so.0.0.0
-lrwxrwxrwx	root/root	usr/lib64/libgcc_s.so -> libgcc_s.so.1
--rw-r--r--	root/root	usr/lib64/libgcc_s.so.1
--rw-r--r--	root/root	usr/lib64/libgomp.a
--rwxr-xr-x	root/root	usr/lib64/libgomp.la
-lrwxrwxrwx	root/root	usr/lib64/libgomp.so -> libgomp.so.1.0.0
-lrwxrwxrwx	root/root	usr/lib64/libgomp.so.1 -> libgomp.so.1.0.0
--rwxr-xr-x	root/root	usr/lib64/libgomp.so.1.0.0
--rw-r--r--	root/root	usr/lib64/libgomp.spec
--rw-r--r--	root/root	usr/lib64/libitm.a
--rwxr-xr-x	root/root	usr/lib64/libitm.la
-lrwxrwxrwx	root/root	usr/lib64/libitm.so -> libitm.so.1.0.0
-lrwxrwxrwx	root/root	usr/lib64/libitm.so.1 -> libitm.so.1.0.0
--rwxr-xr-x	root/root	usr/lib64/libitm.so.1.0.0
--rw-r--r--	root/root	usr/lib64/libitm.spec
--rw-r--r--	root/root	usr/lib64/liblsan.a
--rwxr-xr-x	root/root	usr/lib64/liblsan.la
-lrwxrwxrwx	root/root	usr/lib64/liblsan.so -> liblsan.so.0.0.0
-lrwxrwxrwx	root/root	usr/lib64/liblsan.so.0 -> liblsan.so.0.0.0
--rwxr-xr-x	root/root	usr/lib64/liblsan.so.0.0.0
--rw-r--r--	root/root	usr/lib64/libobjc.a
--rwxr-xr-x	root/root	usr/lib64/libobjc.la
-lrwxrwxrwx	root/root	usr/lib64/libobjc.so -> libobjc.so.4.0.0
-lrwxrwxrwx	root/root	usr/lib64/libobjc.so.4 -> libobjc.so.4.0.0
--rwxr-xr-x	root/root	usr/lib64/libobjc.so.4.0.0
--rw-r--r--	root/root	usr/lib64/libsanitizer.spec
--rw-r--r--	root/root	usr/lib64/libssp.a
--rwxr-xr-x	root/root	usr/lib64/libssp.la
-lrwxrwxrwx	root/root	usr/lib64/libssp.so -> libssp.so.0.0.0
-lrwxrwxrwx	root/root	usr/lib64/libssp.so.0 -> libssp.so.0.0.0
--rwxr-xr-x	root/root	usr/lib64/libssp.so.0.0.0
--rw-r--r--	root/root	usr/lib64/libssp_nonshared.a
--rwxr-xr-x	root/root	usr/lib64/libssp_nonshared.la
--rw-r--r--	root/root	usr/lib64/libstdc++.a
--rwxr-xr-x	root/root	usr/lib64/libstdc++.la
-lrwxrwxrwx	root/root	usr/lib64/libstdc++.so -> libstdc++.so.6.0.24
-lrwxrwxrwx	root/root	usr/lib64/libstdc++.so.6 -> libstdc++.so.6.0.24
--rwxr-xr-x	root/root	usr/lib64/libstdc++.so.6.0.24
--rw-r--r--	root/root	usr/lib64/libstdc++fs.a
--rwxr-xr-x	root/root	usr/lib64/libstdc++fs.la
--rw-r--r--	root/root	usr/lib64/libsupc++.a
--rwxr-xr-x	root/root	usr/lib64/libsupc++.la
--rw-r--r--	root/root	usr/lib64/libtsan.a
--rwxr-xr-x	root/root	usr/lib64/libtsan.la
-lrwxrwxrwx	root/root	usr/lib64/libtsan.so -> libtsan.so.0.0.0
-lrwxrwxrwx	root/root	usr/lib64/libtsan.so.0 -> libtsan.so.0.0.0
--rwxr-xr-x	root/root	usr/lib64/libtsan.so.0.0.0
--rw-r--r--	root/root	usr/lib64/libtsan_preinit.o
--rw-r--r--	root/root	usr/lib64/libubsan.a
--rwxr-xr-x	root/root	usr/lib64/libubsan.la
-lrwxrwxrwx	root/root	usr/lib64/libubsan.so -> libubsan.so.0.0.0
-lrwxrwxrwx	root/root	usr/lib64/libubsan.so.0 -> libubsan.so.0.0.0
--rwxr-xr-x	root/root	usr/lib64/libubsan.so.0.0.0
+-rw-r--r--	root/root	usr/lib/libasan.a
+-rwxr-xr-x	root/root	usr/lib/libasan.la
+lrwxrwxrwx	root/root	usr/lib/libasan.so -> libasan.so.4.0.0
+lrwxrwxrwx	root/root	usr/lib/libasan.so.4 -> libasan.so.4.0.0
+-rwxr-xr-x	root/root	usr/lib/libasan.so.4.0.0
+-rw-r--r--	root/root	usr/lib/libasan_preinit.o
+-rw-r--r--	root/root	usr/lib/libatomic.a
+-rwxr-xr-x	root/root	usr/lib/libatomic.la
+lrwxrwxrwx	root/root	usr/lib/libatomic.so -> libatomic.so.1.2.0
+lrwxrwxrwx	root/root	usr/lib/libatomic.so.1 -> libatomic.so.1.2.0
+-rwxr-xr-x	root/root	usr/lib/libatomic.so.1.2.0
+-rwxr-xr-x	root/root	usr/lib/libcc1.la
+lrwxrwxrwx	root/root	usr/lib/libcc1.so -> libcc1.so.0.0.0
+lrwxrwxrwx	root/root	usr/lib/libcc1.so.0 -> libcc1.so.0.0.0
+-rwxr-xr-x	root/root	usr/lib/libcc1.so.0.0.0
+lrwxrwxrwx	root/root	usr/lib/libgcc_s.so -> libgcc_s.so.1
+-rw-r--r--	root/root	usr/lib/libgcc_s.so.1
+-rw-r--r--	root/root	usr/lib/libgomp.a
+-rwxr-xr-x	root/root	usr/lib/libgomp.la
+lrwxrwxrwx	root/root	usr/lib/libgomp.so -> libgomp.so.1.0.0
+lrwxrwxrwx	root/root	usr/lib/libgomp.so.1 -> libgomp.so.1.0.0
+-rwxr-xr-x	root/root	usr/lib/libgomp.so.1.0.0
+-rw-r--r--	root/root	usr/lib/libgomp.spec
+-rw-r--r--	root/root	usr/lib/libitm.a
+-rwxr-xr-x	root/root	usr/lib/libitm.la
+lrwxrwxrwx	root/root	usr/lib/libitm.so -> libitm.so.1.0.0
+lrwxrwxrwx	root/root	usr/lib/libitm.so.1 -> libitm.so.1.0.0
+-rwxr-xr-x	root/root	usr/lib/libitm.so.1.0.0
+-rw-r--r--	root/root	usr/lib/libitm.spec
+-rw-r--r--	root/root	usr/lib/liblsan.a
+-rwxr-xr-x	root/root	usr/lib/liblsan.la
+lrwxrwxrwx	root/root	usr/lib/liblsan.so -> liblsan.so.0.0.0
+lrwxrwxrwx	root/root	usr/lib/liblsan.so.0 -> liblsan.so.0.0.0
+-rwxr-xr-x	root/root	usr/lib/liblsan.so.0.0.0
+-rw-r--r--	root/root	usr/lib/libobjc.a
+-rwxr-xr-x	root/root	usr/lib/libobjc.la
+lrwxrwxrwx	root/root	usr/lib/libobjc.so -> libobjc.so.4.0.0
+lrwxrwxrwx	root/root	usr/lib/libobjc.so.4 -> libobjc.so.4.0.0
+-rwxr-xr-x	root/root	usr/lib/libobjc.so.4.0.0
+-rw-r--r--	root/root	usr/lib/libsanitizer.spec
+-rw-r--r--	root/root	usr/lib/libssp.a
+-rwxr-xr-x	root/root	usr/lib/libssp.la
+lrwxrwxrwx	root/root	usr/lib/libssp.so -> libssp.so.0.0.0
+lrwxrwxrwx	root/root	usr/lib/libssp.so.0 -> libssp.so.0.0.0
+-rwxr-xr-x	root/root	usr/lib/libssp.so.0.0.0
+-rw-r--r--	root/root	usr/lib/libssp_nonshared.a
+-rwxr-xr-x	root/root	usr/lib/libssp_nonshared.la
+-rw-r--r--	root/root	usr/lib/libstdc++.a
+-rwxr-xr-x	root/root	usr/lib/libstdc++.la
+lrwxrwxrwx	root/root	usr/lib/libstdc++.so -> libstdc++.so.6.0.24
+lrwxrwxrwx	root/root	usr/lib/libstdc++.so.6 -> libstdc++.so.6.0.24
+-rwxr-xr-x	root/root	usr/lib/libstdc++.so.6.0.24
+-rw-r--r--	root/root	usr/lib/libstdc++fs.a
+-rwxr-xr-x	root/root	usr/lib/libstdc++fs.la
+-rw-r--r--	root/root	usr/lib/libsupc++.a
+-rwxr-xr-x	root/root	usr/lib/libsupc++.la
+-rw-r--r--	root/root	usr/lib/libtsan.a
+-rwxr-xr-x	root/root	usr/lib/libtsan.la
+lrwxrwxrwx	root/root	usr/lib/libtsan.so -> libtsan.so.0.0.0
+lrwxrwxrwx	root/root	usr/lib/libtsan.so.0 -> libtsan.so.0.0.0
+-rwxr-xr-x	root/root	usr/lib/libtsan.so.0.0.0
+-rw-r--r--	root/root	usr/lib/libtsan_preinit.o
+-rw-r--r--	root/root	usr/lib/libubsan.a
+-rwxr-xr-x	root/root	usr/lib/libubsan.la
+lrwxrwxrwx	root/root	usr/lib/libubsan.so -> libubsan.so.0.0.0
+lrwxrwxrwx	root/root	usr/lib/libubsan.so.0 -> libubsan.so.0.0.0
+-rwxr-xr-x	root/root	usr/lib/libubsan.so.0.0.0
 drwxr-xr-x	root/root	usr/share/
 drwxr-xr-x	root/root	usr/share/gdb/
 drwxr-xr-x	root/root	usr/share/gdb/auto-load/
 drwxr-xr-x	root/root	usr/share/gdb/auto-load/usr/
-drwxr-xr-x	root/root	usr/share/gdb/auto-load/usr/lib64/
--rw-r--r--	root/root	usr/share/gdb/auto-load/usr/lib64/libstdc++.so.6.0.24-gdb.py
+drwxr-xr-x	root/root	usr/share/gdb/auto-load/usr/lib/
+-rw-r--r--	root/root	usr/share/gdb/auto-load/usr/lib/libstdc++.so.6.0.24-gdb.py
 drwxr-xr-x	root/root	usr/share/man/
 drwxr-xr-x	root/root	usr/share/man/man1/
 -rw-r--r--	root/root	usr/share/man/man1/cpp.1.gz
