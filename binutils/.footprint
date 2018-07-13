@@ -202,12 +202,11 @@ drwxr-xr-x	root/root	usr/lib/ldscripts/
 -rw-r--r--	root/root	usr/lib/libbfd.a
 -rwxr-xr-x	root/root	usr/lib/libbfd.la
 lrwxrwxrwx	root/root	usr/lib/libbfd.so -> libbfd-2.29.1.so
+-rw-r--r--	root/root	usr/lib/libiberty.a
 -rwxr-xr-x	root/root	usr/lib/libopcodes-2.29.1.so
 -rw-r--r--	root/root	usr/lib/libopcodes.a
 -rwxr-xr-x	root/root	usr/lib/libopcodes.la
 lrwxrwxrwx	root/root	usr/lib/libopcodes.so -> libopcodes-2.29.1.so
-drwxr-xr-x	root/root	usr/lib64/
--rw-r--r--	root/root	usr/lib64/libiberty.a
 drwxr-xr-x	root/root	usr/share/
 drwxr-xr-x	root/root	usr/share/man/
 drwxr-xr-x	root/root	usr/share/man/man1/
