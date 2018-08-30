@@ -1,12 +1,15 @@
 804bb419e539a70ad80e4c03df3c3411  contrib.pub
 85da0c1d6c822bc6fb20b0ecdd06b3f5  contrib.rsync.inactive
+3efeabfbd7104b1c566b604f802ef0c0  core-arm64.pub
 9d2281b074956b09826c8dcb697c1306  core-arm64.rsync
 b8dd0aad383810cad920d6548cd1cb56  core.pub
 87528a9bc5205ed8589e7964e34571ae  core.rsync
+246bdcd2c5d85192fc45e320174fb121  opt-arm64.pub
 2bcb297c7873bd18e0a8772f567cbcfd  opt-arm64.rsync
 0d1f1fde50a9bd743d9cac6b235f038c  opt.pub
 b1302ff270238b1450c1a025c42fd8e1  opt.rsync
 1f178e2bb1beab9782993931c9832280  ports-1.5.tar.gz
+c56a20ef43a22c8e294d850935f80acd  xorg-arm64.pub
 0408bc71c0eeabdaf977812716f722f8  xorg-arm64.rsync
 69927e5d0ae5dc3455faeaac916c4db2  xorg.pub
 89768ed603f9f19e48de1951191594f8  xorg.rsync
