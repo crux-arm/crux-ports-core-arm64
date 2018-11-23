@@ -1,0 +1,7 @@
+untrusted comment: verify with /etc/ports/core-arm64.pub
+RWSKslkvIwb+2YH25Fas0IVr51bPReywRhzGHVpUprXYiplWrPOGNmqY6XxXQ6+RXtgpYosVkaHlDLaj9qrc5Yvuy0NT22hbxQg=
+SHA256 (Pkgfile) = 9b96a8dddfbf951ecb4f07a7150842a5b4e0441a014e0a435a47a2eee5384d44
+SHA256 (.footprint) = 3e7a94dcd5141fa1579295ebdf9ab71b36b59b752c0e82ff799bac9c96280715
+SHA256 (gcc-7.3.0.tar.xz) = 832ca6ae04636adbb430e865a1451adf6979ab44ca1c8374f61fba65645ce15c
+SHA256 (gcc-nocheck-fixincludes.patch) = 97f78d8c57e28cb8cc5c38f637783187b52ee66709c0cd22d083270aa7e5c05c
+SHA256 (gcc-aarch64-dirs.patch) = 7f6869e18f5c9543f1569e30b9a8ec9713bd2a30e2326974925d2b75201c6ec7
