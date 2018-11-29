@@ -397,6 +397,7 @@ drwxr-xr-x	root/root	usr/include/gnu/
 -rw-r--r--	root/root	usr/include/gnu/lib-names.h
 -rw-r--r--	root/root	usr/include/gnu/libc-version.h
 -rw-r--r--	root/root	usr/include/gnu/stubs-lp64.h
+lrwxrwxrwx	root/root	usr/include/gnu/stubs-soft.h -> stubs-hard.h
 -rw-r--r--	root/root	usr/include/gnu/stubs.h
 -rw-r--r--	root/root	usr/include/grp.h
 -rw-r--r--	root/root	usr/include/gshadow.h
