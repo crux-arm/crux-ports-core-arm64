@@ -1,14 +1,19 @@
 # Description: Berkeley DB
-# URL:         http://www.oracle.com/technetwork/database/database-technologies/berkeleydb/
-# Maintainer:  CRUX System Team, core-ports at crux dot nu
+# URL: http://www.oracle.com/technetwork/database/database-technologies/berkeleydb/
+# Maintainer: CRUX System Team, core-ports at crux dot nu
+# Arch Maintainer: CRUX-ARM System Team, devel at crux-arm dot nu
 
 name=db
 version=5.3.28
-release=1
-source=(http://download.oracle.com/berkeley-db/$name-$version.tar.gz)
+release=2
+source=(http://download.oracle.com/berkeley-db/$name-$version.tar.gz \
+        0001-atomic-Rename-local-__atomic_compare_exchange-to-avo.patch)
 
 build() {
-  cd $name-$version/build_unix
+  cd $name-$version/
+  patch -p1 -i $SRC/0001-atomic-Rename-local-__atomic_compare_exchange-to-avo.patch
+
+  cd build_unix
   ../dist/configure --prefix=/usr \
                     --build=arm-unknown-linux-gnu \
                     --enable-compat185 \
