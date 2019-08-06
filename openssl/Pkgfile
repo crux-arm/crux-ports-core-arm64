@@ -22,7 +22,7 @@ build() {
 
   make depend
   make
-  make INSTALL_PREFIX=$PKG LIBDIR=lib MANDIR=/usr/share/man MANSUFFIX=ssl install
+  make MANSUFFIX=ssl DESTDIR=$PKG install_sw install_ssldirs install_man_docs
 
   find $PKG -name "*fips*" -delete
   chmod -R +w $PKG
