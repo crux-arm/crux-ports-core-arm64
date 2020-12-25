@@ -1,5 +1,5 @@
 untrusted comment: verify with /etc/ports/core-arm64.pub
-RWSKslkvIwb+2V9KELYk2ikxQtVmOgFetPOcRrj7AXorJydxgAsw91YTyfvT8IsMQlDQfgzFg9KA3RGWLhTw2aH8zySNDQqBbgY=
+RWSKslkvIwb+2QbEulSddtg1y6e7Xf0RqBvrp4W4xWOfOXkcllvgzA8XO/wjczbBDYOtv+AIDrXe5Y7F80e3pGgZTT+a0lTUXwY=
 SHA256 (Pkgfile) = 324b7ad0d85e2cf5f251f5dedc8a08b6ca78a5dc67067bc60cb70d43f221b8d1
 SHA256 (.footprint) = 458b2fb1f74ff6f41fddcdb2c45d2997ceb9181105bde7e8e2e341ebb58fbb4e
 SHA256 (ports-1.6.tar.gz) = 8b2ba48e7440f4a71fa1c9c480a1212ce87c623e1d33121eb660829ba294ca94
@@ -10,7 +10,7 @@ SHA256 (contrib.pub) = cae797c624547b5ffb643f4cdf60d83a7cc28081f5929b882d4808508
 SHA256 (core.rsync) = 68ed2f3145188d54c20ed03518f2755d7e2f3c4935a26dc7daf46477660f3451
 SHA256 (opt.rsync) = fde28f666bf573258f0eeceb8b272e67b42ac4040a1a62905c73a485215f097f
 SHA256 (xorg.rsync) = fefa8223cb9d91d9510cf10aed04f88c541ee6e1a00d2cccdfa36ba4dd937ae3
-SHA256 (contrib.rsync.inactive) = dc765a391cc77b2f843701d514501358f5ad5ce15b5de6d135f0677f2f0f6f6d
+SHA256 (contrib.rsync.inactive) = 94c8e2ee7575b4097d51e677ce51ab5d10e2612b96d7042526c7a1b752d44e9e
 SHA256 (core-arm64.rsync) = a99bc921f3a1aac21c3cbc6cf3a57e6858f4d2677214936d74fd86fd1b87020e
 SHA256 (core-arm64.pub) = f0d3e788325112cc541116e261adbe2c14d0bbb921a66040badf0d9e030e0957
 SHA256 (opt-arm64.rsync) = a23944bf36a119f996dc9bd9bf8ed4695bd2892e619ed370e6368086d25861c4
