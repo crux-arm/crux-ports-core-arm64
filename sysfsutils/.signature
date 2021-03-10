@@ -1,5 +1,5 @@
 untrusted comment: verify with /etc/ports/core-arm64.pub
-RWSKslkvIwb+2UesUHa6Sd3nbFGXE4xMw/LgIWVh9IWem/wSCrwF412cJEC2KO2//iumOuagMzdbD8wtS6URL2dGwp+6SJ3A7AI=
-SHA256 (Pkgfile) = 976dad597a606c71c0a330de1a3271f3b737adc91a7af8545f0b377d1532fce5
-SHA256 (.footprint) = 06360197519c00489e8ecb25fd56370071e48098c7d66ae41f100e3344e6dcf7
-SHA256 (sysfsutils-2.1.0.tar.gz) = e865de2c1f559fff0d3fc936e660c0efaf7afe662064f2fb97ccad1ec28d208a
+RWSKslkvIwb+2cuuJncrGLwoW+n8picbGmDsnUENAzOBmFIkuDdq87yQ1go0bjDxnbmZexS40o4brQwr6PJKXQclNBAjaSGtJg0=
+SHA256 (Pkgfile) = 46ec00d2f9a5d980156a5f0b1a7437e1e48ef7c58b311c51285bb5fde06d7257
+SHA256 (.footprint) = 7911636f1748eba3de236618e2e115d272441f89d4ec547d0b140679f6abb516
+SHA256 (sysfsutils-2.1.1.tar.gz) = f7f669d27c997d3eb3f3e014b4c0aa1aa4d07ce4d6f9e41fa835240f2bf38810

@@ -5,16 +5,14 @@
 # Arch Maintainer: CRUX-ARM System Team, devel at crux-arm dot nu
 
 name=sysfsutils
-version=2.1.0
-release=2
-source=(http://downloads.sourceforge.net/project/linux-diag/$name/$version/$name-$version.tar.gz)
+version=2.1.1
+release=1
+source=(https://github.com/linux-ras/sysfsutils/archive/v$version/$name-$version.tar.gz)
 
 build() {
   cd $name-$version
-  ./configure --prefix=/usr \
-              --build=arm-unknown-linux-gnu \
-              --mandir=/usr/share/man
+  ./autogen
+  ./configure --prefix=/usr
   make
   make DESTDIR=$PKG install
-  rm -f $PKG/usr/bin/dlist_test
 }
