@@ -1,5 +1,5 @@
 untrusted comment: verify with /etc/ports/core-arm64.pub
-RWSKslkvIwb+2V71eG/tO32t2EVsrc4a7gBjj+iK4a+xx0fT/J+7k5Ih/ihC8z2tqoLZ8kIAjo7J6JrvmRfjZQjSbhyTsl8wJgQ=
-SHA256 (Pkgfile) = 62fc5f49660cc769ee1c88eed38d4e671b5582823b4357c7b96b6f16415ef6f8
-SHA256 (.footprint) = 37db68161eab3cf1e19d5933cfd1eb5ca500a9a0192221f07cd00c6080a5ddb4
-SHA256 (Python-3.9.1.tar.xz) = 991c3f8ac97992f3d308fefeb03a64db462574eadbff34ce8bc5bb583d9903ff
+RWSKslkvIwb+2RcgXEs0ea7yV4tkMBX8qHllWN8atQl9nmVcG3Q0tkiin5iS6bwhaxlTrdVt3h2S8G33F9lPsswgMErofg+w1gk=
+SHA256 (Pkgfile) = 51d1546b2537a611a8e7e642a76017f46b331e0439d77fc98cb86ca3d2bb3d75
+SHA256 (.footprint) = 5fafaaa8b1cd6e3a4c44c11a6df48ba4c480ade33b2ac2fca598652b3730974a
+SHA256 (Python-3.9.2.tar.xz) = 3c2034c54f811448f516668dce09d24008a0716c3a794dd8639b5388cbde247d
