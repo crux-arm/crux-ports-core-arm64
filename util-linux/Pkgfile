@@ -5,7 +5,7 @@
 # Depends on: eudev ncurses zlib
 
 name=util-linux
-version=2.36.1
+version=2.36.2
 release=1
 source=(https://www.kernel.org/pub/linux/utils/$name/v${version:0:4}/$name-$version.tar.xz)
 
@@ -25,6 +25,8 @@ build() {
   install -d $PKG/{etc,var/{lib/libuuid,run/uuidd}}
   touch $PKG/etc/adjtime
 
-  rm -r $PKG/usr/share
+  rm -r $PKG/usr/share/{doc,bash-completion}
   rm $PKG/sbin/{mkfs.bfs,mkfs.minix,fsck.minix}
+  rm $PKG/usr/share/man/man8/{fsck.minix,mkfs.bfs,mkfs.minix}.8
+
 }
