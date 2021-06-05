@@ -101,6 +101,7 @@ lrwxrwxrwx	root/root	usr/bin/linux64 -> setarch
 -rwxr-xr-x	root/root	usr/bin/setsid
 -rwxr-xr-x	root/root	usr/bin/setterm
 -rwxr-xr-x	root/root	usr/bin/taskset
+-rwxr-xr-x	root/root	usr/bin/uclampset
 -rwxr-xr-x	root/root	usr/bin/ul
 lrwxrwxrwx	root/root	usr/bin/uname26 -> setarch
 -rwxr-xr-x	root/root	usr/bin/unshare
@@ -146,7 +147,6 @@ drwxr-xr-x	root/root	usr/lib/pkgconfig/
 drwxr-xr-x	root/root	usr/sbin/
 -rwxr-xr-x	root/root	usr/sbin/addpart
 -rwxr-xr-x	root/root	usr/sbin/delpart
--rwxr-xr-x	root/root	usr/sbin/fdformat
 -rwxr-xr-x	root/root	usr/sbin/ldattach
 -rwxr-xr-x	root/root	usr/sbin/partx
 -rwxr-xr-x	root/root	usr/sbin/readprofile
@@ -203,6 +203,7 @@ drwxr-xr-x	root/root	usr/share/man/man1/
 -rw-r--r--	root/root	usr/share/man/man1/setsid.1.gz
 -rw-r--r--	root/root	usr/share/man/man1/setterm.1.gz
 -rw-r--r--	root/root	usr/share/man/man1/taskset.1.gz
+-rw-r--r--	root/root	usr/share/man/man1/uclampset.1.gz
 -rw-r--r--	root/root	usr/share/man/man1/ul.1.gz
 -rw-r--r--	root/root	usr/share/man/man1/unshare.1.gz
 -rw-r--r--	root/root	usr/share/man/man1/utmpdump.1.gz
@@ -241,7 +242,6 @@ drwxr-xr-x	root/root	usr/share/man/man8/
 -rw-r--r--	root/root	usr/share/man/man8/chmem.8.gz
 -rw-r--r--	root/root	usr/share/man/man8/ctrlaltdel.8.gz
 -rw-r--r--	root/root	usr/share/man/man8/delpart.8.gz
--rw-r--r--	root/root	usr/share/man/man8/fdformat.8.gz
 -rw-r--r--	root/root	usr/share/man/man8/fdisk.8.gz
 -rw-r--r--	root/root	usr/share/man/man8/findfs.8.gz
 -rw-r--r--	root/root	usr/share/man/man8/findmnt.8.gz
@@ -250,6 +250,7 @@ drwxr-xr-x	root/root	usr/share/man/man8/
 -rw-r--r--	root/root	usr/share/man/man8/fsfreeze.8.gz
 -rw-r--r--	root/root	usr/share/man/man8/fstrim.8.gz
 -rw-r--r--	root/root	usr/share/man/man8/hwclock.8.gz
+-rw-r--r--	root/root	usr/share/man/man8/i386.8.gz
 -rw-r--r--	root/root	usr/share/man/man8/isosize.8.gz
 -rw-r--r--	root/root	usr/share/man/man8/ldattach.8.gz
 -rw-r--r--	root/root	usr/share/man/man8/linux32.8.gz
@@ -280,6 +281,7 @@ drwxr-xr-x	root/root	usr/share/man/man8/
 -rw-r--r--	root/root	usr/share/man/man8/uuidd.8.gz
 -rw-r--r--	root/root	usr/share/man/man8/wdctl.8.gz
 -rw-r--r--	root/root	usr/share/man/man8/wipefs.8.gz
+-rw-r--r--	root/root	usr/share/man/man8/x86_64.8.gz
 -rw-r--r--	root/root	usr/share/man/man8/zramctl.8.gz
 drwxr-xr-x	root/root	var/
 drwxr-xr-x	root/root	var/lib/

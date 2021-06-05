@@ -2,18 +2,20 @@
 # URL: http://userweb.kernel.org/~kzak/util-linux/
 # Maintainer: CRUX System Team, core-ports at crux dot nu
 # Arch Maintainer: CRUX-ARM System Team, devel at crux-arm dot nu
-# Depends on: eudev ncurses zlib
+# Depends on: eudev file readline bzip2 xz
 
 name=util-linux
-version=2.36.2
+version=2.37
 release=1
-source=(https://www.kernel.org/pub/linux/utils/$name/v${version:0:4}/$name-$version.tar.xz)
+source=(https://www.kernel.org/pub/linux/utils/$name/v${version:0:4}/$name-$version.tar.xz
+        $name-man-$version.tar.xz)
 
 build() {
   cd $name-$version
 
   ./configure --prefix=/usr \
               --disable-nls \
+              --disable-asciidoc \
               --disable-{login,su,sulogin,nologin,runuser} \
               --disable-chfn-chsh \
               --enable-{write,raw,kill} \
@@ -24,6 +26,7 @@ build() {
 
   install -d $PKG/{etc,var/{lib/libuuid,run/uuidd}}
   touch $PKG/etc/adjtime
+  cp -r $SRC/man $PKG/usr/share
 
   rm -r $PKG/usr/share/{doc,bash-completion}
   rm $PKG/sbin/{mkfs.bfs,mkfs.minix,fsck.minix}
