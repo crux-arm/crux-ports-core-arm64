@@ -5,17 +5,18 @@
 # Depends on: libgmp acl libcap
 
 name=coreutils
-version=8.32
+version=9.0
 release=1
 source=(http://ftpmirror.gnu.org/gnu/$name/$name-$version.tar.xz
         coreutils-uname.patch
-        arch_patch.patch)
+        chmod.c.patch)
 
 build() {
   cd $name-$version
 
+  # https://bugs.gnu.org/50784
+  patch -p1 -i $SRC/chmod.c.patch
   patch -p1 -i $SRC/coreutils-uname.patch
-  patch -p1 -i $SRC/arch_patch.patch
 
   export FORCE_UNSAFE_CONFIGURE=1
     
