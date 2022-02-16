@@ -5,14 +5,13 @@
 # Depends on: eudev file readline bzip2 xz
 
 name=util-linux
-version=2.37.3
+version=2.37.4
 release=1
 source=(https://www.kernel.org/pub/linux/utils/$name/v${version:0:4}/$name-$version.tar.xz
         $name-man-$version.tar.xz)
 
 build() {
   cd $name-$version
-  touch disk-utils/raw.8
   ./configure --prefix=/usr \
               --disable-nls \
               --disable-asciidoc \
