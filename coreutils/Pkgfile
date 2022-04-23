@@ -5,21 +5,14 @@
 # Depends on: libgmp acl libcap
 
 name=coreutils
-version=9.0
+version=9.1
 release=1
-source=(http://ftpmirror.gnu.org/gnu/$name/$name-$version.tar.xz
-        coreutils-uname.patch
-        chmod.c.patch)
+source=(http://ftpmirror.gnu.org/gnu/$name/$name-$version.tar.xz)
 
 build() {
   cd $name-$version
 
-  # https://bugs.gnu.org/50784
-  patch -p1 -i $SRC/chmod.c.patch
-  patch -p1 -i $SRC/coreutils-uname.patch
-
-  export FORCE_UNSAFE_CONFIGURE=1
-    
+  FORCE_UNSAFE_CONFIGURE=1 \
   ./configure --prefix=/usr \
               --libexecdir=/usr/lib \
               --disable-nls \
