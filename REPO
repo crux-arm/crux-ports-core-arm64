@@ -22,7 +22,6 @@ f:dd44eeb6b7d12824ac0eb56e95713a59:gcc/gcc-aarch64-dirs.patch
 f:c93e4fbf3623e3c4b8aa693c9984fa52:gcc/.footprint
 f:ad1b2fa089de23d539fff2eca0ab2ff1:gcc/.signature
 f:a617c4d3fa11e0c9410ac213eb061677:gcc/gcc-nocheck-fixincludes.patch
-f:87178832f82ac953b6c125cd71204c8c:pkgutils/pkgmk.conf.patch
 f:a745121793f1dace8f81c80f498d4c80:pkgutils/Pkgfile
 f:0d3a6fed127ba555ba0c1a587130c6bc:pkgutils/.footprint
 f:a5d3dbe7370d4e492bda84cb88b3457b:pkgutils/.signature
@@ -64,6 +63,7 @@ f:6d264be5f78e7c141a23f6ae0dc14ec6:db/Pkgfile
 f:bf37166683ba4966059cda949d4f6dbd:db/0001-atomic-Rename-local-__atomic_compare_exchange-to-avo.patch
 f:034680aa69ee64596517784fe1161c1b:db/.footprint
 f:160bee3c6cb708248c77f8fe77cd5c18:db/.signature
+f:d32239bcb673463ab874e80d47fae504:COPYING
 f:c37f661c5786cb3f10ceecb890811b23:openssl/Pkgfile
 f:97ccefb7324fb563eaeb80ffed4d69d3:openssl/.footprint
 f:91f85842d2118003ee465c34259047e6:openssl/mksslcert.sh
@@ -94,9 +94,12 @@ f:87c71bdb5fa16801fadabb5f633b3e1a:prt-get/prt-get.conf
 f:4f6b710e4d2b18c70cfe5e4a593938b7:prt-get/prt-get.aliases
 f:d5220b1a8776fbcfb910a40b0a25c6cf:prt-get/.footprint
 f:d016778f78ab1f843719bc579ffb6b40:prt-get/.signature
+f:5d1579e032797132d238db76b2392635:ports/xorg-arm64.httpup
 f:3efeabfbd7104b1c566b604f802ef0c0:ports/core-arm64.pub
 f:804bb419e539a70ad80e4c03df3c3411:ports/contrib.pub
+f:d3cf27db40e3d66f29cb498b669174f1:ports/core-arm64.httpup
 f:a2ecd86c4d7037fc250d1e84775b878c:ports/core.rsync
+f:5cce9f5cdfcbc3a68a51b6345f62d5a4:ports/opt-arm64.httpup
 f:ee9093b54411528e7a7a57c2cbd53cc8:ports/xorg.rsync
 f:69927e5d0ae5dc3455faeaac916c4db2:ports/xorg.pub
 f:ecb298049dcf7408076a007bae6ded7e:ports/Pkgfile
