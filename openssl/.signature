@@ -1,6 +1,6 @@
 untrusted comment: verify with /etc/ports/core-arm64.pub
-RWSKslkvIwb+2ZUcvYKzXgxj82LNuBghSb/XwvPqiaLMIiLP2Rnh0d+jPuT0T10Ny2K63YpUv18zvwuWodfflT2aOsfTTiyK6Q0=
-SHA256 (Pkgfile) = 024c435b5c30b187465811bac284c6a347990a5402c0d775ed3320e2e71f4012
-SHA256 (.footprint) = d0a9551b87aec876c03bde4604033e735138dd4d6fa43cbd01e4c97d1cf3b0a4
-SHA256 (openssl-1.1.1q.tar.gz) = d7939ce614029cdff0b6c20f0e2e5703158a489a72b2507b8bd51bf8c8fd10ca
+RWSKslkvIwb+2cLbqx3V16FBpH9nLA7+Y5yiWPis/81T3wRfF8CdNCAqohnNbTyCpoePEoFGI31910gO9fpMTSt4Hq0HKfT9LAs=
+SHA256 (Pkgfile) = 06bca7b28633f53af76878d06c4eb6af2b96d7c39a48bb142d45a132f0e97e05
+SHA256 (.footprint) = 13e78dd2f2caa4f4cab8d4dbf17f5bb8539afdcccbd8af10fec2d26e712564c2
+SHA256 (openssl-3.0.5.tar.gz) = aa7d8d9bef71ad6525c55ba11e5f4397889ce49c2c9349dcea6d3e4f0b024a7a
 SHA256 (mksslcert.sh) = d01cfd061b792f4f7444429582c5c9e83aaa7fc63cafd05669fd3f2970dff779
