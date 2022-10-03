@@ -69,9 +69,9 @@ f:cc2207aa93a3b6579e5099f6ea699bc8:linux-pam/common-password
 f:a745121793f1dace8f81c80f498d4c80:pkgutils/Pkgfile
 f:a5d3dbe7370d4e492bda84cb88b3457b:pkgutils/.signature
 f:0d3a6fed127ba555ba0c1a587130c6bc:pkgutils/.footprint
-f:a3223da00de5f32ecf23e46099611a19:prt-get/Pkgfile
-f:87c71bdb5fa16801fadabb5f633b3e1a:prt-get/prt-get.conf
-f:d016778f78ab1f843719bc579ffb6b40:prt-get/.signature
+f:fba3b19b1f9ef72c722360b8cfd73c3d:prt-get/Pkgfile
+f:d5c5a5884622fd5956dc35dd1e71eecc:prt-get/prt-get.conf
+f:241b42aa4cff04ea2b3106a3a07882b0:prt-get/.signature
 f:4f6b710e4d2b18c70cfe5e4a593938b7:prt-get/prt-get.aliases
 f:cb96c46c2cf16e2a2f1f13f29f5faab3:prt-get/README
 f:d5220b1a8776fbcfb910a40b0a25c6cf:prt-get/.footprint
