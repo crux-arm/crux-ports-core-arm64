@@ -97,8 +97,8 @@ f:353ca6413716aa9fd68049efb68571ab:sysfsutils/.footprint
 f:edcb211c7e77fedab8d60755fb2a8f7b:binutils/Pkgfile
 f:3166e6c92e898e5d804af71aeafc06a2:binutils/.signature
 f:bc2d323616f387a90f3f864756826003:binutils/.footprint
-f:498bb149c96c4a935743015bed7c3393:kbd/Pkgfile
-f:0052a9ed82f89bc0bca90901f8c7a6c3:kbd/.signature
+f:b318d3fb804a6be3e293adb8c7c50672:kbd/Pkgfile
+f:b5c1fd64edf4a552f6222f98d3c22967:kbd/.signature
 f:e6d37048fd3de20cdd1d623eb0faa602:kbd/.footprint
 f:b7f131de14e7ffae36ea9320a117de80:psmisc/Pkgfile
 f:96be0a48d87f747b4496e142d26c0312:psmisc/.signature
