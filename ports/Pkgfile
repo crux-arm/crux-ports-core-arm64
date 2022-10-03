@@ -19,18 +19,5 @@ build () {
   make
   make DESTDIR=$PKG MANDIR=/usr/share/man install
 
-  install -m 0644 $SRC/core.rsync $PKG/etc/ports
-  install -m 0644 $SRC/opt.rsync $PKG/etc/ports
-  install -m 0644 $SRC/xorg.rsync $PKG/etc/ports
-  install -m 0644 $SRC/contrib.rsync.inactive $PKG/etc/ports
-  install -m 0644 $SRC/core.pub $PKG/etc/ports
-  install -m 0644 $SRC/opt.pub $PKG/etc/ports
-  install -m 0644 $SRC/xorg.pub $PKG/etc/ports
-  install -m 0644 $SRC/contrib.pub $PKG/etc/ports
-  install -m 0644 $SRC/core-arm64.httpup $PKG/etc/ports
-  install -m 0644 $SRC/core-arm64.pub $PKG/etc/ports
-  install -m 0644 $SRC/opt-arm64.httpup $PKG/etc/ports
-  install -m 0644 $SRC/opt-arm64.pub $PKG/etc/ports
-  install -m 0644 $SRC/xorg-arm64.httpup $PKG/etc/ports
-  install -m 0644 $SRC/xorg-arm64.pub $PKG/etc/ports
+  install -m 0644 $SRC/*.{httpup,pub,rsync,inactive} $PKG/etc/ports
 }
