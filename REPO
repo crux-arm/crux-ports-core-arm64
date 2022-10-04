@@ -16,9 +16,9 @@ d:kbd
 d:psmisc
 d:filesystem
 d:coreutils
-f:44ab1fab9102ee301c5acd4946e272aa:python3/Pkgfile
-f:f46ca34b1d7257bcf2aed83f67ebd4ef:python3/.signature
-f:0cf410f194a2f71068c4fcc6e3ca235a:python3/.footprint
+f:3fcf9a42c9b06cc0adfc5b2fb08d99c2:python3/Pkgfile
+f:9e86bfed6a2fe1f1ff16252b49af1bd0:python3/.signature
+f:f57f5640ccf798a96e2e6c685750155c:python3/.footprint
 f:804bb419e539a70ad80e4c03df3c3411:ports/contrib.pub
 f:9f16b2e882003b1bef1cd29bd6b088de:ports/core-arm64.httpup
 f:441330fe7eb6970873d287b0d38f83f6:ports/opt.rsync
