@@ -37,12 +37,12 @@ f:a60a2b3a6d9748aedac962dca3b2d822:ports/xorg-arm64.httpup
 f:c56a20ef43a22c8e294d850935f80acd:ports/xorg-arm64.pub
 f:246bdcd2c5d85192fc45e320174fb121:ports/opt-arm64.pub
 f:0d1f1fde50a9bd743d9cac6b235f038c:ports/opt.pub
-f:02b68b4d4f58195070a54375bb0c0665:gcc/Pkgfile
-f:ad1b2fa089de23d539fff2eca0ab2ff1:gcc/.signature
+f:2466938ff16297d921dd2e316f051334:gcc/Pkgfile
+f:6fc7973cf7bb67fddb1054ece8d810a8:gcc/.signature
 f:37173a681c2cd6621c436639de5f3f73:gcc/README
 f:dd44eeb6b7d12824ac0eb56e95713a59:gcc/gcc-aarch64-dirs.patch
 f:a617c4d3fa11e0c9410ac213eb061677:gcc/gcc-nocheck-fixincludes.patch
-f:c93e4fbf3623e3c4b8aa693c9984fa52:gcc/.footprint
+f:73e099d61d2d8df3ea83e1714a72f08d:gcc/.footprint
 f:d32239bcb673463ab874e80d47fae504:COPYING
 f:b352ede6c87e1831941026c969d7068d:glibc/Pkgfile
 f:0d2d7f988d1756d693b262d46fee7d17:glibc/.nostrip
