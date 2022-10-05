@@ -71,10 +71,10 @@ f:a5d3dbe7370d4e492bda84cb88b3457b:pkgutils/.signature
 f:0d3a6fed127ba555ba0c1a587130c6bc:pkgutils/.footprint
 f:fba3b19b1f9ef72c722360b8cfd73c3d:prt-get/Pkgfile
 f:d5c5a5884622fd5956dc35dd1e71eecc:prt-get/prt-get.conf
-f:241b42aa4cff04ea2b3106a3a07882b0:prt-get/.signature
+f:561a4f62446b0fd3eefe0a85b3b04eee:prt-get/.signature
 f:4f6b710e4d2b18c70cfe5e4a593938b7:prt-get/prt-get.aliases
 f:cb96c46c2cf16e2a2f1f13f29f5faab3:prt-get/README
-f:d5220b1a8776fbcfb910a40b0a25c6cf:prt-get/.footprint
+f:077fea960d8a490412eed744ce9bcc40:prt-get/.footprint
 f:a2ee72974e30dd11ffcc666b49d90031:openssl/Pkgfile
 f:064713031d282b0dc4da2682bfa1db15:openssl/.signature
 f:91f85842d2118003ee465c34259047e6:openssl/mksslcert.sh
