@@ -1,0 +1,6 @@
+untrusted comment: verify with /etc/ports/core-arm64.pub
+RWSKslkvIwb+2XTzRWWlelA0JsaT4YhxgICucR+A1TO/7q6u7BhbbLpPxYkQfxjhmv3q5LefuskjWj8l4ZUGlveiBO56cJmUygo=
+SHA256 (Pkgfile) = c8ec4efd4dc07c25a49a84a0c29ce28f2f78b2ccdd82305e3860b29efc03c0fa
+SHA256 (.footprint) = ef47c205c60675d3bf1c17a08ea69427281b94b26fcf5528017f2ef901b5068f
+SHA256 (readline-8.2.tar.gz) = 3feb7171f16a84ee82ca18a36d7b9be109a52c04f492a053331d7d1095007c35
+SHA256 (inputrc) = 368223dec50f4a3f75f947e0a28e045b50b4469577c2f8f54b6b410f27b251f7
