@@ -2,6 +2,7 @@ d:python3
 d:ports
 d:eudev
 d:gcc
+d:procps
 d:glibc
 d:libgmp
 d:linux-pam
@@ -51,6 +52,10 @@ f:37173a681c2cd6621c436639de5f3f73:gcc/README
 f:dd44eeb6b7d12824ac0eb56e95713a59:gcc/gcc-aarch64-dirs.patch
 f:a617c4d3fa11e0c9410ac213eb061677:gcc/gcc-nocheck-fixincludes.patch
 f:73e099d61d2d8df3ea83e1714a72f08d:gcc/.footprint
+f:064da2d8eac0bbe35182681959024546:procps/Pkgfile
+f:1b1ca354f724355c052e2433e9fde86a:procps/.signature
+f:2018c2c49246a17dccb6cb0c2fedbd36:procps/.footprint
+f:e252a579938327e7c99c54620faa4146:procps/sysctl.conf
 f:d32239bcb673463ab874e80d47fae504:COPYING
 f:f8d919939c950be774954d4b57b3f7f1:glibc/linux-headers-cp-insteadof-rsync.patch
 f:1fe447567ed7585f0861cccc2574be7f:glibc/Pkgfile
