@@ -7,6 +7,7 @@ d:linux-pam
 d:pkgutils
 d:prt-get
 d:openssl
+d:libarchive
 d:db
 d:openrdate
 d:util-linux
@@ -82,6 +83,9 @@ f:a2ee72974e30dd11ffcc666b49d90031:openssl/Pkgfile
 f:064713031d282b0dc4da2682bfa1db15:openssl/.signature
 f:91f85842d2118003ee465c34259047e6:openssl/mksslcert.sh
 f:2c8e1cbbcaaf97b65f48178b879ca2df:openssl/.footprint
+f:dda9d4c738b67c259ed1f8d721a7efd3:libarchive/Pkgfile
+f:101ec1ab4e704fa26fbc9f144ef2e636:libarchive/.signature
+f:214c8b8fde031017cdf0973573ffb43f:libarchive/.footprint
 f:6d264be5f78e7c141a23f6ae0dc14ec6:db/Pkgfile
 f:160bee3c6cb708248c77f8fe77cd5c18:db/.signature
 f:bf37166683ba4966059cda949d4f6dbd:db/0001-atomic-Rename-local-__atomic_compare_exchange-to-avo.patch
