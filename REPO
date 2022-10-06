@@ -17,6 +17,7 @@ d:binutils
 d:kbd
 d:psmisc
 d:filesystem
+d:httpup
 d:coreutils
 f:3fcf9a42c9b06cc0adfc5b2fb08d99c2:python3/Pkgfile
 f:9e86bfed6a2fe1f1ff16252b49af1bd0:python3/.signature
@@ -128,6 +129,10 @@ f:f05649d0184df6b4550efa3c513dde0e:filesystem/group
 f:6edbe72669243109e2872d2c94c1ca51:filesystem/.footprint
 f:4faaa4e1ba24038f8638a0cae5046cfb:filesystem/securetty
 f:346ede8d637940e2898cd29c56a37d30:filesystem/mime.types
+f:7406a53519d62d373ed69363792823c4:httpup/Pkgfile
+f:76a4eca845e7ba2ec9d639bb1bf91324:httpup/.signature
+f:244d80213b48c8b5a5aca4c186f01f3d:httpup/.footprint
+f:faa600a1b0349fe78b0eb463cab444df:httpup/httpup
 f:0648442d6b8ea2f3df6ae206456d81ad:coreutils/Pkgfile
 f:462c7bdf38ffca765de5e0b9f8bcdbfa:coreutils/.signature
 f:15249427dbdff4dac44f3f1147839135:coreutils/.footprint
