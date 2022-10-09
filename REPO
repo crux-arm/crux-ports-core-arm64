@@ -99,9 +99,9 @@ f:edcb211c7e77fedab8d60755fb2a8f7b:binutils/Pkgfile
 f:3166e6c92e898e5d804af71aeafc06a2:binutils/.signature
 f:bc2d323616f387a90f3f864756826003:binutils/.footprint
 f:8ada75ad3c04f301357921a801e0f4cd:readline/Pkgfile
-f:2bfd924225a85068d182a07862598aff:readline/.signature
+f:c786749185849d4e96de5db47c25f4c5:readline/.signature
 f:4a69248ddecf4bd836cf809a190c376f:readline/.footprint
-f:6304f049c14bf4d44a196cee60424873:readline/inputrc
+f:c798257fae2dc0ebb3c9182dea65074d:readline/inputrc
 f:498bb149c96c4a935743015bed7c3393:kbd/Pkgfile
 f:0052a9ed82f89bc0bca90901f8c7a6c3:kbd/.signature
 f:e6d37048fd3de20cdd1d623eb0faa602:kbd/.footprint
