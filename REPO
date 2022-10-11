@@ -7,6 +7,7 @@ d:procps
 d:cmake
 d:pkgconf
 d:glibc
+d:wireless-tools
 d:libgmp
 d:libnl
 d:linux-pam
@@ -92,6 +93,9 @@ f:75931315bf9bc9be15a5e25e4ddd5f0d:glibc/nsswitch.conf
 f:96156bec8e05de67384dc93e72bdc313:glibc/host.conf
 f:8fa387fa6b367a2a4dcfe601b0c96862:glibc/.footprint
 f:518de5e52f9166e58ed613a0d636e774:glibc/locale.gen.in
+f:37e84b810aec08c66c8317e1bbd85318:wireless-tools/Pkgfile
+f:955db1980bbb3f702656b3883dbf8581:wireless-tools/.signature
+f:0a4ff1a49b94567ca211ff8e78164cf4:wireless-tools/.footprint
 f:a2c6825c7b53ec75e6b7f384808f4dc2:libgmp/Pkgfile
 f:556aaccc0fd9a0cd6af14e93ea336698:libgmp/.signature
 f:3676fa07d39385398a87c15dd9034453:libgmp/.footprint
