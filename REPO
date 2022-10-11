@@ -56,6 +56,7 @@ f:23bc5ff22fe4f9a208d65fbbfd489ad9:dbus/30-dbus.launch
 f:6de04b92ce36fa7cbce784d517155a25:dbus/.signature
 f:95412978f8aa3c9fc667543107086479:dbus/post-install
 f:3202f22d3334bc98b1d5244bdadbe2ca:dbus/rc.dbus
+f:4f0297b7978f57bf7656ca83f6849d32:dbus/.footprint
 f:2466938ff16297d921dd2e316f051334:gcc/Pkgfile
 f:6fc7973cf7bb67fddb1054ece8d810a8:gcc/.signature
 f:37173a681c2cd6621c436639de5f3f73:gcc/README
@@ -89,6 +90,7 @@ f:556aaccc0fd9a0cd6af14e93ea336698:libgmp/.signature
 f:3676fa07d39385398a87c15dd9034453:libgmp/.footprint
 f:5b0a12a15c9cf38208598e06c45b50fe:libnl/Pkgfile
 f:86af7820b6803bf7639a4ab378302242:libnl/.signature
+f:1ab43fcd33c445200bd233e0d3efd422:libnl/.footprint
 f:a47ba380e5575c69784ca6a01888199d:linux-pam/other
 f:c38f769ecc5607ea821fb0e6b4185f19:linux-pam/common-session
 f:9d4676c9d210ac2a2bd68671fecd8bea:linux-pam/Pkgfile
