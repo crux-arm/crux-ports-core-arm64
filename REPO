@@ -18,6 +18,7 @@ d:openssl
 d:libarchive
 d:db
 d:openrdate
+d:wpa_supplicant
 d:util-linux
 d:sysfsutils
 d:binutils
@@ -138,6 +139,11 @@ f:dd0e2ac5129caf7fcbbdd4c5c03c998e:openrdate/Pkgfile
 f:2c041f106df27fe9c62cac42d98f4f38:openrdate/.signature
 f:30591f4d63ae9ff02ef97775e6d85a82:openrdate/ntpleaps.patch
 f:7bc21568b289abdd96e6d69c2d63da5a:openrdate/.footprint
+f:5e5504edbfd2316d5f677e8c46290391:wpa_supplicant/Pkgfile
+f:df3d0ed5d4879b29a43670023ed2c407:wpa_supplicant/.signature
+f:4f95de5f3ebddfac30cb9abcbe143633:wpa_supplicant/wpa_supplicant
+f:f63c7f588bcc7afaf59e500464b7ccdb:wpa_supplicant/.footprint
+f:a804f8c2828b929446a928d02be98018:wpa_supplicant/wlan
 f:29a848e940181370a3f89c211d205ba4:util-linux/Pkgfile
 f:8c1b557db0bf56e828cba7700873531a:util-linux/.signature
 f:1f89ded32c5951a0c3734b505c464378:util-linux/.footprint
