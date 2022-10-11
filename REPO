@@ -7,6 +7,7 @@ d:procps
 d:cmake
 d:glibc
 d:libgmp
+d:libnl
 d:linux-pam
 d:pkgutils
 d:prt-get
@@ -85,6 +86,8 @@ f:518de5e52f9166e58ed613a0d636e774:glibc/locale.gen.in
 f:a2c6825c7b53ec75e6b7f384808f4dc2:libgmp/Pkgfile
 f:556aaccc0fd9a0cd6af14e93ea336698:libgmp/.signature
 f:3676fa07d39385398a87c15dd9034453:libgmp/.footprint
+f:5b0a12a15c9cf38208598e06c45b50fe:libnl/Pkgfile
+f:86af7820b6803bf7639a4ab378302242:libnl/.signature
 f:a47ba380e5575c69784ca6a01888199d:linux-pam/other
 f:c38f769ecc5607ea821fb0e6b4185f19:linux-pam/common-session
 f:9d4676c9d210ac2a2bd68671fecd8bea:linux-pam/Pkgfile
