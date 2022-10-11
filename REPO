@@ -1,6 +1,7 @@
 d:python3
 d:ports
 d:eudev
+d:dbus
 d:gcc
 d:procps
 d:cmake
@@ -48,6 +49,11 @@ f:7f2a8b54bed672c40733bc1785f48262:eudev/.signature
 f:ee21e150df6c804eef03a6cb2fc1cceb:eudev/81-crux.rules
 f:37f89303c042e965f396146ace43be24:eudev/start_udev
 f:472369fa110683418acaf99e27c21052:eudev/.footprint
+f:5c8953bade7b4412c1985d8c423a8e73:dbus/Pkgfile
+f:23bc5ff22fe4f9a208d65fbbfd489ad9:dbus/30-dbus.launch
+f:6de04b92ce36fa7cbce784d517155a25:dbus/.signature
+f:95412978f8aa3c9fc667543107086479:dbus/post-install
+f:3202f22d3334bc98b1d5244bdadbe2ca:dbus/rc.dbus
 f:2466938ff16297d921dd2e316f051334:gcc/Pkgfile
 f:6fc7973cf7bb67fddb1054ece8d810a8:gcc/.signature
 f:37173a681c2cd6621c436639de5f3f73:gcc/README
