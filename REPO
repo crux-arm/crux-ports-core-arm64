@@ -5,6 +5,7 @@ d:dbus
 d:gcc
 d:procps
 d:cmake
+d:pkgconf
 d:glibc
 d:libgmp
 d:libnl
@@ -71,6 +72,11 @@ f:e252a579938327e7c99c54620faa4146:procps/sysctl.conf
 f:54cc66da320175b7255359a40accc546:cmake/Pkgfile
 f:9d5a6e2149afe5ccad97308c48780391:cmake/.signature
 f:ddd16ccf035a362a67ea71ac0b103d7e:cmake/.footprint
+f:e7c9873231bf91971274cca4593f0a50:pkgconf/Pkgfile
+f:25e7557183a605d9338b2ab6f04c0202:pkgconf/.signature
+f:9a62c5d91dcb968c163cb6495c687df3:pkgconf/arm-unknown-linux-gnu.personality
+f:6fec70b14f238ad94caf5dac367ee427:pkgconf/README
+f:3c4c0d94d2a4390846c82d2d59de4747:pkgconf/.footprint
 f:d32239bcb673463ab874e80d47fae504:COPYING
 f:f8d919939c950be774954d4b57b3f7f1:glibc/linux-headers-cp-insteadof-rsync.patch
 f:1fe447567ed7585f0861cccc2574be7f:glibc/Pkgfile
