@@ -25,7 +25,6 @@ d:meson
 d:kbd
 d:psmisc
 d:filesystem
-d:httpup
 d:gettext
 d:coreutils
 f:3fcf9a42c9b06cc0adfc5b2fb08d99c2:python3/Pkgfile
@@ -168,10 +167,6 @@ f:f05649d0184df6b4550efa3c513dde0e:filesystem/group
 f:6edbe72669243109e2872d2c94c1ca51:filesystem/.footprint
 f:4faaa4e1ba24038f8638a0cae5046cfb:filesystem/securetty
 f:346ede8d637940e2898cd29c56a37d30:filesystem/mime.types
-f:7406a53519d62d373ed69363792823c4:httpup/Pkgfile
-f:76a4eca845e7ba2ec9d639bb1bf91324:httpup/.signature
-f:244d80213b48c8b5a5aca4c186f01f3d:httpup/.footprint
-f:faa600a1b0349fe78b0eb463cab444df:httpup/httpup
 f:52ee686bc30e31777a90254e1673fb39:gettext/Pkgfile
 f:5c0559fbbca89b517822a96ff01e37b4:gettext/.signature
 f:f1c9daabfef8c3337868bad26f64398b:gettext/.footprint
