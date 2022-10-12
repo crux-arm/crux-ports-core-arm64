@@ -1,7 +1,0 @@
-untrusted comment: verify with /etc/ports/core-arm64.pub
-RWSKslkvIwb+2e/ni2c3QQ1JIqnfDEIgi0B0krQIxazKKCJNPzPG23SPyzxVkWpfqbbYEBNQ6yZD9K0B5LS/69wn3gHTe0PZHwQ=
-SHA256 (Pkgfile) = aaf81711560771f56d2eb740f7df5c7eac983e1ab2c0762a484edf25211991b3
-SHA256 (.footprint) = a796c58c78a24548fd522dbbebd7d3e8887bc84df35b34d4ea180e3460b39bcb
-SHA256 (eudev-3.2.11.tar.gz) = 19847cafec67897da855fde56f9dc7d92e21c50e450aa79068a7e704ed44558b
-SHA256 (81-crux.rules) = d56da7164599c7d7e7b5377a550de2023e2a1ff2f765d366d2d7cc91688edb7c
-SHA256 (start_udev) = bf6d5dcffd0193a13dab90db623f4adf440782998797182715fc85281207905d
