@@ -1,6 +1,5 @@
 d:python3
 d:ports
-d:eudev
 d:dbus
 d:gcc
 d:procps
@@ -50,11 +49,6 @@ f:a60a2b3a6d9748aedac962dca3b2d822:ports/xorg-arm64.httpup
 f:c56a20ef43a22c8e294d850935f80acd:ports/xorg-arm64.pub
 f:246bdcd2c5d85192fc45e320174fb121:ports/opt-arm64.pub
 f:0d1f1fde50a9bd743d9cac6b235f038c:ports/opt.pub
-f:b3ea15330f671f24c9b40d9b994adf30:eudev/Pkgfile
-f:7f2a8b54bed672c40733bc1785f48262:eudev/.signature
-f:ee21e150df6c804eef03a6cb2fc1cceb:eudev/81-crux.rules
-f:37f89303c042e965f396146ace43be24:eudev/start_udev
-f:472369fa110683418acaf99e27c21052:eudev/.footprint
 f:5c8953bade7b4412c1985d8c423a8e73:dbus/Pkgfile
 f:23bc5ff22fe4f9a208d65fbbfd489ad9:dbus/30-dbus.launch
 f:6de04b92ce36fa7cbce784d517155a25:dbus/.signature
