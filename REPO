@@ -54,7 +54,7 @@ f:6de04b92ce36fa7cbce784d517155a25:dbus/.signature
 f:95412978f8aa3c9fc667543107086479:dbus/post-install
 f:3202f22d3334bc98b1d5244bdadbe2ca:dbus/rc.dbus
 f:4f0297b7978f57bf7656ca83f6849d32:dbus/.footprint
-f:2466938ff16297d921dd2e316f051334:gcc/Pkgfile
+f:ae60680cf1255f3b74d5a9117854adef:gcc/Pkgfile
 f:6fc7973cf7bb67fddb1054ece8d810a8:gcc/.signature
 f:37173a681c2cd6621c436639de5f3f73:gcc/README
 f:dd44eeb6b7d12824ac0eb56e95713a59:gcc/gcc-aarch64-dirs.patch
