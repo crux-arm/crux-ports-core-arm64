@@ -86,7 +86,7 @@ f:f7fefce570a3c776e26e778c5e401490:glibc/ld.so.conf
 f:acf9daad1ee85de5efd3543965596a63:glibc/resolv.conf
 f:75931315bf9bc9be15a5e25e4ddd5f0d:glibc/nsswitch.conf
 f:96156bec8e05de67384dc93e72bdc313:glibc/host.conf
-f:8fa387fa6b367a2a4dcfe601b0c96862:glibc/.footprint
+f:14d9f26711e3505f31f9c3d0a81b1078:glibc/.footprint
 f:518de5e52f9166e58ed613a0d636e774:glibc/locale.gen.in
 f:37e84b810aec08c66c8317e1bbd85318:wireless-tools/Pkgfile
 f:955db1980bbb3f702656b3883dbf8581:wireless-tools/.signature
