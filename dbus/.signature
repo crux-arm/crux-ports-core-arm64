@@ -1,7 +1,7 @@
 untrusted comment: verify with /etc/ports/core-arm64.pub
-RWSKslkvIwb+2VG5Sb44G5Uq37oPZ9uvXcOnXU3UP/YcyZ1VLr4WnGytMiV9v9O1Pgql91JIVP3KdLa+qdK7t9+fUC0rL8U6jQg=
-SHA256 (Pkgfile) = d580a5393f704580523bf11e9d0dce91baad44c4d77e156be29d7723bfee8fec
-SHA256 (.footprint) = b80dc1ce5d94cb9a9d54c7eb33f93d27cf4b19bf6f741c9d0cd1a46f8ceba504
-SHA256 (dbus-1.14.0.tar.xz) = ccd7cce37596e0a19558fd6648d1272ab43f011d80c8635aea8fd0bad58aebd4
+RWSKslkvIwb+2X+7E8w5tuI+T+VuF89imQZvOtAeOE5Is0oRl1XbPfGfzu+Nde9W5263syRCHxeHrv8XbPqP+fDH3Xy/0nOjPww=
+SHA256 (Pkgfile) = 52fee89529abd97f5b1cc29d7d8916343df0f6b120d70dce747fa9c6c9d81e9f
+SHA256 (.footprint) = 3536015ff543486f0142c44884404dea0d2a23e63c64a183e01b827ab626a554
+SHA256 (dbus-1.14.4.tar.xz) = 7c0f9b8e5ec0ff2479383e62c0084a3a29af99edf1514e9f659b81b30d4e353e
 SHA256 (rc.dbus) = 4926a04f787824e55fab97d6f5938ca6bfb8fc95db5f7063fd80907f30b87ef5
 SHA256 (30-dbus.launch) = 18ea1e79698bb876f7f5fb298daae5ff6cd17c56764b087f8da2e1d5809af37a

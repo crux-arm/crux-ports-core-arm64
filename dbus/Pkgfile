@@ -5,7 +5,7 @@
 # Depends on: expat
 
 name=dbus
-version=1.14.0
+version=1.14.4
 release=1
 source=(https://dbus.freedesktop.org/releases/dbus/$name-$version.tar.xz
   rc.dbus 30-dbus.launch)
@@ -21,7 +21,8 @@ build() {
     --libexecdir=/usr/lib/dbus \
     --with-dbus-user=messagebus \
     --with-init-scripts=none \
-    --with-system-pid-file=/var/run/$name/$name.pid
+    --with-system-pid-file=/run/dbus/pid \
+    --with-system-socket=/run/dbus/system_bus_socket
 
   make
   make DESTDIR=$PKG install
@@ -30,7 +31,6 @@ build() {
   install -D -m 0755 $SRC/30-dbus.launch \
     $PKG/etc/X11/xinit/xinitrc.d/30-dbus.launch.sh
 
-  rm -r $PKG/usr/share/doc
-  rm -rf $PKG/usr/lib/cmake
+  rm -r $PKG/usr/share/doc $PKG/var/run
   rm -rf $PKG/usr/share/xml
 }
