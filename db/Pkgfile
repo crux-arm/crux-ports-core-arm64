@@ -15,7 +15,7 @@ build() {
 
   cd build_unix
   ../dist/configure --prefix=/usr \
-                    --build=arm-unknown-linux-gnu \
+                    --build=aarch64-unknown-linux-gnu \
                     --enable-compat185 \
                     --enable-shared \
                     --enable-static \
