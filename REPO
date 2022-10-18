@@ -61,10 +61,10 @@ f:51a4dcb672248c550f3def3596be4252:ports/Pkgfile
 f:9f16b2e882003b1bef1cd29bd6b088de:ports/core-arm64.httpup
 f:441330fe7eb6970873d287b0d38f83f6:ports/opt.rsync
 f:3efeabfbd7104b1c566b604f802ef0c0:ports/core-arm64.pub
-f:ba470850a2052f26c25fcf6b0fb05e5b:ports/.signature
+f:96a429847c10071a3ab0c680e20403b9:ports/.signature
 f:9662f5a2271e32ccd1d89ff89b763fa1:ports/.md5sum
 f:a60a2b3a6d9748aedac962dca3b2d822:ports/xorg-arm64.httpup
-f:81ad407dc6e574d0aa843d0630df0076:ports/opt-arm64.httpup
+f:560170f7f812563a91f53b3893eee297:ports/opt-arm64.httpup
 f:b8dd0aad383810cad920d6548cd1cb56:ports/core.pub
 f:4f95de5f3ebddfac30cb9abcbe143633:wpa_supplicant/wpa_supplicant
 f:f63c7f588bcc7afaf59e500464b7ccdb:wpa_supplicant/.footprint
