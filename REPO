@@ -137,8 +137,8 @@ f:4f95de5f3ebddfac30cb9abcbe143633:wpa_supplicant/wpa_supplicant
 f:f63c7f588bcc7afaf59e500464b7ccdb:wpa_supplicant/.footprint
 f:a804f8c2828b929446a928d02be98018:wpa_supplicant/wlan
 f:fb8ac1d437140e8ae0c39cc1b9630bee:util-linux/Pkgfile
-f:a58fbada8969d8e99d7ec6845593d393:util-linux/.signature
-f:1f89ded32c5951a0c3734b505c464378:util-linux/.footprint
+f:404a9fdc88e31daa40ab1d1e926bc713:util-linux/.signature
+f:3b4cf9aa23794c76f5f386c3298f3ba8:util-linux/.footprint
 f:e79e5effa552077b9f10dc3b17513b64:sysfsutils/Pkgfile
 f:839df50fb866499922790a36a2a2b138:sysfsutils/.signature
 f:353ca6413716aa9fd68049efb68571ab:sysfsutils/.footprint
