@@ -19,7 +19,6 @@ d:python3
 d:psmisc
 d:filesystem
 d:sysfsutils
-d:gettext
 d:pkgconf
 d:ports
 d:procps
@@ -128,9 +127,6 @@ f:839df50fb866499922790a36a2a2b138:sysfsutils/.signature
 f:e79e5effa552077b9f10dc3b17513b64:sysfsutils/Pkgfile
 f:353ca6413716aa9fd68049efb68571ab:sysfsutils/.footprint
 f:d32239bcb673463ab874e80d47fae504:COPYING
-f:5c0559fbbca89b517822a96ff01e37b4:gettext/.signature
-f:52ee686bc30e31777a90254e1673fb39:gettext/Pkgfile
-f:f1c9daabfef8c3337868bad26f64398b:gettext/.footprint
 f:6fec70b14f238ad94caf5dac367ee427:pkgconf/README
 f:25e7557183a605d9338b2ab6f04c0202:pkgconf/.signature
 f:9a62c5d91dcb968c163cb6495c687df3:pkgconf/arm-unknown-linux-gnu.personality
