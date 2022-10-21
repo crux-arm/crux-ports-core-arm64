@@ -29,6 +29,7 @@ f:14559fb8b56b4d069414c8f61b3823d8:meson/.signature
 f:70ae100fc59b364e8ecf597d202d8d7d:meson/Pkgfile
 f:7e45aa565b5469861c742d931378ee55:meson/.footprint
 f:4f95de5f3ebddfac30cb9abcbe143633:wpa_supplicant/wpa_supplicant
+f:94eda9e510358f6fc9e6033048cc05de:wpa_supplicant/README
 f:df3d0ed5d4879b29a43670023ed2c407:wpa_supplicant/.signature
 f:a804f8c2828b929446a928d02be98018:wpa_supplicant/wlan
 f:5e5504edbfd2316d5f677e8c46290391:wpa_supplicant/Pkgfile
