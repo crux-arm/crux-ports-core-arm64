@@ -12,7 +12,7 @@ source=(http://crux.nu/files/$name-$version.tar.xz \
 
 build () {
   cd $name-$version
-  make DESTDIR=$PKG install MANDIR=/usr/share/man
+  make DESTDIR=$PKG install
 
   install -D -m 0644 $SRC/pkgmk.conf $PKG/etc/pkgmk.conf
 }
