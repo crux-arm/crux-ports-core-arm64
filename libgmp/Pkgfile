@@ -10,7 +10,7 @@ release=1
 source=(https://gmplib.org/download/gmp/gmp-$version.tar.xz)
 
 build() {
-  cd gmp-${version%a}
+  cd gmp-$version}
   ./configure --prefix=/usr \
               --enable-cxx
 
