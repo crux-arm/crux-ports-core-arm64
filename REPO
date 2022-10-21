@@ -60,8 +60,8 @@ f:f7fefce570a3c776e26e778c5e401490:glibc/ld.so.conf
 f:75931315bf9bc9be15a5e25e4ddd5f0d:glibc/nsswitch.conf
 f:518de5e52f9166e58ed613a0d636e774:glibc/locale.gen.in
 f:14d9f26711e3505f31f9c3d0a81b1078:glibc/.footprint
-f:7b37dcaf3bf2289065717136306b1d4a:pkgutils/.signature
-f:b37ed09be7860da542f840faa2c93e21:pkgutils/Pkgfile
+f:1bbcf848582d296c85e9e6197f386040:pkgutils/.signature
+f:64347d3b13c1cbc1b082f9cbc0840f8f:pkgutils/Pkgfile
 f:0e1717fd1eeb62d8fce0c23682e9b337:pkgutils/.footprint
 f:86af7820b6803bf7639a4ab378302242:libnl/.signature
 f:5b0a12a15c9cf38208598e06c45b50fe:libnl/Pkgfile
