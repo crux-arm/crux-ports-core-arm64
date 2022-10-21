@@ -39,8 +39,8 @@ f:4f6b710e4d2b18c70cfe5e4a593938b7:prt-get/prt-get.aliases
 f:fba3b19b1f9ef72c722360b8cfd73c3d:prt-get/Pkgfile
 f:d5c5a5884622fd5956dc35dd1e71eecc:prt-get/prt-get.conf
 f:077fea960d8a490412eed744ce9bcc40:prt-get/.footprint
-f:404a9fdc88e31daa40ab1d1e926bc713:util-linux/.signature
-f:fb8ac1d437140e8ae0c39cc1b9630bee:util-linux/Pkgfile
+f:1b874ad2818b63eb6817c2bec6ce393f:util-linux/.signature
+f:f4b2a3a7e1f0a2c4b61f69f8a63f0855:util-linux/Pkgfile
 f:3b4cf9aa23794c76f5f386c3298f3ba8:util-linux/.footprint
 f:3166e6c92e898e5d804af71aeafc06a2:binutils/.signature
 f:edcb211c7e77fedab8d60755fb2a8f7b:binutils/Pkgfile
