@@ -26,8 +26,8 @@ unpack_source() {
 build() {
   # fix libasan.a
   sed -e '/static.*SIGSTKSZ/d' \
-      -e 's/return kAltStackSize/return SIGSTKSZ * 4/' \
-      -i $name-$version/libsanitizer/sanitizer_common/sanitizer_posix_libcdep.cpp
+    -e 's/return kAltStackSize/return SIGSTKSZ * 4/' \
+    -i $name-$version/libsanitizer/sanitizer_common/sanitizer_posix_libcdep.cpp
 
   patch -d $name-$version -p1 -i $SRC/$name-nocheck-fixincludes.patch
   patch -d $name-$version -p1 -i $SRC/gcc-aarch64-dirs.patch
