@@ -2,12 +2,12 @@
 # URL: https://crux.nu
 # Maintainer: CRUX System Team, core-ports at crux dot nu
 # Arch Maintainer: CRUX-ARM System Team, devel at crux-arm dot nu
-  
+ 
 name=filesystem
 version=3.7
 release=3
 source=(issue motd shells group passwd shadow securetty fstab mime.types)
-  
+ 
 build() {
   # Directory structure
   install -d $PKG/bin
