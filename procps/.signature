@@ -1,6 +1,0 @@
-untrusted comment: verify with /etc/ports/core-arm64.pub
-RWSKslkvIwb+2Ttd4E/mOZYyg/zhsSuUxT/MDN5H0YS86fd4we8wPqYrPTKxZcxswNsE0eHHegB1gBR+KcYWW3bhtwf+hMBMSgQ=
-SHA256 (Pkgfile) = 2b6b04ff4f15f8d3f2be145339edbfe0fcb97ce95571743aa12b39e2aa6f5439
-SHA256 (.footprint) = 6a53a414180672c7115e44aa79f4b16713c7a72a3e7b115dfe4251a04bcd03b8
-SHA256 (procps-ng-4.0.0.tar.xz) = 0f4d92794edb7a1c95bb3b8c1f823de62be5d0043459c2155fd07fa859c16513
-SHA256 (sysctl.conf) = 27c68004a396334b972bbb99375088c3bbd65cfbed8abdfc8f0b77f45fd8e47f
