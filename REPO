@@ -94,9 +94,9 @@ f:101ec1ab4e704fa26fbc9f144ef2e636:libarchive/.signature
 f:dda9d4c738b67c259ed1f8d721a7efd3:libarchive/Pkgfile
 f:214c8b8fde031017cdf0973573ffb43f:libarchive/.footprint
 f:37173a681c2cd6621c436639de5f3f73:gcc/README
-f:6fc7973cf7bb67fddb1054ece8d810a8:gcc/.signature
+f:9e636ba024e5b93def2e17af42486b9d:gcc/.signature
 f:dd44eeb6b7d12824ac0eb56e95713a59:gcc/gcc-aarch64-dirs.patch
-f:ae60680cf1255f3b74d5a9117854adef:gcc/Pkgfile
+f:e50a3daae933c522c5d248590bcf8970:gcc/Pkgfile
 f:a617c4d3fa11e0c9410ac213eb061677:gcc/gcc-nocheck-fixincludes.patch
 f:73e099d61d2d8df3ea83e1714a72f08d:gcc/.footprint
 f:6d8068ac50b3aadc6507a131ae867641:dbus/.signature
