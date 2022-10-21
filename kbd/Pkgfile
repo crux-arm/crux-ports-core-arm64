@@ -13,9 +13,9 @@ build() {
   cd $name-$version
 
   ./configure --prefix=/usr \
-              --datadir=/usr/share/kbd \
-              --disable-vlock \
-              --disable-nls
+    --datadir=/usr/share/kbd \
+    --disable-vlock \
+    --disable-nls
   make
   make DESTDIR=$PKG install
 
