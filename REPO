@@ -106,8 +106,8 @@ f:3202f22d3334bc98b1d5244bdadbe2ca:dbus/rc.dbus
 f:95412978f8aa3c9fc667543107086479:dbus/post-install
 f:fa8c1aad5482c9c4773ece00a0fb923a:dbus/Pkgfile
 f:736c0fd80a4c66d35a41677d7d00618a:dbus/.footprint
-f:f43dd880adbc7fb2cc74801c56f6e754:python3/.signature
-f:3a1778a35ad9003e2b56ae3de50be20f:python3/Pkgfile
+f:82a1866ccbcc45911ff1219086c5b478:python3/.signature
+f:00159a5e4a1af68452fb957febf407ad:python3/Pkgfile
 f:861a685c288c84788be1c15474eb8a52:python3/.footprint
 f:96be0a48d87f747b4496e142d26c0312:psmisc/.signature
 f:b7f131de14e7ffae36ea9320a117de80:psmisc/Pkgfile
