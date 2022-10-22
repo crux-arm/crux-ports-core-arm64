@@ -87,4 +87,6 @@ PRETTY_NAME="CRUX-ARM"
 HOME_URL="https://crux-arm.nu/"
 BUG_REPORT_URL="https://crux-arm.nu/bugs/"
 EOF
+  # Fix permissions
+  chmod 644 $PKG/etc/os-release
 }
