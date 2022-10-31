@@ -99,11 +99,11 @@ f:dd44eeb6b7d12824ac0eb56e95713a59:gcc/gcc-aarch64-dirs.patch
 f:e50a3daae933c522c5d248590bcf8970:gcc/Pkgfile
 f:a617c4d3fa11e0c9410ac213eb061677:gcc/gcc-nocheck-fixincludes.patch
 f:73e099d61d2d8df3ea83e1714a72f08d:gcc/.footprint
-f:c127ef6c0a4b2bcaf7534a377d9707c1:nftables/.signature
+f:30e2de6690fb917729380aabfed20076:nftables/.signature
 f:38968f6619a93e9754691ff2e057033c:nftables/nftables.nft
 f:4770fcf13cb80b2832d7ddcbf1ddd968:nftables/nftables.init
-f:2f0fb0afd111c74da56f59ffa9ccb002:nftables/Pkgfile
-f:3fafc9f6fa343a41d8e052c90d96ec87:nftables/.footprint
+f:3bce3e9a9941c92ba20d697df580b241:nftables/Pkgfile
+f:b571100bacb4e350c6924563cb042e04:nftables/.footprint
 f:6d8068ac50b3aadc6507a131ae867641:dbus/.signature
 f:23bc5ff22fe4f9a208d65fbbfd489ad9:dbus/30-dbus.launch
 f:3202f22d3334bc98b1d5244bdadbe2ca:dbus/rc.dbus
