@@ -26,8 +26,12 @@ jobs:
         run: |
           git config user.name "$(git log -n 1 --pretty=format:%an)"
           git config user.email "$(git log -n 1 --pretty=format:%ae)"
-          bash -c "git commit -a -m '[auto] Update REPO file' && git push || exit 0"
-
+          bash -c "git commit -a -m '[auto] Update REPO file' && git push || exit 0" 
+      
+      # Prepare git log message to avoid extra blank lines
+      - name: Set env message
+        run: echo "MESSAGE=$(git log -1 --pretty=format:"%s")" >> $GITHUB_ENV      
+      
       # Send IRC message by bot
       - name: irc push
         uses: rectalogic/notify-irc@v1
@@ -36,5 +40,4 @@ jobs:
           channel: "#crux-arm"
           server: "irc.libera.chat"
           nickname: crux-arm-bot
-          message: |
-            [${{ github.repository }}]: ${{ github.event.commits[0].message }}
+          message: ${{ env.MESSAGE }}
