@@ -131,8 +131,9 @@ f:f1b0368ef02aea34502f3e899f988dd5:ninja/Pkgfile
 f:314c9a03efc77e6867619c85aa5e3194:ninja/.footprint
 f:7a026aec4efa770bf75324988ce7ff81:ninja/.signature
 f:d32239bcb673463ab874e80d47fae504:COPYING
-f:eb280d302e77cf1733ec8bb6372464ea:binutils/Pkgfile
-f:50ec908d0409a8768c511e4ce6000d1d:binutils/.footprint
+f:27453fd633f944d2b25823321be3ec41:binutils/Pkgfile
+f:123b17863bb2d75888e1a8d51c8f3bd4:binutils/.footprint
+f:ad0dea53432136aa47f81822287a7e98:binutils/.signature
 f:d57279f5bd8b1b705b7be4f6866c9ced:ports/xorg.rsync
 f:51a4dcb672248c550f3def3596be4252:ports/Pkgfile
 f:bceca3aa28a0ee00f14e5634251a8322:ports/core.rsync
