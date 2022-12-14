@@ -32,6 +32,8 @@ build() {
     --disable-werror \
     --with-system-zlib
 
+  sed -i -e '/^MAKEINFO/s:=.*:= true:' Makefile
+
   make tooldir=/usr
   make tooldir=/usr DESTDIR=$PKG install
 
