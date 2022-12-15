@@ -23,7 +23,7 @@ build() {
     --enable-pgo-build=lto \
     --enable-plugins \
     --enable-install-libiberty \
-    --with-bugurl=https://crux.nu/bugs/ \
+    --with-bugurl=https://crux-arm.nu/bugs/ \
     --with-pic \
     --with-system-zlib \
     --without-stage1-ldflags \
