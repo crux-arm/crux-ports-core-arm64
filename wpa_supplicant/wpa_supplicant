@@ -7,7 +7,7 @@ DEV=wlp3s0
 
 SSD=/sbin/start-stop-daemon
 PROG=/usr/sbin/wpa_supplicant
-PID=/var/run/wpa_supplicant.pid
+PID=/run/wpa_supplicant.pid
 OPTS="-B -P $PID -D nl80211,wext -c /etc/wpa_supplicant.conf -i $DEV"
 
 

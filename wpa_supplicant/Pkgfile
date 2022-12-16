@@ -6,7 +6,7 @@
 
 name=wpa_supplicant
 version=2.10
-release=1
+release=2
 source=(https://w1.fi/releases/$name-$version.tar.gz
   wpa_supplicant wlan)
 
@@ -27,7 +27,7 @@ build() {
   install -m 0644 doc/docbook/wpa_supplicant.conf.5 $PKG/usr/share/man/man5
 
   # config
-  echo -e "ctrl_interface=/var/run/wpa_supplicant\n" > $PKG/etc/wpa_supplicant.conf
+  echo -e "ctrl_interface=/run/wpa_supplicant\n" > $PKG/etc/wpa_supplicant.conf
   chmod 0600 $PKG/etc/wpa_supplicant.conf
 
   # rc script

@@ -1,7 +1,7 @@
 untrusted comment: verify with /etc/ports/core-arm64.pub
-RWSKslkvIwb+2SHa0mguhbowiorNeWeyXf7xJQlX9Tz8zWYGm3LrEJMIxYs/t8/CQZta3wi4cG7SdAQualQWRjGTXtaFrxMvzw4=
-SHA256 (Pkgfile) = 0a5c1cad4f2a27a51b3eb750a3721236229b2eba7067bac2bfc2adcd304d3e00
+RWSKslkvIwb+2ely/rfOCDmV/sPNspvWOk0CZbYTWyVgU/FjBTw9OHRN08622qhfrK5gc7WWQ/j6glmnRNEgP81EE9csjI5EcwU=
+SHA256 (Pkgfile) = 0c8ba9ea72651239f8732f251f7c549a04661db6ae7b6d4dc0df0c2825a3eb4e
 SHA256 (.footprint) = c601da7d8f0118f98fe747611466a530d48519832c8aba47db01df055d64f869
 SHA256 (wpa_supplicant-2.10.tar.gz) = 20df7ae5154b3830355f8ab4269123a87affdea59fe74fe9292a91d0d7e17b2f
-SHA256 (wpa_supplicant) = 6d7c37c49d4f06194195ca1e7c66a4bb067d82e3884b278e6cdd72c6f7476bae
+SHA256 (wpa_supplicant) = 5257d99555bb189f6e509c1779ffe85447de77f0bcd5f14495892cb53a0167f2
 SHA256 (wlan) = c025ad557806d86ef231770c8a77a02a0194d92d89b5fb16bec036eddbc5d308
