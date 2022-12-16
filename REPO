@@ -155,9 +155,9 @@ f:064713031d282b0dc4da2682bfa1db15:openssl/.signature
 f:2c8e1cbbcaaf97b65f48178b879ca2df:openssl/.footprint
 f:a2ee72974e30dd11ffcc666b49d90031:openssl/Pkgfile
 f:91f85842d2118003ee465c34259047e6:openssl/mksslcert.sh
-f:96be0a48d87f747b4496e142d26c0312:psmisc/.signature
+f:7c819eefbfc73c3e80cc748d23cd31f7:psmisc/.signature
 f:301dd94576fb3a08fde2b7cbec7469eb:psmisc/.footprint
-f:b7f131de14e7ffae36ea9320a117de80:psmisc/Pkgfile
+f:8d1d80ce6db2941a0bfdf948dde7f0b6:psmisc/Pkgfile
 f:1b874ad2818b63eb6817c2bec6ce393f:util-linux/.signature
 f:3b4cf9aa23794c76f5f386c3298f3ba8:util-linux/.footprint
 f:f4b2a3a7e1f0a2c4b61f69f8a63f0855:util-linux/Pkgfile
