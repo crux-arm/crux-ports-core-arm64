@@ -31,6 +31,7 @@ f:dda9d4c738b67c259ed1f8d721a7efd3:libarchive/Pkgfile
 f:d32239bcb673463ab874e80d47fae504:COPYING
 f:1bbcf848582d296c85e9e6197f386040:pkgutils/.signature
 f:0e1717fd1eeb62d8fce0c23682e9b337:pkgutils/.footprint
+f:2751668634604cf74c51d347618c3825:pkgutils/pkgmk.conf
 f:64347d3b13c1cbc1b082f9cbc0840f8f:pkgutils/Pkgfile
 f:eb9957327cc0521077cb36c674075df1:db/.signature
 f:034680aa69ee64596517784fe1161c1b:db/.footprint
