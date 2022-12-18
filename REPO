@@ -25,9 +25,9 @@ d:ninja
 d:openssl
 d:psmisc
 d:util-linux
-f:101ec1ab4e704fa26fbc9f144ef2e636:libarchive/.signature
-f:214c8b8fde031017cdf0973573ffb43f:libarchive/.footprint
-f:dda9d4c738b67c259ed1f8d721a7efd3:libarchive/Pkgfile
+f:5ad4ef9587f0f5c25da4581b019315dd:libarchive/.signature
+f:3b2430bf34bf2968b34b645625912095:libarchive/.footprint
+f:3f9ceb2891e07aca3d7e1543e2084219:libarchive/Pkgfile
 f:d32239bcb673463ab874e80d47fae504:COPYING
 f:1bbcf848582d296c85e9e6197f386040:pkgutils/.signature
 f:0e1717fd1eeb62d8fce0c23682e9b337:pkgutils/.footprint
