@@ -53,7 +53,7 @@ f:3c4c0d94d2a4390846c82d2d59de4747:pkgconf/.footprint
 f:e7c9873231bf91971274cca4593f0a50:pkgconf/Pkgfile
 f:6d8068ac50b3aadc6507a131ae867641:dbus/.signature
 f:736c0fd80a4c66d35a41677d7d00618a:dbus/.footprint
-f:3202f22d3334bc98b1d5244bdadbe2ca:dbus/rc.dbus
+f:6292607b8d1507e7b31f6c09a7d147f1:dbus/rc.dbus
 f:fa8c1aad5482c9c4773ece00a0fb923a:dbus/Pkgfile
 f:23bc5ff22fe4f9a208d65fbbfd489ad9:dbus/30-dbus.launch
 f:95412978f8aa3c9fc667543107086479:dbus/post-install
