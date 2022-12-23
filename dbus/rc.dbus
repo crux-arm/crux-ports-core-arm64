@@ -5,7 +5,7 @@
 
 SSD=/sbin/start-stop-daemon
 PROG=/usr/sbin/dbus-daemon
-PID=/var/run/dbus/dbus.pid
+PID=/run/dbus/dbus.pid
 OPTS="--system"
 
 case $1 in
@@ -14,6 +14,7 @@ start)
         then
                 /usr/bin/dbus-uuidgen --ensure
         fi
+        mkdir -p /run/dbus
         $SSD --start --pidfile=$PID --exec $PROG -- $OPTS
         ;;
 stop)
