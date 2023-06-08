@@ -1,6 +1,6 @@
 drwxr-xr-x	root/root	usr/
 drwxr-xr-x	root/root	usr/bin/
-lrwxrwxrwx	root/root	usr/bin/arm-unknown-linux-gnu-pkg-config -> pkgconf
+lrwxrwxrwx	root/root	usr/bin/arm64-unknown-linux-gnu-pkg-config -> pkgconf
 -rwxr-xr-x	root/root	usr/bin/bomtool
 lrwxrwxrwx	root/root	usr/bin/pkg-config -> pkgconf
 -rwxr-xr-x	root/root	usr/bin/pkgconf
@@ -34,4 +34,4 @@ drwxr-xr-x	root/root	usr/share/man/man7/
 -rw-r--r--	root/root	usr/share/man/man7/pkg.m4.7.gz
 drwxr-xr-x	root/root	usr/share/pkgconfig/
 drwxr-xr-x	root/root	usr/share/pkgconfig/personality.d/
--rw-r--r--	root/root	usr/share/pkgconfig/personality.d/arm-unknown-linux-gnu.personality
+-rw-r--r--	root/root	usr/share/pkgconfig/personality.d/arm64-unknown-linux-gnu.personality
