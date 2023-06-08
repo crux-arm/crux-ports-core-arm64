@@ -37,11 +37,11 @@ f:23bc5ff22fe4f9a208d65fbbfd489ad9:dbus/30-dbus.launch
 f:fa8c1aad5482c9c4773ece00a0fb923a:dbus/Pkgfile
 f:6292607b8d1507e7b31f6c09a7d147f1:dbus/rc.dbus
 f:95412978f8aa3c9fc667543107086479:dbus/post-install
-f:bb709d44fc618c12df73514a21c52027:pkgconf/.signature
+f:dce504c2260092db81c49fe636b7486e:pkgconf/.signature
 f:6fec70b14f238ad94caf5dac367ee427:pkgconf/README
-f:e03066e71422f4177821d02898637b84:pkgconf/.footprint
+f:b09e4f01621e112e99b868c34af1e590:pkgconf/.footprint
 f:9a62c5d91dcb968c163cb6495c687df3:pkgconf/arm-unknown-linux-gnu.personality
-f:7b78c940516238e860f06bf9338de096:pkgconf/Pkgfile
+f:797acce5d12cca13d8c31dfa4dbe880b:pkgconf/Pkgfile
 f:86af7820b6803bf7639a4ab378302242:libnl/.signature
 f:1ab43fcd33c445200bd233e0d3efd422:libnl/.footprint
 f:5b0a12a15c9cf38208598e06c45b50fe:libnl/Pkgfile
