@@ -1,4 +1,4 @@
-Triplet: arm-unknown-linux-gnueabihf
+Triplet: aarch64-unknown-linux-gnueabihf
 SysrootDir: /
 DefaultSearchPaths: /usr/lib/pkgconfig:/usr/share/pkgconfig
 SystemIncludePaths: /usr/include
