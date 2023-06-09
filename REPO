@@ -90,9 +90,9 @@ f:eb9957327cc0521077cb36c674075df1:db/.signature
 f:034680aa69ee64596517784fe1161c1b:db/.footprint
 f:bf37166683ba4966059cda949d4f6dbd:db/0001-atomic-Rename-local-__atomic_compare_exchange-to-avo.patch
 f:e76c6c47b3018e20505c482b123151e6:db/Pkgfile
-f:e8d90792aa2bbd917a1ea54fb86fd719:pkgconf/.signature
+f:f6ab7078fafdb1cb90b62975485aed43:pkgconf/.signature
 f:b09e4f01621e112e99b868c34af1e590:pkgconf/.footprint
-f:8cc244ac27ca4692f40e2ff651ecc580:pkgconf/aarch64-unknown-linux-gnu.personality
+f:831f8a6e42441c8d76271655ce276c1e:pkgconf/aarch64-unknown-linux-gnu.personality
 f:6fec70b14f238ad94caf5dac367ee427:pkgconf/README
 f:797acce5d12cca13d8c31dfa4dbe880b:pkgconf/Pkgfile
 f:25e4da2913fcada2e8151039d6221884:python3/.signature
