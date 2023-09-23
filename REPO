@@ -142,9 +142,9 @@ f:034680aa69ee64596517784fe1161c1b:db/.footprint
 f:eb86f8dc33b4ea39cb90d259b00586e6:meson/Pkgfile
 f:52dc3dadb9f6baac44da389cc1cf4d13:meson/.signature
 f:749af6c06ab63a2d08e892698cf1d1ed:meson/.footprint
-f:f4b2a3a7e1f0a2c4b61f69f8a63f0855:util-linux/Pkgfile
-f:1b874ad2818b63eb6817c2bec6ce393f:util-linux/.signature
-f:3b4cf9aa23794c76f5f386c3298f3ba8:util-linux/.footprint
+f:e53c860d84bdce67531d1c2ebcaee018:util-linux/Pkgfile
+f:26b82444a47908ba13a0a1344b71886d:util-linux/.signature
+f:b1202fe0c4ac985b8ecb0cc5a07a6c9c:util-linux/.footprint
 f:d6b1b34726ebd8d3466dac7c68ad105d:glibc/glibc-2.35-make-4.4-MAKEFLAGS.patch
 f:f756ffa6b1909ff5f2de80c061e4688f:glibc/Pkgfile
 f:75931315bf9bc9be15a5e25e4ddd5f0d:glibc/nsswitch.conf
