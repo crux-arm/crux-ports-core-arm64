@@ -23,7 +23,6 @@ d:meson
 d:util-linux
 d:glibc
 d:binutils
-d:nftables
 f:fc26188ddecc0449b340cd8997cefadb:kbd/Pkgfile
 f:797e650477b279b5db13c0cc3bdf9fc3:kbd/.signature
 f:e6d37048fd3de20cdd1d623eb0faa602:kbd/.footprint
@@ -159,8 +158,3 @@ f:19cdc700878b55c699b2027a35bdb94a:glibc/.footprint
 f:2173784e78fdbb2625b0bc519eba3688:binutils/Pkgfile
 f:16be65271ca4c29827e9b3c75db5fbad:binutils/.signature
 f:123b17863bb2d75888e1a8d51c8f3bd4:binutils/.footprint
-f:3bce3e9a9941c92ba20d697df580b241:nftables/Pkgfile
-f:38968f6619a93e9754691ff2e057033c:nftables/nftables.nft
-f:4770fcf13cb80b2832d7ddcbf1ddd968:nftables/nftables.init
-f:bac6d651478ea23413a1477f5a155457:nftables/.signature
-f:b571100bacb4e350c6924563cb042e04:nftables/.footprint
