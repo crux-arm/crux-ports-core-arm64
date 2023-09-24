@@ -11,7 +11,6 @@ d:openssl
 d:libgmp
 d:filesystem
 d:wireless-tools
-d:libarchive
 d:wpa_supplicant
 d:python3
 d:dbus
@@ -93,9 +92,6 @@ f:6edbe72669243109e2872d2c94c1ca51:filesystem/.footprint
 f:37e84b810aec08c66c8317e1bbd85318:wireless-tools/Pkgfile
 f:955db1980bbb3f702656b3883dbf8581:wireless-tools/.signature
 f:0a4ff1a49b94567ca211ff8e78164cf4:wireless-tools/.footprint
-f:3f9ceb2891e07aca3d7e1543e2084219:libarchive/Pkgfile
-f:5ad4ef9587f0f5c25da4581b019315dd:libarchive/.signature
-f:3b2430bf34bf2968b34b645625912095:libarchive/.footprint
 f:039cd058a7ba2b2cbc6446c0e9c40c20:wpa_supplicant/Pkgfile
 f:94eda9e510358f6fc9e6033048cc05de:wpa_supplicant/README
 f:5b505ff68474564b9eb44b04445ba730:wpa_supplicant/wpa_supplicant
