@@ -11,7 +11,6 @@ d:openssl
 d:libgmp
 d:filesystem
 d:wireless-tools
-d:linux-pam
 d:libarchive
 d:wpa_supplicant
 d:python3
@@ -94,14 +93,6 @@ f:6edbe72669243109e2872d2c94c1ca51:filesystem/.footprint
 f:37e84b810aec08c66c8317e1bbd85318:wireless-tools/Pkgfile
 f:955db1980bbb3f702656b3883dbf8581:wireless-tools/.signature
 f:0a4ff1a49b94567ca211ff8e78164cf4:wireless-tools/.footprint
-f:9d4676c9d210ac2a2bd68671fecd8bea:linux-pam/Pkgfile
-f:6362b0bfc92504b3f8aec8ed3cd7b861:linux-pam/common-account
-f:a47ba380e5575c69784ca6a01888199d:linux-pam/other
-f:c38f769ecc5607ea821fb0e6b4185f19:linux-pam/common-session
-f:af79dbf9b6a82ea8fcbafa1a405bcbd6:linux-pam/common-auth
-f:f26bcfea5b85a46e6e519f410ea80d22:linux-pam/.signature
-f:cc2207aa93a3b6579e5099f6ea699bc8:linux-pam/common-password
-f:eaf3734e2cfd0c5357351eab89b97894:linux-pam/.footprint
 f:3f9ceb2891e07aca3d7e1543e2084219:libarchive/Pkgfile
 f:5ad4ef9587f0f5c25da4581b019315dd:libarchive/.signature
 f:3b2430bf34bf2968b34b645625912095:libarchive/.footprint
