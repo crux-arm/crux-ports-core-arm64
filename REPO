@@ -23,9 +23,9 @@ d:meson
 d:util-linux
 d:glibc
 d:binutils
-f:fc26188ddecc0449b340cd8997cefadb:kbd/Pkgfile
-f:797e650477b279b5db13c0cc3bdf9fc3:kbd/.signature
-f:e6d37048fd3de20cdd1d623eb0faa602:kbd/.footprint
+f:c821250e7dfc09110052f286033ccd98:kbd/Pkgfile
+f:fb80f6daa049cb0c354389043ec30dac:kbd/.signature
+f:cb16f26de91da8792221c4bb295a5329:kbd/.footprint
 f:797acce5d12cca13d8c31dfa4dbe880b:pkgconf/Pkgfile
 f:6fec70b14f238ad94caf5dac367ee427:pkgconf/README
 f:831f8a6e42441c8d76271655ce276c1e:pkgconf/aarch64-unknown-linux-gnu.personality
