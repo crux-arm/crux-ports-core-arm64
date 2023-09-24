@@ -3,7 +3,6 @@ d:pkgconf
 d:libnl
 d:ninja
 d:pkgutils
-d:cmake
 d:prt-get
 d:ports
 d:psmisc
@@ -43,9 +42,6 @@ f:64347d3b13c1cbc1b082f9cbc0840f8f:pkgutils/Pkgfile
 f:2751668634604cf74c51d347618c3825:pkgutils/pkgmk.conf
 f:027635e75e8b6ab81bbcbfb48c068d89:pkgutils/.signature
 f:0e1717fd1eeb62d8fce0c23682e9b337:pkgutils/.footprint
-f:54cc66da320175b7255359a40accc546:cmake/Pkgfile
-f:9d5a6e2149afe5ccad97308c48780391:cmake/.signature
-f:ddd16ccf035a362a67ea71ac0b103d7e:cmake/.footprint
 f:fba3b19b1f9ef72c722360b8cfd73c3d:prt-get/Pkgfile
 f:d5c5a5884622fd5956dc35dd1e71eecc:prt-get/prt-get.conf
 f:cb96c46c2cf16e2a2f1f13f29f5faab3:prt-get/README
