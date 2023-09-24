@@ -26,10 +26,10 @@ d:binutils
 f:c821250e7dfc09110052f286033ccd98:kbd/Pkgfile
 f:fb80f6daa049cb0c354389043ec30dac:kbd/.signature
 f:cb16f26de91da8792221c4bb295a5329:kbd/.footprint
-f:797acce5d12cca13d8c31dfa4dbe880b:pkgconf/Pkgfile
+f:3665aedabbec6ff2d9e95d62634a65fa:pkgconf/Pkgfile
 f:6fec70b14f238ad94caf5dac367ee427:pkgconf/README
 f:831f8a6e42441c8d76271655ce276c1e:pkgconf/aarch64-unknown-linux-gnu.personality
-f:f6ab7078fafdb1cb90b62975485aed43:pkgconf/.signature
+f:bfed85c1bce5cc0dda7c040ba4d1363a:pkgconf/.signature
 f:b09e4f01621e112e99b868c34af1e590:pkgconf/.footprint
 f:9e8b6325c5acf4f299c1c40eaa18be77:libnl/Pkgfile
 f:d8f6570cfa10a1850a189b9e21ce51ca:libnl/.signature
