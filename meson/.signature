@@ -1,5 +1,0 @@
-untrusted comment: verify with /etc/ports/core-arm64.pub
-RWSKslkvIwb+2fbLSDGJQAAeORgStzJV3uiPamEbjrIHtGqh9EpFmmHtLDRyddGzqevBVVsJU5bFsN9Twoc0gL+voY1x8TTI7g4=
-SHA256 (Pkgfile) = d32becd407de110d7ce3e24cddeade5aed2f84d546780cffb6e337b9a50c700d
-SHA256 (.footprint) = fc8360cc5d9fb648489635d4739b68381e2dbd3a282e92a8a400486d98a32f22
-SHA256 (meson-0.64.1.tar.gz) = 3a8e030c2334f782085f81627062cc6d4a6771edf31e055ffe374f9e6b089ab9
