@@ -107,12 +107,13 @@ f:6292607b8d1507e7b31f6c09a7d147f1:dbus/rc.dbus
 f:9cb512c77bdf3e8b02dbd78e4ab4be9e:dbus/.signature
 f:95412978f8aa3c9fc667543107086479:dbus/post-install
 f:75eaa36a2c8a27447308827ef0178aa1:dbus/.footprint
-f:e50a3daae933c522c5d248590bcf8970:gcc/Pkgfile
+f:2f35e798ac5c056bdec3943427e0cf0a:gcc/Pkgfile
 f:37173a681c2cd6621c436639de5f3f73:gcc/README
 f:dd44eeb6b7d12824ac0eb56e95713a59:gcc/gcc-aarch64-dirs.patch
+f:507c1780a370500cdb233be39cc2c772:gcc/fix-nested-generic-lambda.patch
 f:a617c4d3fa11e0c9410ac213eb061677:gcc/gcc-nocheck-fixincludes.patch
-f:9e636ba024e5b93def2e17af42486b9d:gcc/.signature
-f:73e099d61d2d8df3ea83e1714a72f08d:gcc/.footprint
+f:43d69473baa20a428ae2532bba2ee89e:gcc/.signature
+f:66d6f11535cc0154751f7c567947c82e:gcc/.footprint
 f:38588166114845ad7e7056ef037683ed:libmpc/Pkgfile
 f:b48f69fceb50584ec17b005888d31565:libmpc/.md5sum
 f:d599da8fa11d052d1ebb55790cd2989b:libmpc/.signature
