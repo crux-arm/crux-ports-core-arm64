@@ -117,9 +117,14 @@ f:38588166114845ad7e7056ef037683ed:libmpc/Pkgfile
 f:b48f69fceb50584ec17b005888d31565:libmpc/.md5sum
 f:d599da8fa11d052d1ebb55790cd2989b:libmpc/.signature
 f:43f50f79643bb5919e310b44f4eb6a8d:libmpc/.footprint
-f:e76c6c47b3018e20505c482b123151e6:db/Pkgfile
+f:103f294517da91e8e6fbb04c23cb6bd7:db/Pkgfile
+f:015f019e2731e18c4229ed5772707feb:db/db-5.3.28-mmap-high-cpu-usage.patch
 f:bf37166683ba4966059cda949d4f6dbd:db/0001-atomic-Rename-local-__atomic_compare_exchange-to-avo.patch
-f:eb9957327cc0521077cb36c674075df1:db/.signature
+f:b886af5bc256d3a56d9be8f998f641b4:db/db-5.3.21-mutex_leak.patch
+f:3aae61a6f51f287cd8873bc58fcde500:db/db-5.3.21-memp_stat-upstream-fix.patch
+f:42de24f40ae2c7ea1b4c59352962029f:db/db-5.3.28_cve-2019-2708.patch
+f:884554b16ca6ee8dd86162682eac68cc:db/.signature
+f:cbbbdecab1948c6255c091398b8393ed:db/db-5.3.28-lemon_hash.patch
 f:034680aa69ee64596517784fe1161c1b:db/.footprint
 f:e53c860d84bdce67531d1c2ebcaee018:util-linux/Pkgfile
 f:26b82444a47908ba13a0a1344b71886d:util-linux/.signature
