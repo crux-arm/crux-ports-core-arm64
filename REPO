@@ -17,7 +17,6 @@ d:dbus
 d:gcc
 d:libmpc
 d:db
-d:meson
 d:util-linux
 d:glibc
 d:binutils
@@ -122,9 +121,6 @@ f:e76c6c47b3018e20505c482b123151e6:db/Pkgfile
 f:bf37166683ba4966059cda949d4f6dbd:db/0001-atomic-Rename-local-__atomic_compare_exchange-to-avo.patch
 f:eb9957327cc0521077cb36c674075df1:db/.signature
 f:034680aa69ee64596517784fe1161c1b:db/.footprint
-f:eb86f8dc33b4ea39cb90d259b00586e6:meson/Pkgfile
-f:52dc3dadb9f6baac44da389cc1cf4d13:meson/.signature
-f:749af6c06ab63a2d08e892698cf1d1ed:meson/.footprint
 f:e53c860d84bdce67531d1c2ebcaee018:util-linux/Pkgfile
 f:26b82444a47908ba13a0a1344b71886d:util-linux/.signature
 f:b1202fe0c4ac985b8ecb0cc5a07a6c9c:util-linux/.footprint
