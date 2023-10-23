@@ -61,8 +61,8 @@ f:6fec70b14f238ad94caf5dac367ee427:pkgconf/README
 f:d32239bcb673463ab874e80d47fae504:COPYING
 f:2751668634604cf74c51d347618c3825:pkgutils/pkgmk.conf
 f:0e1717fd1eeb62d8fce0c23682e9b337:pkgutils/.footprint
-f:027635e75e8b6ab81bbcbfb48c068d89:pkgutils/.signature
-f:64347d3b13c1cbc1b082f9cbc0840f8f:pkgutils/Pkgfile
+f:efeb649f3b44bc5a2a8468a35eda31ce:pkgutils/.signature
+f:16d89f894a71fe3c8a5793de7cf35de1:pkgutils/Pkgfile
 f:301dd94576fb3a08fde2b7cbec7469eb:psmisc/.footprint
 f:7c819eefbfc73c3e80cc748d23cd31f7:psmisc/.signature
 f:8d1d80ce6db2941a0bfdf948dde7f0b6:psmisc/Pkgfile
