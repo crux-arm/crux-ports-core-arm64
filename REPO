@@ -120,9 +120,9 @@ f:efeb649f3b44bc5a2a8468a35eda31ce:pkgutils/.signature
 f:2751668634604cf74c51d347618c3825:pkgutils/pkgmk.conf
 f:0e1717fd1eeb62d8fce0c23682e9b337:pkgutils/.footprint
 f:16d89f894a71fe3c8a5793de7cf35de1:pkgutils/Pkgfile
-f:26b82444a47908ba13a0a1344b71886d:util-linux/.signature
+f:834d41de5c250304771c98beaa3f9e74:util-linux/.signature
 f:b1202fe0c4ac985b8ecb0cc5a07a6c9c:util-linux/.footprint
-f:e53c860d84bdce67531d1c2ebcaee018:util-linux/Pkgfile
+f:8f52ebca52e3ec3b348e04a578f3b14c:util-linux/Pkgfile
 f:7a026aec4efa770bf75324988ce7ff81:ninja/.signature
 f:314c9a03efc77e6867619c85aa5e3194:ninja/.footprint
 f:f1b0368ef02aea34502f3e899f988dd5:ninja/Pkgfile
