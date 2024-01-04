@@ -37,7 +37,7 @@ build() {
     --prefix=/usr \
     --libexecdir=/usr/lib \
     --with-headers=$PKG/usr/include \
-    --enable-kernel=3.2 \
+    --enable-kernel=3.7.0 \
     --enable-add-ons \
     --enable-stack-protector=strong \
     --disable-profile \
