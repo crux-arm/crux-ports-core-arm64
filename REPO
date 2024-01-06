@@ -28,8 +28,8 @@ f:43f50f79643bb5919e310b44f4eb6a8d:libmpc/.footprint
 f:d599da8fa11d052d1ebb55790cd2989b:libmpc/.signature
 f:b48f69fceb50584ec17b005888d31565:libmpc/.md5sum
 f:21f51db0e1002f36a96a8dc5684fa440:python3/Pkgfile
-f:d41d8cd98f00b204e9800998ecf8427e:python3/.footprint
-f:6742919789d4ad82501d5e1bc15e49c4:python3/.signature
+f:577f48f530ea0285daf76e83699d3d65:python3/.footprint
+f:354d042756811a7ede60471dc9b041f2:python3/.signature
 f:f1b0368ef02aea34502f3e899f988dd5:ninja/Pkgfile
 f:314c9a03efc77e6867619c85aa5e3194:ninja/.footprint
 f:7a026aec4efa770bf75324988ce7ff81:ninja/.signature
