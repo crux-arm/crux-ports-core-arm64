@@ -1,12 +1,11 @@
 untrusted comment: verify with /etc/ports/core-arm64.pub
-RWSKslkvIwb+2cOq61Avcl4g67ZtHc94sfreRgqr+KGGiwu3SUSQWhP8xaqMgQI01u7IapYutYUxQkBp6zqFXNV1LoqcVr8GpQU=
-SHA256 (Pkgfile) = d382e6c159fb29f0eadabc9feb54954e5d9aecbf394bcbd356f40890b3ae4bb3
+RWSKslkvIwb+2U5oQ8zsnZQTRBus1nDbGc7ULDkxxiAYE/IXEeZHtFKKkxXJ2Ba+sNsDr/Xcdjw4gumm/sfnluuBL4dCEO7+tw4=
+SHA256 (Pkgfile) = 6c02a0218dc202a7bf090fe07ca15a3d6e1d325b9876f57ccfe75975a1911ba5
 SHA256 (.footprint) = 49b67a02d1fa80cf0fcbd8fa384b19c600e32c2925e5d48f0ff7399674f7f166
 SHA256 (glibc-2.36.tar.xz) = 1c959fea240906226062cb4b1e7ebce71a9f0e3c0836c09e7e3423d434fcfe75
 SHA256 (linux-5.15.55.tar.xz) = 1ef6bd508b6c3af3bef2d5b337e4477254dba284c79e329aa38f9763ae3bfdcc
 SHA256 (linux-headers-cp-insteadof-rsync.patch) = 8249950494d1eea36c65e43f40ac2d639a6003e7e773781cf3f62e1184ae47c3
-SHA256 (glibc-2.36-7.patch) = c167ddd1eb9e63fade7e60a2dc612a18e0900519d8c0ec1e0cf06fa92fca638a
-SHA256 (glibc-2.35-make-4.4-MAKEFLAGS.patch) = 7cfc3e52d840f5fb292e251209731ff83753cc5bf0056df3190ee4cb88ed3278
+SHA256 (glibc-2.36-8.patch) = df6b79339aa767fa3bea1443e1908ea124084b8eeee9e94ab03cc3afab0e4354
 SHA256 (hosts) = 5c02b256c105f1d4a12fb738d71c1bab9eb126533074d7a0c8a14b92670c9431
 SHA256 (resolv.conf) = 72ccb58768a72a771ec37142bc361a18478a07ec9de6e925a20760794389bf51
 SHA256 (nsswitch.conf) = 859b8984e5e90aff3cce8f9779996ae4033b280d2122840e9411e2f44a1c2e61
