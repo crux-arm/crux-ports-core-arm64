@@ -31,9 +31,9 @@ f:21f51db0e1002f36a96a8dc5684fa440:python3/Pkgfile
 f:354d042756811a7ede60471dc9b041f2:python3/.signature
 f:6fec70b14f238ad94caf5dac367ee427:pkgconf/README
 f:b09e4f01621e112e99b868c34af1e590:pkgconf/.footprint
-f:b2da59a6f536035eab088a1ad8f316b8:pkgconf/Pkgfile
+f:914013ea9b53b2103e60897753870bea:pkgconf/Pkgfile
 f:831f8a6e42441c8d76271655ce276c1e:pkgconf/aarch64-unknown-linux-gnu.personality
-f:de67ef0e84a93dc9ebe7ca107f920d85:pkgconf/.signature
+f:f0303f3a5317576302571bf10f037466:pkgconf/.signature
 f:7f2ac95e3220ebfa0222095a2f6ca0ba:glibc/glibc-2.36-9.patch
 f:62694f1d89005bb0e54bc9e3bbd0f4f7:glibc/post-install
 f:518de5e52f9166e58ed613a0d636e774:glibc/locale.gen.in
