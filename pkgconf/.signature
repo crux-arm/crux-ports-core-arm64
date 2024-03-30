@@ -1,6 +1,6 @@
-untrusted comment: verify with /etc/ports/core-arm64.pub
-RWSKslkvIwb+2Z5LRBKOm+ehEVd1N4uDAg4lh0vxD9Me6acTAINtvJOhbEIQfA5HtQwbd1DhJw7CixDrnZT1TDdkg5tgaUdBJwo=
-SHA256 (Pkgfile) = c2e1cfc11932c43839be7b877c560cde7063891023f96b0b1a5ca58bea510e15
-SHA256 (.footprint) = 193c27d03f8b7c8a3ad7aa1e6218b0b1943e09d5e80a6268abefca99129373c5
-SHA256 (pkgconf-2.1.1.tar.xz) = 3a224f2accf091b77a5781316e27b9ee3ba82c083cc2e539e08940b68a44fec5
+untrusted comment: verify with /etc/ports/opt-arm64.pub
+RWRitF9a2DJqMYArC7K3pfFOQPuo1cynsFyO4MaIUJldD4JJjVGfRrTx9WbPq2pbbQFl5MoGXEYuorH3e948cCc8fgi9DJmpEgo=
+SHA256 (Pkgfile) = dbf5f38fbcebb17222fa2b37dd2916353842a671c8a6a88b58c4551e6bd7e0eb
+SHA256 (.footprint) = d0321d4a256fcf2085c50c67b444d911f900212e58e1b46e464f3ab9793a9fc4
+SHA256 (pkgconf-2.2.0.tar.xz) = b06ff63a83536aa8c2f6422fa80ad45e4833f590266feb14eaddfe1d4c853c69
 SHA256 (aarch64-unknown-linux-gnu.personality) = 8a24362b483e4aec30f1bbea938906d1dd394db6afae2952ee8518a67e94ef08
