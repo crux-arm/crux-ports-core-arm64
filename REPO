@@ -84,11 +84,11 @@ f:039cd058a7ba2b2cbc6446c0e9c40c20:wpa_supplicant/Pkgfile
 f:301dd94576fb3a08fde2b7cbec7469eb:psmisc/.footprint
 f:741dab7058d4f4c1219f7bc536e51375:psmisc/.signature
 f:0d1017ce70e8d6111e6dac5248bad1dd:psmisc/Pkgfile
-f:b09e4f01621e112e99b868c34af1e590:pkgconf/.footprint
+f:5ad2b0665202811fa02cbaaf50819bfd:pkgconf/.footprint
 f:831f8a6e42441c8d76271655ce276c1e:pkgconf/aarch64-unknown-linux-gnu.personality
 f:6fec70b14f238ad94caf5dac367ee427:pkgconf/README
-f:f0303f3a5317576302571bf10f037466:pkgconf/.signature
-f:914013ea9b53b2103e60897753870bea:pkgconf/Pkgfile
+f:9031cee1d50512e28bb49506b4bd0e03:pkgconf/.signature
+f:7c585472a95d4b1a555c5ad03d51843b:pkgconf/Pkgfile
 f:91f85842d2118003ee465c34259047e6:openssl/mksslcert.sh
 f:109bf15ced389a96d62ca97e1f80b1f4:openssl/.footprint
 f:a87aa1f21eaa5a811f39d10ec20cc3f6:openssl/.signature
