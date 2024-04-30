@@ -63,9 +63,9 @@ f:560170f7f812563a91f53b3893eee297:ports/opt-arm64.httpup
 f:353ca6413716aa9fd68049efb68571ab:sysfsutils/.footprint
 f:e79e5effa552077b9f10dc3b17513b64:sysfsutils/Pkgfile
 f:839df50fb866499922790a36a2a2b138:sysfsutils/.signature
-f:314c9a03efc77e6867619c85aa5e3194:ninja/.footprint
-f:f1b0368ef02aea34502f3e899f988dd5:ninja/Pkgfile
-f:7a026aec4efa770bf75324988ce7ff81:ninja/.signature
+f:4fb0e3ab7d8ce70511a0d4fcfacaef43:ninja/.footprint
+f:8cbb37dc123e6a6cc1988934d6fb86e9:ninja/Pkgfile
+f:b96a4e45f64e4da6baa06959838d2f3d:ninja/.signature
 f:507c1780a370500cdb233be39cc2c772:gcc/fix-nested-generic-lambda.patch
 f:66d6f11535cc0154751f7c567947c82e:gcc/.footprint
 f:dd44eeb6b7d12824ac0eb56e95713a59:gcc/gcc-aarch64-dirs.patch
