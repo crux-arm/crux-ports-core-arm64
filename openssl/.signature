@@ -1,5 +1,5 @@
-untrusted comment: verify with /etc/ports/opt-arm64.pub
-RWRitF9a2DJqMdIOK/1JDyP9f2VWkRJPUDo9RM7zmKG5mMikzCZHKIDo2ZjeBb6V1W/97p0BQt+hO2UPbctnVClmhfHeTKMmIgQ=
+untrusted comment: verify with /etc/ports/core-arm64.pub
+RWSKslkvIwb+2TFuGQKygnhTdC4EgBHJv/0DcN7w0L6TMNPnZpZEjnLkGyXsVjyq31a6YltFa/RUmPPu7eq8TaqPmQxjgzfj/QA=
 SHA256 (Pkgfile) = 616a07de3bf2e15d55abe418c0db83bd4f19f6b648592201b859d584f2345b81
 SHA256 (.footprint) = 9ff6b584b1b6d0078b8e1172a1d0b8330d0e636ac637f34594c50749d7a8fe60
 SHA256 (openssl-3.3.0.tar.gz) = 53e66b043322a606abf0087e7699a0e033a37fa13feb9742df35c3a33b18fb02
