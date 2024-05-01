@@ -26,10 +26,10 @@ f:955db1980bbb3f702656b3883dbf8581:wireless-tools/.signature
 f:301dd94576fb3a08fde2b7cbec7469eb:psmisc/.footprint
 f:0d1017ce70e8d6111e6dac5248bad1dd:psmisc/Pkgfile
 f:741dab7058d4f4c1219f7bc536e51375:psmisc/.signature
-f:6c4ba7e3c09c153851bb9b49ee7dc6bd:util-linux/.footprint
-f:87ea84e97e467cd16523ba57f7d60d27:util-linux/Pkgfile
+f:af6ec1137c7ec32f1df1d2580fdfb9fc:util-linux/.footprint
+f:a9d36a45d598e6ebd2dda49c8d88d561:util-linux/Pkgfile
 f:427ab3cee4f97d1874ed14c1703af242:util-linux/pam_lastlog2.patch
-f:0859355480cbc8cdfcd36c0c2619ee71:util-linux/.signature
+f:e2a4a18d3d20cb1be37c10a5abc6c8d5:util-linux/.signature
 f:93f9e8967267e28eee45ceb960940157:python3/.footprint
 f:aaf28f40c4c78f72d8a84ca7ddf51d28:python3/Pkgfile
 f:5f1cb7550058bed26a1dfbfc9ba1a077:python3/.signature
