@@ -1,5 +1,6 @@
-untrusted comment: verify with /etc/ports/opt-arm64.pub
-RWRitF9a2DJqMdVdc0FS3cRltEHdLDAN6V/47SgUO5F/QlEkPeWm7mb4ClxskLZ5Id66WkB6M1ApvqspX47q2aUvOvO7gWjGKQ8=
-SHA256 (Pkgfile) = 5e69f4131e22d96a98379f4448bca3f51cf9dbe4882eb72e4994d175e4ff8315
-SHA256 (.footprint) = 0f9688cff28cae548e2009504646d03de994832aa20c3b7948a99f40da109b46
-SHA256 (util-linux-2.40.tar.gz) = f7ff8573289313e38ee3378cbc2938f34444a8cb546e1236e46151834be69784
+untrusted comment: verify with /etc/ports/core-arm64.pub
+RWSKslkvIwb+2VWF6r/rv7ObjMfNsd9iGAhwi+R2XDCZ5yAp3RxSf624rhcct67sME/UnJ1MfP/aFPEuZZtTov/MKYLx/R2gDAA=
+SHA256 (Pkgfile) = 03de77ef3ef2adf6903c038fabaf837ba92b9e9097e410f96dd1a101d214e40f
+SHA256 (.footprint) = 6f0fdf0b4e5479a340b61cc0c137d705745997d9075076901b9ba3c5f1239f33
+SHA256 (util-linux-2.40.tar.xz) = d57a626081f9ead02fa44c63a6af162ec19c58f53e993f206ab7c3a6641c2cd7
+SHA256 (pam_lastlog2.patch) = 638dd140a0643730d43ed693bbe58e53881eb8e1117d1d8e0bfae765c758be4b
