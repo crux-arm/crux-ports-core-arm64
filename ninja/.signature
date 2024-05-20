@@ -1,5 +1,5 @@
 untrusted comment: verify with /etc/ports/core-arm64.pub
-RWSKslkvIwb+2ak6hlTgbwgrBEcuEAqOSqTg1t5iEr0scMPAlGf7MXkyCWx3VcrA9OzbnzCUU8CHzmqKXdkWdLZxi1Wm/omPtQg=
-SHA256 (Pkgfile) = fa83fc7ea5f4feeb4a3544dd05bd7f6a0d2cbbd05ec4d19212e0a385436db1bb
-SHA256 (.footprint) = c5139c562abc3ade9f90290b4f979d774b30808a35b290e26e31e68087244cff
-SHA256 (ninja-v1.12.0.tar.gz) = 8b2c86cd483dc7fcb7975c5ec7329135d210099a89bc7db0590a07b0bbfe49a5
+RWSKslkvIwb+2WhjXdnVwRB1brXO/Lhn4ydVFvROuVEB9h2CmB8VmOXviXMweohm0BlI6vYMlp6fbLngHS+PilfL7JTShGmBtgk=
+SHA256 (Pkgfile) = 7e8622cf5c1bc11ffc5a1bc7fe05320d7edf55bc089e3eb5cd218a1a88389170
+SHA256 (.footprint) = 4f940f03f9adfac22005f86ffdd7356bc18b652cc6c218e4e60837214b6df70b
+SHA256 (ninja-v1.12.1.tar.gz) = 821bdff48a3f683bc4bb3b6f0b5fe7b2d647cf65d52aeb63328c91a6c6df285a
