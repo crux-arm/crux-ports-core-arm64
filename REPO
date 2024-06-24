@@ -58,7 +58,7 @@ f:741dab7058d4f4c1219f7bc536e51375:psmisc/.signature
 f:0d1017ce70e8d6111e6dac5248bad1dd:psmisc/Pkgfile
 f:a617c4d3fa11e0c9410ac213eb061677:gcc/gcc-nocheck-fixincludes.patch
 f:3c13e89423eb43d8ee97675362d3725f:gcc/.footprint
-f:43d69473baa20a428ae2532bba2ee89e:gcc/.signature
+f:69fc77650bf995f5946f87650c5a444d:gcc/.signature
 f:dd44eeb6b7d12824ac0eb56e95713a59:gcc/gcc-aarch64-dirs.patch
 f:37173a681c2cd6621c436639de5f3f73:gcc/README
 f:507c1780a370500cdb233be39cc2c772:gcc/fix-nested-generic-lambda.patch
