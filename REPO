@@ -75,8 +75,8 @@ f:123b17863bb2d75888e1a8d51c8f3bd4:binutils/.footprint
 f:16be65271ca4c29827e9b3c75db5fbad:binutils/.signature
 f:2173784e78fdbb2625b0bc519eba3688:binutils/Pkgfile
 f:9badf0ee11994acbaedb982e41469f8e:util-linux/.footprint
-f:1092a0b4ce2d1a0a0d14fcea51258ba5:util-linux/.signature
-f:f682936eeb9cae4bd502eabb5bc18b43:util-linux/Pkgfile
+f:0dc87defd65f03a114ba6b3647050ee2:util-linux/.signature
+f:d8d4d719329a3abcbb6eb0187bc9caa9:util-linux/Pkgfile
 f:75931315bf9bc9be15a5e25e4ddd5f0d:glibc/nsswitch.conf
 f:f7fefce570a3c776e26e778c5e401490:glibc/ld.so.conf
 f:19cdc700878b55c699b2027a35bdb94a:glibc/.footprint
