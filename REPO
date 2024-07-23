@@ -101,8 +101,8 @@ f:d5c5a5884622fd5956dc35dd1e71eecc:prt-get/prt-get.conf
 f:077fea960d8a490412eed744ce9bcc40:prt-get/.footprint
 f:cb96c46c2cf16e2a2f1f13f29f5faab3:prt-get/README
 f:4f6b710e4d2b18c70cfe5e4a593938b7:prt-get/prt-get.aliases
-f:039cd058a7ba2b2cbc6446c0e9c40c20:wpa_supplicant/Pkgfile
-f:a4357830a46b5bb1ce818cfcd0107531:wpa_supplicant/.signature
+f:18ca35ff7a1f9efd15cc4c8b7634c579:wpa_supplicant/Pkgfile
+f:fd05a710a5d80d8e34ea77854d84cd47:wpa_supplicant/.signature
 f:f63c7f588bcc7afaf59e500464b7ccdb:wpa_supplicant/.footprint
 f:a804f8c2828b929446a928d02be98018:wpa_supplicant/wlan
 f:5b505ff68474564b9eb44b04445ba730:wpa_supplicant/wpa_supplicant
