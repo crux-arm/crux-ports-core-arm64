@@ -5,8 +5,8 @@
 # Depends on: openssl readline libnl dbus
 
 name=wpa_supplicant
-version=2.10
-release=2
+version=2.11
+release=1
 source=(https://w1.fi/releases/$name-$version.tar.gz
   wpa_supplicant wlan)
 
