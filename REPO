@@ -21,9 +21,9 @@ d:libnl
 d:wpa_supplicant
 d:glibc
 f:d32239bcb673463ab874e80d47fae504:COPYING
-f:5f1cb7550058bed26a1dfbfc9ba1a077:python3/.signature
-f:aaf28f40c4c78f72d8a84ca7ddf51d28:python3/Pkgfile
-f:93f9e8967267e28eee45ceb960940157:python3/.footprint
+f:7981c00e9842cead2f6eccd54724e05e:python3/.signature
+f:fd6524d1539b1148b0bd54488e91107c:python3/Pkgfile
+f:20eb025a217ba485fed125e000181c04:python3/.footprint
 f:b48f69fceb50584ec17b005888d31565:libmpc/.md5sum
 f:d599da8fa11d052d1ebb55790cd2989b:libmpc/.signature
 f:38588166114845ad7e7056ef037683ed:libmpc/Pkgfile
