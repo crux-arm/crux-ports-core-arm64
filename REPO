@@ -10,6 +10,7 @@ d:pkgutils
 d:psmisc
 d:libgmp
 d:util-linux
+d:libcap
 d:gcc
 d:pkgconf
 d:sysfsutils
@@ -65,6 +66,9 @@ f:003ff4502331727a766036b61ad1e19e:libgmp/Pkgfile
 f:9badf0ee11994acbaedb982e41469f8e:util-linux/.footprint
 f:0dc87defd65f03a114ba6b3647050ee2:util-linux/.signature
 f:d8d4d719329a3abcbb6eb0187bc9caa9:util-linux/Pkgfile
+f:08ffcbda66b8f20d262d97a2e4739e1a:libcap/.footprint
+f:11d701667da3c2f110b26c29c4cd1973:libcap/.signature
+f:7a3ca0ff6696ec27c4401a9f2ae0a252:libcap/Pkgfile
 f:3c13e89423eb43d8ee97675362d3725f:gcc/.footprint
 f:37173a681c2cd6621c436639de5f3f73:gcc/README
 f:69fc77650bf995f5946f87650c5a444d:gcc/.signature
