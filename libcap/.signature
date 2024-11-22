@@ -1,0 +1,5 @@
+untrusted comment: verify with /etc/ports/core-arm64.pub
+RWSKslkvIwb+2aTnYem1TZcfLb/7EtXAyU0ihSxC8jpZUvBG81PtZsenjkfuCjs+GNaQMlyt4Xh8U+oUEhpfexEDOha3bhw0hgg=
+SHA256 (Pkgfile) = d32def0669eeb5e067d99faa30c1d0fbf1efbc5b2dc8a112c5ac954ffa0c1571
+SHA256 (.footprint) = 4766337154c20857b53b317aec2785c958b3aeeacc9e3693405418414e72212a
+SHA256 (libcap-2.72.tar.xz) = 0274f5a15a5205f656d8f0169eef711dd29158ba8ad3b240618b342b2460175b
