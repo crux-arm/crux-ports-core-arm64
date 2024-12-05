@@ -27,9 +27,9 @@ f:241b42aa4cff04ea2b3106a3a07882b0:prt-get/.signature
 f:fba3b19b1f9ef72c722360b8cfd73c3d:prt-get/Pkgfile
 f:4f6b710e4d2b18c70cfe5e4a593938b7:prt-get/prt-get.aliases
 f:d5c5a5884622fd5956dc35dd1e71eecc:prt-get/prt-get.conf
-f:20eb025a217ba485fed125e000181c04:python3/.footprint
-f:7981c00e9842cead2f6eccd54724e05e:python3/.signature
-f:fd6524d1539b1148b0bd54488e91107c:python3/Pkgfile
+f:47e1b028161e0e1c219ce9f556974d5e:python3/.footprint
+f:0deea537c5267fe6554621f55ba9a4ee:python3/.signature
+f:d5fe045017111fed392d9ce61e9a5502:python3/Pkgfile
 f:43f50f79643bb5919e310b44f4eb6a8d:libmpc/.footprint
 f:d599da8fa11d052d1ebb55790cd2989b:libmpc/.signature
 f:38588166114845ad7e7056ef037683ed:libmpc/Pkgfile
