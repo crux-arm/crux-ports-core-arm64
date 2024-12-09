@@ -32,7 +32,6 @@ f:d5fe045017111fed392d9ce61e9a5502:python3/Pkgfile
 f:43f50f79643bb5919e310b44f4eb6a8d:libmpc/.footprint
 f:d599da8fa11d052d1ebb55790cd2989b:libmpc/.signature
 f:38588166114845ad7e7056ef037683ed:libmpc/Pkgfile
-f:b48f69fceb50584ec17b005888d31565:libmpc/.md5sum
 f:75eaa36a2c8a27447308827ef0178aa1:dbus/.footprint
 f:9cb512c77bdf3e8b02dbd78e4ab4be9e:dbus/.signature
 f:2d82682b581fd7c057d3aa73af5540be:dbus/Pkgfile
@@ -104,7 +103,6 @@ f:c56a20ef43a22c8e294d850935f80acd:ports/xorg-arm64.pub
 f:96a429847c10071a3ab0c680e20403b9:ports/.signature
 f:51a4dcb672248c550f3def3596be4252:ports/Pkgfile
 f:246bdcd2c5d85192fc45e320174fb121:ports/opt-arm64.pub
-f:f219d97817e61ccaa7dd9826539d8ebd:ports/.md5sum
 f:0d1f1fde50a9bd743d9cac6b235f038c:ports/opt.pub
 f:a60a2b3a6d9748aedac962dca3b2d822:ports/xorg-arm64.httpup
 f:d57279f5bd8b1b705b7be4f6866c9ced:ports/xorg.rsync
