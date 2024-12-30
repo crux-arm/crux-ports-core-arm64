@@ -1,7 +1,0 @@
-untrusted comment: verify with /etc/ports/core-arm64.pub
-RWSKslkvIwb+2fldwHkRiXHAp/oAaWORvpxV6oUreq8njMuF+mIbH12JVeS3LKDiz+nsp+aZc6gIIZShGvodBfxs93T78LR6DQ4=
-SHA256 (Pkgfile) = 0ecae1da4634f5148f64b9c1593f533e3eae0c0e12478c0c5ca1933ee1ca5850
-SHA256 (.footprint) = 79491872e3f3d7fcf8b9bb31cccdf16a41987da60df1d6d451d9b62f0335d7d5
-SHA256 (openrdate-1.2.tar.gz) = 2921fc96d4ca676190d6ffd45fa80e107c1fe12291c0c4f64827c29639863332
-SHA256 (rdate) = b050a5e063a5b0b8ce6dde657729335ce7dc3eb02e002fb35f37aa0ef71d3aa1
-SHA256 (ntpleaps.patch) = 4ff6eb862397e05c70713897b3e80dba19160fea3cf8ec608b3d680e3e690a02

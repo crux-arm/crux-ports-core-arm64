@@ -2,35 +2,42 @@
 # URL: http://gcc.gnu.org
 # Maintainer: CRUX System Team, core-ports at crux dot nu
 # Arch Maintainer: CRUX-ARM System Team, devel at crux-arm dot nu
-# Depends on: zlib libmpc
+# Depends on: libmpc zlib zstd
 
 name=gcc
-version=10.4.0
+version=12.4.0
 release=1
-source=(ftp://gcc.gnu.org/pub/gcc/releases/gcc-$version/$name-$version.tar.xz \
-        $name-nocheck-fixincludes.patch $name-aarch64-dirs.patch)
+source=(https://sourceware.org/pub/gcc/releases/gcc-$version/gcc-$version.tar.xz
+  $name-nocheck-fixincludes.patch $name-aarch64-dirs.patch)
 
 build() {
   patch -d $name-$version -p1 -i $SRC/$name-nocheck-fixincludes.patch
   patch -d $name-$version -p1 -i $SRC/gcc-aarch64-dirs.patch
 
+  # pipe fails tests
+  CFLAGS=${CFLAGS/-pipe/}
+  CXXFLAGS=${CXXFLAGS/-pipe/}
+
   mkdir build
   cd build
 
-  ../$name-$version/configure --prefix=/usr \
-                              --libexecdir=/usr/lib \
-                              --enable-languages=c,c++,objc \
-                              --enable-threads=posix \
-                              --enable-__cxa_atexit \
-                              --enable-clocale=gnu \
-                              --enable-shared \
-                              --disable-nls \
-                              --with-x=no \
-                              --with-system-zlib \
-                              --enable-multilib \
-                              --enable-default-pie \
-                              --enable-default-ssp \
-                              --with-pkgversion="CRUX-ARM 64b"
+  $SRC/$name-$version/configure \
+    --prefix=/usr \
+    --libexecdir=/usr/lib \
+    --enable-languages=c,c++,lto \
+    --enable-threads=posix \
+    --enable-__cxa_atexit \
+    --enable-clocale=gnu \
+    --enable-shared \
+    --enable-lto \
+    --with-x=no \
+    --enable-multilib \
+    --enable-plugin \
+    --enable-default-pie \
+    --enable-default-ssp \
+    --with-pkgversion="CRUX-ARM 64b" \
+    --with-system-zlib \
+    --disable-nls
 
   make bootstrap
   make -j1 DESTDIR=$PKG install

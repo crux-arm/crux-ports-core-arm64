@@ -1,6 +1,11 @@
 untrusted comment: verify with /etc/ports/core-arm64.pub
-RWSKslkvIwb+2bghfP8JGuBs73a1x+u8aPm4lTdUYgkjUeZd7MwjDIkCgbrdmx9R4h9DCFY409xnEhUcMcBkR1GgiQPcfCyLvAw=
-SHA256 (Pkgfile) = fcc67c6052bc27ea5399ee04bbb19e67d89a974f5331bd876766d780101ba194
+RWSKslkvIwb+2fjAmstsgL+f9NxOAtuoDbgNSnOqr4v3UcvFeD9bw3/pN8VrHr12/HmayeGK0jzZ6ohSgo60AcKL0AgJbmg9eww=
+SHA256 (Pkgfile) = 9ce30e8befb73542ab8c836d15fd54a0452358f141b25a383e234c4d5d4ecf8b
 SHA256 (.footprint) = 3a4d0e8a4f718b7d171558a53799371c27bdcacf7991ef39b5c82e16d51b0f02
 SHA256 (db-5.3.28.tar.gz) = e0a992d740709892e81f9d93f06daf305cf73fb81b545afe72478043172c3628
+SHA256 (db-5.3.21-memp_stat-upstream-fix.patch) = 80714b9fc9f15f83452e85849897e53526685c5f611cb156decc48ebcac4009d
+SHA256 (db-5.3.21-mutex_leak.patch) = 0bba53c23da0c15eae7ddf409e0c70f25946d7bcd5565ffcf9df1fadbff3e308
+SHA256 (db-5.3.28-lemon_hash.patch) = 285e210c4e722b6644f0c7de43fa0ef324881875d3c083aa7b6cad0ed666e8e4
+SHA256 (db-5.3.28-mmap-high-cpu-usage.patch) = 45b76375ffab07882df57999a492463e7bed36c25edf3b1d2d5dbca8c11c93ac
+SHA256 (db-5.3.28_cve-2019-2708.patch) = f538d843acf0708b4a2d15678dfc6ee53b1e4e52a6c6a782dfc1a058395952c6
 SHA256 (0001-atomic-Rename-local-__atomic_compare_exchange-to-avo.patch) = 696ac5af5473f0d85ecc6af44a85333c91500721fb5c33028c05e843429058d1
