@@ -1,61 +1,75 @@
 # Description: The GNU Compiler Collection
-# URL: http://gcc.gnu.org
+# URL: https://gcc.gnu.org
 # Maintainer: CRUX System Team, core-ports at crux dot nu
-# Arch Maintainer: CRUX-ARM System Team, devel at crux-arm dot nu
-# Depends on: libmpc zlib zstd
+# Depends on: libmpc zstd
 
 name=gcc
-version=12.4.0
+version=14.2.0
 release=1
-source=(https://sourceware.org/pub/gcc/releases/gcc-$version/gcc-$version.tar.xz
-  $name-nocheck-fixincludes.patch $name-aarch64-dirs.patch)
+source=(https://sourceware.org/pub/gcc/releases/gcc-$version/$name-$version.tar.xz
+    $name-nocheck-fixincludes.patch $name-aarch64-dirs.patch)
 
 build() {
   patch -d $name-$version -p1 -i $SRC/$name-nocheck-fixincludes.patch
   patch -d $name-$version -p1 -i $SRC/gcc-aarch64-dirs.patch
 
-  # pipe fails tests
-  CFLAGS=${CFLAGS/-pipe/}
-  CXXFLAGS=${CXXFLAGS/-pipe/}
 
-  mkdir build
-  cd build
+    # pipe fails tests
+    CFLAGS=${CFLAGS/-pipe/}
+    CXXFLAGS=${CXXFLAGS/-pipe/}
 
-  $SRC/$name-$version/configure \
-    --prefix=/usr \
-    --libexecdir=/usr/lib \
-    --enable-languages=c,c++,lto \
-    --enable-threads=posix \
-    --enable-__cxa_atexit \
-    --enable-clocale=gnu \
-    --enable-shared \
-    --enable-lto \
-    --with-x=no \
-    --enable-multilib \
-    --enable-plugin \
-    --enable-default-pie \
-    --enable-default-ssp \
-    --with-pkgversion="CRUX-ARM 64b" \
-    --with-system-zlib \
-    --disable-nls
+    mkdir build
+    cd build
+    ../$name-$version/configure \
+        --prefix=/usr \
+        --libexecdir=/usr/lib \
+        --enable-threads=posix \
+        --with-build-config=bootstrap-lto \
+        --with-linker-hash-style=gnu \
+        --with-system-zlib \
+        --enable-languages=c,c++,lto \
+        --enable-stage1-languages=c,lto \
+        --enable-link-serialization=1 \
+        --enable-linker-build-id \
+        --enable-gnu-indirect-function \
+        --enable-__cxa_atexit \
+        --enable-clocale=gnu \
+        --enable-shared \
+        --enable-lto \
+        --enable-multilib \
+        --enable-plugin \
+        --enable-default-pie \
+        --enable-default-ssp \
+        --enable-host-pie \
+        --with-pkgversion="CRUX-ARM64" \
+        --with-x=no \
+        --disable-fixincludes \
+        --disable-nls
 
-  make bootstrap
-  make -j1 DESTDIR=$PKG install
+    make -O STAGE1_CFLAGS="-O2" \
+        BOOT_CFLAGS="$CFLAGS" \
+        BOOT_LDFLAGS="$LDFLAGS" \
+        LDFLAGS_FOR_TARGET="$LDFLAGS" \
+        bootstrap
+    make -j1 DESTDIR=$PKG install
 
-  install -d $PKG/lib
-  ln -sf ../usr/bin/cpp $PKG/lib/cpp
-  ln -sf gcc $PKG/usr/bin/cc
-  ln -sf g++ $PKG/usr/bin/c++
+    install -d $PKG/lib
+    ln -sf ../usr/bin/cpp $PKG/lib/cpp
+    ln -sf gcc $PKG/usr/bin/cc
+    ln -sf g++ $PKG/usr/bin/c++
 
-  mv $PKG/usr/lib/gcc/*/$version/include-fixed/{limits.h,syslimits.h} $PKG/usr/lib/gcc/*/$version/include/
-  rm -r $PKG/usr/share/{info,$name-$version}
-  rm -r $PKG/usr/bin/*-linux-gnu*
-  rm -r $PKG/usr/lib/gcc/*/$version/{install-tools,include-fixed}
+    rm -r $PKG/usr/share/{info,$name-$version}
+    rm -r $PKG/usr/bin/*-linux-gnu-*
+    rm -r $PKG/usr/lib/gcc/*/$version/{install-tools,include-fixed}
 
-  for D in lib; do
-    install -d -m 0755 $PKG/usr/share/gdb/auto-load/usr/${D}
-    mv $PKG/usr/${D}/libstdc++.so.*-gdb.py $PKG/usr/share/gdb/auto-load/usr/${D}
-  done
+    for D in lib; do
+        install -d -m 0755 $PKG/usr/share/gdb/auto-load/usr/${D}
+        mv $PKG/usr/${D}/libstdc++.so.*-gdb.py $PKG/usr/share/gdb/auto-load/usr/${D}
+    done
 
-  sed -i "s|-L$SRC[^ ]* ||g" $PKG/usr/lib/{libstdc++.la,libsupc++.la}
+    mkdir $PKG/usr/lib/bfd-plugins
+    ln -sfv ../../lib/gcc/$($PKG/usr/bin/gcc -dumpmachine)/{$version}/liblto_plugin.so \
+        $PKG/usr/lib/bfd-plugins/
+
+    sed -i "s|-L$SRC[^ ]* ||g" $PKG/usr/lib/{libstdc++.la,libsupc++.la}
 }
