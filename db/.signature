@@ -1,6 +1,6 @@
 untrusted comment: verify with /etc/ports/core-arm64.pub
-RWSKslkvIwb+2fjAmstsgL+f9NxOAtuoDbgNSnOqr4v3UcvFeD9bw3/pN8VrHr12/HmayeGK0jzZ6ohSgo60AcKL0AgJbmg9eww=
-SHA256 (Pkgfile) = 9ce30e8befb73542ab8c836d15fd54a0452358f141b25a383e234c4d5d4ecf8b
+RWSX2VgsPhy4oUwSbb6hpnksAGASPcUpu+7vXYp2lJByNItG3kH/L59VTBEORH2+wLOOiL8w8rjNYvmW0V2q736HDp2R2pFWvgI=
+SHA256 (Pkgfile) = feb84e3e3e4b89a1dfe55d5151bd42887e2cfb6ec92c38fbc883e80292cfc057
 SHA256 (.footprint) = 3a4d0e8a4f718b7d171558a53799371c27bdcacf7991ef39b5c82e16d51b0f02
 SHA256 (db-5.3.28.tar.gz) = e0a992d740709892e81f9d93f06daf305cf73fb81b545afe72478043172c3628
 SHA256 (db-5.3.21-memp_stat-upstream-fix.patch) = 80714b9fc9f15f83452e85849897e53526685c5f611cb156decc48ebcac4009d

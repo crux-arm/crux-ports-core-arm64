@@ -1,7 +1,7 @@
 untrusted comment: verify with /etc/ports/core-arm64.pub
-RWSKslkvIwb+2TGQTNJ0nFNm7fXSpnD4BqXLheC4D82QKmMrSjYgKpPekt89kUxtw8lwDaXOoXydUKDShlLglEGOkTKezuYkmA0=
+RWSX2VgsPhy4oZ/eIHro1UXJn17NT4pFLYh173rvzirDWhzOKUwssRhQyo1ZLk9tQG2ZOvzIP6FDwRONrAs83QkEAgsQ1BO2YQ8=
 SHA256 (Pkgfile) = d0bc97bf08dc1cb70cda6e3bfdaedbf996c13e1a76f4c532c85bcf0f9f968e0b
-SHA256 (.footprint) = e0ac449400608d18dc626752deba455e7066ffa4ca6dfce3106f624993c8ccb6
+SHA256 (.footprint) = 74d5078939250998c0a0e5db60cbac68cf67980f6cbdb8bc9c791ec8a3dc994d
 SHA256 (dbus-1.16.0.tar.xz) = 9f8ca5eb51cbe09951aec8624b86c292990ae2428b41b856e2bed17ec65c8849
 SHA256 (fix-daemon-location.patch) = 32862e56777619a479ebefc45589cb76207c836de24a8bca14aecb4552e42528
 SHA256 (rc.dbus) = 6d67e387a8b3296f7c5b88cbe5e5c4ec113ce9b36abc8da4b733aae624a6a6d6

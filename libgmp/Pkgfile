@@ -10,12 +10,14 @@ release=1
 source=(https://gmplib.org/download/gmp/gmp-$version.tar.xz)
 
 build() {
-  cd gmp-$version
-  ./configure --prefix=/usr \
-    --build=aarch64-unknown-linux-gnu \
-    --enable-cxx
+    cd gmp-$version
 
-  make
-  make DESTDIR=$PKG install
-  rm -r $PKG/usr/share
+    ./configure \
+        --prefix=/usr \
+        --enable-cxx \
+        --build=aarch64-unknown-linux-gnu
+    make
+    make DESTDIR=$PKG install
+
+    rm -r $PKG/usr/share
 }
