@@ -1,5 +1,5 @@
 untrusted comment: verify with /etc/ports/core-arm64.pub
-RWSX2VgsPhy4oXw6QNHESsLqxxKCuOikhMD1DaoTzKDSKZKQwcLd2zl+1Y4JgmIIvfittrMj99bL89g5u7IFlQnFZKaVH7yTywA=
+RWSKslkvIwb+2SuU5ySRtWWZF0GSp72XmGT4PcvE9uGibAZeZUD21Xc9lE885fYEMkoMgGL5sn+41LdIlFC5ORziK6GvcruYagg=
 SHA256 (Pkgfile) = 380677b24d705a43120e8f829c223fc9e8001cc30e880bc6fe41b97376d8f20e
 SHA256 (.footprint) = c601da7d8f0118f98fe747611466a530d48519832c8aba47db01df055d64f869
 SHA256 (wpa_supplicant-2.11.tar.gz) = 912ea06f74e30a8e36fbb68064d6cdff218d8d591db0fc5d75dee6c81ac7fc0a

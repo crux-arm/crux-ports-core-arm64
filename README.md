@@ -1,10 +1,10 @@
 # crux-ports-core-arm64
 
-*Unofficial* CRUX-ARM aarch64 ports overlay for CRUX core collection
+CRUX-ARM aarch64 ports overlay for CRUX core collection
 
 To use these ports, download the `core-arm64.httpup` file to `/etc/ports`:
 ```
-$ sudo wget -P /etc/ports https://raw.githubusercontent.com/mac-a-r0ni/crux-ports-core-arm64/3.8-testing/core-arm64.httpup
+$ sudo wget -P /etc/ports https://raw.githubusercontent.com/crux-arm/crux-ports-core-arm64/3.8g/core-arm64.httpup
 $ sudo ports -u core-arm64
 ```
 

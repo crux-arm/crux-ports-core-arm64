@@ -1,5 +1,5 @@
 untrusted comment: verify with /etc/ports/core-arm64.pub
-RWSX2VgsPhy4oUOjhi20b99NXi41dGOzKGI8jCSQ+NYCnElp2seUgdRWbTCT2n7QKhF8hRSkgDbyAPlQ7CG0VN5ETc8CG38sgQI=
+RWSKslkvIwb+2YgMn0ZpHREnqOS41sw/vfr28wc48Kp3neldvfaf+wBPs9fOn3RaQCDfkmy/jdiZYoOoa2Xvyqou76B+VnnbfQ4=
 SHA256 (Pkgfile) = 5c88ae61b455e9ede8f5a76579a68f033e7dcafcdac651de52e7c4a484cf5e1a
 SHA256 (.footprint) = 26802764ae3ae1e1a73ea56c859b3415e250a72ea444af410381df8c8f5d3ac8
 SHA256 (prt-get-5.19.6.tar.xz) = 6ea89df308e19a6239f260c91036805cd2063d0cd24a7427235849634dd49f0d
