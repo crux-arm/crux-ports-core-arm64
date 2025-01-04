@@ -64,17 +64,6 @@ drwxr-xr-x	root/root	usr/share/dbus-1/session.d/
 drwxr-xr-x	root/root	usr/share/dbus-1/system-services/
 -rw-r--r--	root/root	usr/share/dbus-1/system.conf
 drwxr-xr-x	root/root	usr/share/dbus-1/system.d/
-drwxr-xr-x	root/root	usr/share/man/
-drwxr-xr-x	root/root	usr/share/man/man1/
--rw-r--r--	root/root	usr/share/man/man1/dbus-cleanup-sockets.1.gz
--rw-r--r--	root/root	usr/share/man/man1/dbus-daemon.1.gz
--rw-r--r--	root/root	usr/share/man/man1/dbus-launch.1.gz
--rw-r--r--	root/root	usr/share/man/man1/dbus-monitor.1.gz
--rw-r--r--	root/root	usr/share/man/man1/dbus-run-session.1.gz
--rw-r--r--	root/root	usr/share/man/man1/dbus-send.1.gz
--rw-r--r--	root/root	usr/share/man/man1/dbus-test-tool.1.gz
--rw-r--r--	root/root	usr/share/man/man1/dbus-update-activation-environment.1.gz
--rw-r--r--	root/root	usr/share/man/man1/dbus-uuidgen.1.gz
 drwxr-xr-x	root/root	var/
 drwxr-xr-x	root/root	var/lib/
 drwxr-xr-x	root/root	var/lib/dbus/
