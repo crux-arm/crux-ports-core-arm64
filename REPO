@@ -78,7 +78,6 @@ f:fd05a710a5d80d8e34ea77854d84cd47:wpa_supplicant/.signature
 f:94eda9e510358f6fc9e6033048cc05de:wpa_supplicant/README
 f:a804f8c2828b929446a928d02be98018:wpa_supplicant/wlan
 f:dd44eeb6b7d12824ac0eb56e95713a59:gcc/gcc-aarch64-dirs.patch
-f:507c1780a370500cdb233be39cc2c772:gcc/fix-nested-generic-lambda.patch
 f:3c13e89423eb43d8ee97675362d3725f:gcc/.footprint
 f:13a2c2a6da886776aa6f6a9ae9f177c9:gcc/Pkgfile
 f:69fc77650bf995f5946f87650c5a444d:gcc/.signature
