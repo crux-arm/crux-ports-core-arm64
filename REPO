@@ -60,8 +60,8 @@ f:b886af5bc256d3a56d9be8f998f641b4:db/db-5.3.21-mutex_leak.patch
 f:884554b16ca6ee8dd86162682eac68cc:db/.signature
 f:cbbbdecab1948c6255c091398b8393ed:db/db-5.3.28-lemon_hash.patch
 f:9badf0ee11994acbaedb982e41469f8e:util-linux/.footprint
-f:d8d4d719329a3abcbb6eb0187bc9caa9:util-linux/Pkgfile
-f:0dc87defd65f03a114ba6b3647050ee2:util-linux/.signature
+f:6a6adc2d8ddf430fb80ae6bf5f5ab0ce:util-linux/Pkgfile
+f:e5d2ba13d5d986e3614e37d59bdb911f:util-linux/.signature
 f:47e1b028161e0e1c219ce9f556974d5e:python3/.footprint
 f:d5fe045017111fed392d9ce61e9a5502:python3/Pkgfile
 f:0deea537c5267fe6554621f55ba9a4ee:python3/.signature
