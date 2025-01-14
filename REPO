@@ -61,7 +61,7 @@ f:884554b16ca6ee8dd86162682eac68cc:db/.signature
 f:cbbbdecab1948c6255c091398b8393ed:db/db-5.3.28-lemon_hash.patch
 f:dde9ebc94cadf386e5e64b14fb4181c7:util-linux/.footprint
 f:e3c9f1ab8fdfe3e3e3e64f49addcd202:util-linux/Pkgfile
-f:e5d2ba13d5d986e3614e37d59bdb911f:util-linux/.signature
+f:11fdc19dc7ed8281db36238a756796ad:util-linux/.signature
 f:47e1b028161e0e1c219ce9f556974d5e:python3/.footprint
 f:d5fe045017111fed392d9ce61e9a5502:python3/Pkgfile
 f:0deea537c5267fe6554621f55ba9a4ee:python3/.signature
