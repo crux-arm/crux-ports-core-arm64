@@ -59,8 +59,8 @@ f:3aae61a6f51f287cd8873bc58fcde500:db/db-5.3.21-memp_stat-upstream-fix.patch
 f:b886af5bc256d3a56d9be8f998f641b4:db/db-5.3.21-mutex_leak.patch
 f:884554b16ca6ee8dd86162682eac68cc:db/.signature
 f:cbbbdecab1948c6255c091398b8393ed:db/db-5.3.28-lemon_hash.patch
-f:9badf0ee11994acbaedb982e41469f8e:util-linux/.footprint
-f:6a6adc2d8ddf430fb80ae6bf5f5ab0ce:util-linux/Pkgfile
+f:dde9ebc94cadf386e5e64b14fb4181c7:util-linux/.footprint
+f:e3c9f1ab8fdfe3e3e3e64f49addcd202:util-linux/Pkgfile
 f:e5d2ba13d5d986e3614e37d59bdb911f:util-linux/.signature
 f:47e1b028161e0e1c219ce9f556974d5e:python3/.footprint
 f:d5fe045017111fed392d9ce61e9a5502:python3/Pkgfile
