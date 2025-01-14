@@ -5,7 +5,7 @@
 # Depends on: bzip2 eudev file linux-pam readline sqlite3 xz
 
 name=util-linux
-version=2.40.3
+version=2.40.4
 release=1
 source=(https://www.kernel.org/pub/linux/utils/$name/v${version:0:4}/$name-$version.tar.xz)
 
