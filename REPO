@@ -36,9 +36,10 @@ f:bf37166683ba4966059cda949d4f6dbd:db/0001-atomic-Rename-local-__atomic_compare_
 f:df0b2e0e106d0f6b11bc20e02c5444d8:db/Pkgfile
 f:3aae61a6f51f287cd8873bc58fcde500:db/db-5.3.21-memp_stat-upstream-fix.patch
 f:42de24f40ae2c7ea1b4c59352962029f:db/db-5.3.28_cve-2019-2708.patch
-f:83db1d7ba53c0d109d323c04e399886e:pkgutils/.signature
+f:c7ced61ff888f8c9fe25c3d06bc3215e:pkgutils/.signature
+f:2751668634604cf74c51d347618c3825:pkgutils/pkgmk.conf
 f:0e1717fd1eeb62d8fce0c23682e9b337:pkgutils/.footprint
-f:9d0dd5869b2d948f55074d3ec0474a06:pkgutils/Pkgfile
+f:48ba55d47d97489c68456c3a89240728:pkgutils/Pkgfile
 f:955db1980bbb3f702656b3883dbf8581:wireless-tools/.signature
 f:0a4ff1a49b94567ca211ff8e78164cf4:wireless-tools/.footprint
 f:37e84b810aec08c66c8317e1bbd85318:wireless-tools/Pkgfile
