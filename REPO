@@ -103,9 +103,9 @@ f:9a7ec7bdf5155fbedb02b35e50420cfa:ports/core.rsync
 f:939e6f38e938a2ba615e76f40b504c79:ports/xorg.rsync
 f:a33b52e2fca970dadee09acfeb3491eb:ports/xorg-arm64.httpup
 f:c56a20ef43a22c8e294d850935f80acd:ports/xorg-arm64.pub
-f:6f17fd810cfb8eb19b4c505c003f70fb:ports/.signature
+f:877d660e729e0e08eab24c31ec67cdec:ports/.signature
 f:69927e5d0ae5dc3455faeaac916c4db2:ports/xorg.pub
-f:862f760cf07377d74d3050f25edac96a:ports/core-arm64.httpup
+f:9f78c3a7a6824000932f50de79e2898e:ports/core-arm64.httpup
 f:3efeabfbd7104b1c566b604f802ef0c0:ports/core-arm64.pub
 f:0d1f1fde50a9bd743d9cac6b235f038c:ports/opt.pub
 f:92891482d508900cd6208bdad41f549d:ports/opt.rsync
