@@ -80,10 +80,10 @@ f:7f2f6d60fe2d850c6e240d89e7b03c18:prt-get/README
 f:67545ba10681bce02702dbdcd605817f:prt-get/Pkgfile
 f:4f6b710e4d2b18c70cfe5e4a593938b7:prt-get/prt-get.aliases
 f:d32239bcb673463ab874e80d47fae504:COPYING
-f:15389a827ec2f96bb9cd4868da256dbf:pkgconf/.signature
+f:a282adce7a30b522cdd5e3a002d938e7:pkgconf/.signature
 f:ec1622bd328e82cce4d3b33eb1239f5c:pkgconf/.footprint
 f:6fec70b14f238ad94caf5dac367ee427:pkgconf/README
-f:792fd996478390083d4a3c4e9ab1c3b6:pkgconf/Pkgfile
+f:8cc6066560b91c7054e22a13746d1706:pkgconf/Pkgfile
 f:831f8a6e42441c8d76271655ce276c1e:pkgconf/aarch64-unknown-linux-gnu.personality
 f:7c9128522053af79791bcfdd55834c2a:gcc/gcc-nocheck-fixincludes.patch
 f:f9357b11d03f9192ebb26f6d6a6e9b68:gcc/.signature
