@@ -93,9 +93,9 @@ f:0df8c9a8b5bc19d5ab81f9815ea22b9c:gcc/Pkgfile
 f:703d19b4b79a0793120c64c74ae8f6dc:libmpc/.signature
 f:43f50f79643bb5919e310b44f4eb6a8d:libmpc/.footprint
 f:3b300c54be8d5f1d43b0d5b79fc04f32:libmpc/Pkgfile
-f:c42f77406c58214c86cb0e033558194e:binutils/.signature
+f:43b33d818391a6360449fbdd3c7e5ff0:binutils/.signature
 f:0f74318d40d8432a91ccf4b780277075:binutils/.footprint
-f:d2a3f0ac3d9eb9ba2dcc25ef2f5b1123:binutils/Pkgfile
+f:595f9500a227e40147dd120fbd830341:binutils/Pkgfile
 f:5de93d6d7be7234d356b4e98224a0682:python3/.signature
 f:24afb6e3386c62ae24b96589cd8874b7:python3/.footprint
 f:9b0cce412949f98d067b088da0e275b1:python3/Pkgfile
