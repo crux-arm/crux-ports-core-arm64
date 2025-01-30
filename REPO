@@ -103,13 +103,13 @@ f:9a7ec7bdf5155fbedb02b35e50420cfa:ports/core.rsync
 f:939e6f38e938a2ba615e76f40b504c79:ports/xorg.rsync
 f:a33b52e2fca970dadee09acfeb3491eb:ports/xorg-arm64.httpup
 f:c56a20ef43a22c8e294d850935f80acd:ports/xorg-arm64.pub
-f:877d660e729e0e08eab24c31ec67cdec:ports/.signature
+f:3e32b8ee34a584621d947c866c0f4448:ports/.signature
 f:69927e5d0ae5dc3455faeaac916c4db2:ports/xorg.pub
 f:9f78c3a7a6824000932f50de79e2898e:ports/core-arm64.httpup
 f:3efeabfbd7104b1c566b604f802ef0c0:ports/core-arm64.pub
 f:0d1f1fde50a9bd743d9cac6b235f038c:ports/opt.pub
 f:92891482d508900cd6208bdad41f549d:ports/opt.rsync
-f:716392660cd8afff1129095770fd1e73:ports/.footprint
+f:7f18e94e06ca251a2bb82eb03672539f:ports/.footprint
 f:ffcfbdbd1979f51825fa796a6296d1ab:ports/contrib.rsync.inactive
 f:246bdcd2c5d85192fc45e320174fb121:ports/opt-arm64.pub
 f:1c806304541911faf686badfb90432c0:ports/opt-arm64.httpup
