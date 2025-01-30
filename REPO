@@ -103,7 +103,7 @@ f:bceca3aa28a0ee00f14e5634251a8322:ports/core.rsync
 f:d57279f5bd8b1b705b7be4f6866c9ced:ports/xorg.rsync
 f:a60a2b3a6d9748aedac962dca3b2d822:ports/xorg-arm64.httpup
 f:c56a20ef43a22c8e294d850935f80acd:ports/xorg-arm64.pub
-f:ee83b1316803d0cca7d8d821113da73d:ports/.signature
+f:0ab71dbd82c26a43994c44e18bff8132:ports/.signature
 f:69927e5d0ae5dc3455faeaac916c4db2:ports/xorg.pub
 f:862f760cf07377d74d3050f25edac96a:ports/core-arm64.httpup
 f:3efeabfbd7104b1c566b604f802ef0c0:ports/core-arm64.pub
@@ -115,7 +115,7 @@ f:246bdcd2c5d85192fc45e320174fb121:ports/opt-arm64.pub
 f:560170f7f812563a91f53b3893eee297:ports/opt-arm64.httpup
 f:b8dd0aad383810cad920d6548cd1cb56:ports/core.pub
 f:804bb419e539a70ad80e4c03df3c3411:ports/contrib.pub
-f:ac053a55caced24ebb99d018ebfb0ae4:ports/Pkgfile
+f:cc9a3f2b1c7851f094efca08a021de8c:ports/Pkgfile
 f:f7fefce570a3c776e26e778c5e401490:glibc/ld.so.conf
 f:518de5e52f9166e58ed613a0d636e774:glibc/locale.gen.in
 f:1e247bc882b3efbbf10d2616a8d55890:glibc/.signature
