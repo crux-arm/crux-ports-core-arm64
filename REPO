@@ -90,9 +90,9 @@ f:f9357b11d03f9192ebb26f6d6a6e9b68:gcc/.signature
 f:a80b5e2835c01ffcd3fc135c8d05c0cc:gcc/.footprint
 f:dd44eeb6b7d12824ac0eb56e95713a59:gcc/gcc-aarch64-dirs.patch
 f:0df8c9a8b5bc19d5ab81f9815ea22b9c:gcc/Pkgfile
-f:703d19b4b79a0793120c64c74ae8f6dc:libmpc/.signature
+f:64ee6fbe47a8ba20adf69639fd41db9f:libmpc/.signature
 f:43f50f79643bb5919e310b44f4eb6a8d:libmpc/.footprint
-f:3b300c54be8d5f1d43b0d5b79fc04f32:libmpc/Pkgfile
+f:b6d495025045f1af39e7e4dd415eaf87:libmpc/Pkgfile
 f:43b33d818391a6360449fbdd3c7e5ff0:binutils/.signature
 f:0f74318d40d8432a91ccf4b780277075:binutils/.footprint
 f:595f9500a227e40147dd120fbd830341:binutils/Pkgfile
