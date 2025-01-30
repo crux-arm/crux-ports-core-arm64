@@ -74,11 +74,11 @@ f:2db4a12204e7736c37ff75d4f716d1cf:libnl/.signature
 f:c43a9b6a87fe7d3878471083bb4e2f10:libnl/.footprint
 f:27afdba68fee7d668256ede645ffeec0:libnl/Pkgfile
 f:d5c5a5884622fd5956dc35dd1e71eecc:prt-get/prt-get.conf
-f:d3eb55a16ee50619048f980640d57bfa:prt-get/.signature
+f:8a49777191c3f241673316fc595a35e4:prt-get/.signature
 f:077fea960d8a490412eed744ce9bcc40:prt-get/.footprint
 f:7f2f6d60fe2d850c6e240d89e7b03c18:prt-get/README
-f:67545ba10681bce02702dbdcd605817f:prt-get/Pkgfile
-f:4f6b710e4d2b18c70cfe5e4a593938b7:prt-get/prt-get.aliases
+f:fb8e60fcac63a442acfd4c0eb37fb213:prt-get/Pkgfile
+f:ac750b56369121ca6aad64dd4c03671b:prt-get/prt-get.aliases
 f:d32239bcb673463ab874e80d47fae504:COPYING
 f:a282adce7a30b522cdd5e3a002d938e7:pkgconf/.signature
 f:ec1622bd328e82cce4d3b33eb1239f5c:pkgconf/.footprint
