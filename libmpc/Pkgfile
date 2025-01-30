@@ -1,6 +1,7 @@
 # Description: C library for the arithmetic of complex numbers
 # URL: http://www.multiprecision.org/
 # Maintainer: CRUX System Team, core-ports at crux dot nu
+# Arch Maintainer: CRUX-ARM System Team, devel at crux-arm dot nu
 # Depends on: libmpfr
 
 name=libmpc
@@ -9,12 +10,13 @@ release=1
 source=(https://ftp.gnu.org/gnu/mpc/mpc-$version.tar.gz)
 
 build() {
-    cd mpc-$version
+  cd mpc-$version
 
-    ./configure --prefix=/usr
-    make
-    make DESTDIR=$PKG install
-# how come?
-sed -i "s|#define __MPC_H|#define __MPC_H\n #include <stdio.h>|g" $PKG/usr/include/mpc.h
-    rm -r $PKG/usr/share
+  ./configure --prefix=/usr
+   make
+   make DESTDIR=$PKG install
+
+  # how come?
+  sed -i "s|#define __MPC_H|#define __MPC_H\n #include <stdio.h>|g" $PKG/usr/include/mpc.h
+  rm -r $PKG/usr/share
 }
