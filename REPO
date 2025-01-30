@@ -118,7 +118,7 @@ f:804bb419e539a70ad80e4c03df3c3411:ports/contrib.pub
 f:cc9a3f2b1c7851f094efca08a021de8c:ports/Pkgfile
 f:f7fefce570a3c776e26e778c5e401490:glibc/ld.so.conf
 f:518de5e52f9166e58ed613a0d636e774:glibc/locale.gen.in
-f:1e247bc882b3efbbf10d2616a8d55890:glibc/.signature
+f:fea11a05c75d49cfe24374b6c466cd17:glibc/.signature
 f:acf9daad1ee85de5efd3543965596a63:glibc/resolv.conf
 f:06c2df639b4e6dea310e45f491cd3399:glibc/.footprint
 f:96156bec8e05de67384dc93e72bdc313:glibc/host.conf
@@ -128,7 +128,7 @@ f:75931315bf9bc9be15a5e25e4ddd5f0d:glibc/nsswitch.conf
 f:8ade3a1b3e11426f6c070daa3906c6f7:glibc/post-install
 f:ffd59b0f7c8b5d66cdc3a5f33fa50e57:glibc/glibc-2.39-fhs-1.patch
 f:58867be9286ece55adff1226216fdd9f:glibc/locale-gen
-f:83561f25e331dae421391bb3d88f4124:glibc/Pkgfile
+f:2613ee3a6ee11e5c83c445e37333a056:glibc/Pkgfile
 f:837125851220e9449bab55690e2fea5d:openssl/.signature
 f:202afd2c190c552bbe89523e23284694:openssl/.footprint
 f:91f85842d2118003ee465c34259047e6:openssl/mksslcert.sh
