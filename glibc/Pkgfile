@@ -35,7 +35,7 @@ build() {
         --libdir=/usr/lib \
         --libexecdir=/usr/lib \
         --with-headers=$PKG/usr/include \
-        --enable-kernel=5.10 \
+        --enable-kernel=3.7.0 \
         --enable-stack-protector=strong \
         --enable-bind-now \
         --disable-multi-arch \
