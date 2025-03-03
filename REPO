@@ -130,9 +130,9 @@ f:0deea537c5267fe6554621f55ba9a4ee:python3/.signature
 f:d5fe045017111fed392d9ce61e9a5502:python3/Pkgfile
 f:c51f2067699af541512233bbdd48dec4:dbus/rc.dbus
 f:0c722709bfffb2b3dd0a443f8c224d10:dbus/.footprint
-f:a0d73ed5b590469126386d02bb07c7ce:dbus/.signature
+f:7f0cd5287353ffdf9cf9059127501d35:dbus/.signature
 f:51a52d31f257ce19b1a4f8bd71a7de68:dbus/fix-daemon-location.patch
-f:f0de0d53c804e3c92cc5fb34f97b2a92:dbus/Pkgfile
+f:802cef3c7381799ed09d1878bf8c1f4c:dbus/Pkgfile
 f:23bc5ff22fe4f9a208d65fbbfd489ad9:dbus/30-dbus.launch
 f:95412978f8aa3c9fc667543107086479:dbus/post-install
 f:034680aa69ee64596517784fe1161c1b:db/.footprint
