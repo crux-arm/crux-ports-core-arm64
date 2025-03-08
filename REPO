@@ -115,9 +115,9 @@ f:0e1717fd1eeb62d8fce0c23682e9b337:pkgutils/.footprint
 f:ecb366c625ffe2c4da485fbc18c61230:pkgutils/.signature
 f:2751668634604cf74c51d347618c3825:pkgutils/pkgmk.conf
 f:9693592850d40079557552217619265b:pkgutils/Pkgfile
-f:5ad2b0665202811fa02cbaaf50819bfd:pkgconf/.footprint
-f:0797c4e5449a122df9ed6fbb645d2359:pkgconf/.signature
-f:28859755eeee8d71d822356763adc294:pkgconf/Pkgfile
+f:5227f70aac2efe54743a094dfe17020b:pkgconf/.footprint
+f:535aba9ba0882168fbec6b5edf7f2c77:pkgconf/.signature
+f:1505da2571a1212fb3bfd5b581dd8e12:pkgconf/Pkgfile
 f:6fec70b14f238ad94caf5dac367ee427:pkgconf/README
 f:831f8a6e42441c8d76271655ce276c1e:pkgconf/aarch64-unknown-linux-gnu.personality
 f:d32239bcb673463ab874e80d47fae504:COPYING
