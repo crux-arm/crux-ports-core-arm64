@@ -52,8 +52,8 @@ f:003ff4502331727a766036b61ad1e19e:libgmp/Pkgfile
 f:314c9a03efc77e6867619c85aa5e3194:ninja/.footprint
 f:1f91bc0ea732e3b62b2be79727763751:ninja/.signature
 f:365486cb1eb45a6e0bfe4b3602f429e2:ninja/Pkgfile
-f:dde9ebc94cadf386e5e64b14fb4181c7:util-linux/.footprint
-f:11fdc19dc7ed8281db36238a756796ad:util-linux/.signature
+f:9badf0ee11994acbaedb982e41469f8e:util-linux/.footprint
+f:33adf805c7f876628cd9ec453f3342b0:util-linux/.signature
 f:e3c9f1ab8fdfe3e3e3e64f49addcd202:util-linux/Pkgfile
 f:f63c7f588bcc7afaf59e500464b7ccdb:wpa_supplicant/.footprint
 f:fd05a710a5d80d8e34ea77854d84cd47:wpa_supplicant/.signature
