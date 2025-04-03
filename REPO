@@ -102,9 +102,9 @@ f:cedc5025aefdb42a0f4713fce634831d:kbd/.footprint
 f:a2cc2b6fb35850563bc19e1ad665bd05:kbd/.signature
 f:d3d1af5fd4e3d16fa3735ea70b1d5201:kbd/Pkgfile
 f:0e1717fd1eeb62d8fce0c23682e9b337:pkgutils/.footprint
-f:c7ced61ff888f8c9fe25c3d06bc3215e:pkgutils/.signature
+f:adcb186895f9da2d1e20c380ef10f7cc:pkgutils/.signature
 f:2751668634604cf74c51d347618c3825:pkgutils/pkgmk.conf
-f:48ba55d47d97489c68456c3a89240728:pkgutils/Pkgfile
+f:2cba1912ad3dbf2558c6ca0f6b464cf8:pkgutils/Pkgfile
 f:3111e8e5893f27a69499808413911008:pkgconf/.footprint
 f:723e7dd6da3be97a11be0829ca62cb49:pkgconf/.signature
 f:9ac9b930ede309af621c65a2c6831b1b:pkgconf/Pkgfile
