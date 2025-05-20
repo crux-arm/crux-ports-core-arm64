@@ -4,31 +4,32 @@
 # Arch Maintainer: CRUX-ARM System Team, devel at crux-arm dot nu
 
 name=openssl
-version=3.4.0
+version=3.5.0
 release=1
 source=(https://github.com/openssl/openssl/releases/download/$name-$version/$name-$version.tar.gz
-        mksslcert.sh)
+    mksslcert.sh)
 
 build() {
-  cd $name-$version
+    cd $name-$version
 
-  ./config \
-    --prefix=/usr \
-    --libdir=lib \
-    --openssldir=/etc/ssl \
-    enable-ec_nistp_64_gcc_128 enable-camellia \
-    enable-seed enable-rfc3779 \
-    no-mdc2 no-ec2m no-sm2 no-sm4 \
-    shared \
-    threads \
-    zlib
+    ./config \
+        --prefix=/usr \
+        --libdir=lib \
+        --openssldir=/etc/ssl \
+        enable-ec_nistp_64_gcc_128 enable-camellia \
+        enable-seed enable-rfc3779 \
+        shared \
+        threads \
+        zlib \
+        no-mdc2 no-ec2m no-sm2 no-sm4 \
+        disable-tests
 
-  sed -i "s|-O3|$CFLAGS|" Makefile
+    sed -i "s|-O3|$CFLAGS|" Makefile
 
-  make depend
-  make
-  make MANSUFFIX=ssl DESTDIR=$PKG install_sw install_ssldirs install_man_docs
+    make depend
+    make
+    make MANSUFFIX=ssl DESTDIR=$PKG install_sw install_ssldirs install_man_docs
 
-  find $PKG -name "*fips*" -delete
-  install -D -m 755 $SRC/mksslcert.sh $PKG/usr/bin/mksslcert
+    find $PKG -name "*fips*" -delete
+    install -D -m 755 $SRC/mksslcert.sh $PKG/usr/bin/mksslcert
 }
