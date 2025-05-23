@@ -92,11 +92,11 @@ f:831f8a6e42441c8d76271655ce276c1e:pkgconf/aarch64-unknown-linux-gnu.personality
 f:6fec70b14f238ad94caf5dac367ee427:pkgconf/README
 f:9ac9b930ede309af621c65a2c6831b1b:pkgconf/Pkgfile
 f:723e7dd6da3be97a11be0829ca62cb49:pkgconf/.signature
-f:a80b5e2835c01ffcd3fc135c8d05c0cc:gcc/.footprint
+f:4a5e912034f27c5bff48c7aab47051b2:gcc/.footprint
 f:7c9128522053af79791bcfdd55834c2a:gcc/gcc-nocheck-fixincludes.patch
 f:dd44eeb6b7d12824ac0eb56e95713a59:gcc/gcc-aarch64-dirs.patch
-f:0df8c9a8b5bc19d5ab81f9815ea22b9c:gcc/Pkgfile
-f:f9357b11d03f9192ebb26f6d6a6e9b68:gcc/.signature
+f:e07ce113cea15d476863fe14dacee4cc:gcc/Pkgfile
+f:89703cc679f412f031f91f3aba4c2a0d:gcc/.signature
 f:314c9a03efc77e6867619c85aa5e3194:ninja/.footprint
 f:365486cb1eb45a6e0bfe4b3602f429e2:ninja/Pkgfile
 f:1f91bc0ea732e3b62b2be79727763751:ninja/.signature
