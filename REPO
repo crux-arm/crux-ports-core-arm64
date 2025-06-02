@@ -131,6 +131,6 @@ f:adcb186895f9da2d1e20c380ef10f7cc:pkgutils/.signature
 f:43f50f79643bb5919e310b44f4eb6a8d:libmpc/.footprint
 f:b6d495025045f1af39e7e4dd415eaf87:libmpc/Pkgfile
 f:64ee6fbe47a8ba20adf69639fd41db9f:libmpc/.signature
-f:cedc5025aefdb42a0f4713fce634831d:kbd/.footprint
-f:d3d1af5fd4e3d16fa3735ea70b1d5201:kbd/Pkgfile
-f:a2cc2b6fb35850563bc19e1ad665bd05:kbd/.signature
+f:979d8e162b2b46fc6552dc51a126983a:kbd/.footprint
+f:580dc17ebea67f371c719c341183315f:kbd/Pkgfile
+f:6c30498a30c3e40650cbcd5d98ca54ed:kbd/.signature
