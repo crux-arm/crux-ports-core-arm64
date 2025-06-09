@@ -108,8 +108,8 @@ f:93464384634f815bf46a995f74823c5e:filesystem/passwd
 f:a0bb1d24d8d1728a4d9d4bbdbba4237d:filesystem/group
 f:346ede8d637940e2898cd29c56a37d30:filesystem/mime.types
 f:dc4ff0c96d8dcd2141febc8b766e9a6b:filesystem/shells
-f:283893deeff83c349b5487e2382a3d2b:filesystem/Pkgfile
-f:1583b8ac04ab83430cad81fcde616f04:filesystem/.signature
+f:36840853fcd7220b77a9230c36ddf39a:filesystem/Pkgfile
+f:a7a05191b674b0ae3388e666a958e6e9:filesystem/.signature
 f:a79aae150aa240b06d52cc22d41bd3b6:filesystem/shadow
 f:d41d8cd98f00b204e9800998ecf8427e:filesystem/motd
 f:ca7fdb258fb59cd2566baab1127baaed:python3/.footprint
