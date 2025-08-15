@@ -73,6 +73,7 @@ f:58867be9286ece55adff1226216fdd9f:glibc/locale-gen
 f:067a37296af7c6a811dc6f56e1db1ac0:glibc/Pkgfile
 f:acf9daad1ee85de5efd3543965596a63:glibc/resolv.conf
 f:5144c947aeca04bffaf957022ffd639a:glibc/glibc-2.40-1.patch
+f:f31b61cf46f381efb632b6a53834850b:core-arm64.rsync
 f:018a0b78f1c6a8b3aa99418d006d8cdd:ports/opt-arm64.rsync
 f:1c52a4d18e7f8a3ea4d3123021fedbc8:ports/xorg-arm64.rsync
 f:b8dd0aad383810cad920d6548cd1cb56:ports/core.pub
